@@ -21,9 +21,9 @@ categories:
   - links
   - miscellany
 ---
-  * [Switchery &#8211; iOS 7 style switches for your checkboxes](http://abpetkov.github.io/switchery/ "Switchery - iOS 7 style switches for your checkboxes")
+  * [Switchery - iOS 7 style switches for your checkboxes](http://abpetkov.github.io/switchery/ "Switchery - iOS 7 style switches for your checkboxes")
   * [ResponsiveImages.org](http://responsiveimages.org/ "ResponsiveImages.org") &raquo; [The picture Element](http://picture.responsiveimages.org/ "The picture Element")
-  * [SnapClean.me &#8211; Dead Simple Photo Cleanup](http://snapclean.me/ "SnapClean.me - Dead Simple Photo Cleanup")
+  * [SnapClean.me - Dead Simple Photo Cleanup](http://snapclean.me/ "SnapClean.me - Dead Simple Photo Cleanup")
   * [Welcome to the Gilmore Car Museum](http://www.gilmorecarmuseum.org/ "Welcome to the Gilmore Car Museum")
   * [JavaScript Patterns](http://shichuan.github.io/javascript-patterns/ "JavaScript Patterns")
   * [File Directory List](http://halgatewood.com/free/file-directory-list/ "File Directory List")

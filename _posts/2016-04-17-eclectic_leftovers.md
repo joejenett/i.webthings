@@ -23,7 +23,7 @@ kind:
   - Article
 ---
   * [NetValley](http://netvalley.com/ "NetValley")
-  * [CaptionBot &#8211; For pictures worth the thousand words](https://www.captionbot.ai/ "CaptionBot - For pictures worth the thousand words")
+  * [CaptionBot - For pictures worth the thousand words](https://www.captionbot.ai/ "CaptionBot - For pictures worth the thousand words")
   * [Why I don&#8217;t like smartphones](https://www.devever.net/~hl/smartphones "Why I don't like smartphones")
   * [Spybot Anti-Beacon for Windows](https://www.safer-networking.org/spybot-anti-beacon/ "Spybot Anti-Beacon for Windows") ∗
   * [Apple did not invent emoji](https://eev.ee/blog/2016/04/12/apple-did-not-invent-emoji/ "Apple did not invent emoji")

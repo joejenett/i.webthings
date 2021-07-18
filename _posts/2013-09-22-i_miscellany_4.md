@@ -17,6 +17,6 @@ categories:
   - links
   - miscellany
 ---
-  * [Frontback &#8211; You, and what you see.](http://frontback.me/)
+  * [Frontback - You, and what you see.](http://frontback.me/)
   * [PuTTY: A Free Telnet/SSH Client](http://www.chiark.greenend.org.uk/~sgtatham/putty/)
-  * [Stylify Me &#8211; Online Style Guide Generator](http://stylifyme.com/)
+  * [Stylify Me - Online Style Guide Generator](http://stylifyme.com/)

@@ -48,7 +48,7 @@ categories:
     > That&#8217;s 205 failures, an actual link rot figure of 91%- 
 
   * [Pure CSS analog clock](http://apps.eky.hk/css3clock/) 
-  * [xSort &#8211; Free card sorting application for Mac OS X](http://xsortapp.com/) <small>*</small> 
+  * [xSort - Free card sorting application for Mac OS X](http://xsortapp.com/) <small>*</small> 
   * [Polaroid Cube – The New HD Lifestyle Camera](http://polaroidcube.com/) <small>$</small> 
 
 <small><br /> * This is not an endorsement.<br /> $ Commercial (no affiliation).<br /> </small>

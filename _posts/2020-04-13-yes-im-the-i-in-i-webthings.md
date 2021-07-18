@@ -22,10 +22,10 @@ kind:
   - Note
 ---
 <div style="font-size:1.2em;line-height:1.5em;">
-  I remember referring to a certain doctor with major skills in a rare specialty as the cowboy who came out of the night to save me some years ago. That&#8217;s <em>cowboy</em> in a most affectionate way &#8211; it was my way of complimenting him. It&#8217;s a favorable term to me and if someone called me a cowboy, I would probably take it as a compliment.</p> 
+  I remember referring to a certain doctor with major skills in a rare specialty as the cowboy who came out of the night to save me some years ago. That&#8217;s <em>cowboy</em> in a most affectionate way - it was my way of complimenting him. It&#8217;s a favorable term to me and if someone called me a cowboy, I would probably take it as a compliment.</p> 
   
   <p>
-    So when I read <a href="https://www.kickscondor.com/okay-shut-up-about-me-now/" title="Okay, Shut Up About Me Now">this</a> and saw the term <em>link cowboy</em> and indulged my inner narcissist a bit, I told myself, “If anyone&#8217;s a link cowboy, I am.” I wondered if Kicks might indeed be referring to me. Naw, that&#8217;s ridiculous Joe &#8211; get over yourself! “Silly,” I thought, pushing my ego and its dumb thoughts to the back of my mind.
+    So when I read <a href="https://www.kickscondor.com/okay-shut-up-about-me-now/" title="Okay, Shut Up About Me Now">this</a> and saw the term <em>link cowboy</em> and indulged my inner narcissist a bit, I told myself, “If anyone&#8217;s a link cowboy, I am.” I wondered if Kicks might indeed be referring to me. Naw, that&#8217;s ridiculous Joe - get over yourself! “Silly,” I thought, pushing my ego and its dumb thoughts to the back of my mind.
   </p>
   
   <p>

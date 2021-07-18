@@ -50,7 +50,7 @@ categories:
   </p>
   
   <p>
-    this is the color of darkness, but when i wear it, i still feel bright and go lucky as usual. however, when i wear this color, i feel like i&#8217;m partaking along with the crowd. and that is surely not me. i&#8217;m not a crowd pleaser, i am a me pleaser. but thats ok &#8211; im still going to wear this color with pride, even if it means slightly fitting in.
+    this is the color of darkness, but when i wear it, i still feel bright and go lucky as usual. however, when i wear this color, i feel like i&#8217;m partaking along with the crowd. and that is surely not me. i&#8217;m not a crowd pleaser, i am a me pleaser. but thats ok - im still going to wear this color with pride, even if it means slightly fitting in.
   </p>
 </div>
 

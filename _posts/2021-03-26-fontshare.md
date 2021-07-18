@@ -29,4 +29,4 @@ categories:
 kind:
   - Bookmark
 ---
-Proprietary freeware from a commercial foundry &#8211; they dedicate 25% of their Latin-based fonts to this collection of free fonts.
+Proprietary freeware from a commercial foundry - they dedicate 25% of their Latin-based fonts to this collection of free fonts.

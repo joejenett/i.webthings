@@ -192,7 +192,7 @@ I&#8217;ve been working on a project to improve the search functionality of the 
   </p>
   
   <p>
-    I see the old doll&#8217;s pram in the trash &#8211; remembering that she played with it incessantly, remembering the cat dressed in doll&#8217;s clothes and tucked up inside without a protest. Now it&#8217;s wheels are gone and it seems a sacrilege
+    I see the old doll&#8217;s pram in the trash - remembering that she played with it incessantly, remembering the cat dressed in doll&#8217;s clothes and tucked up inside without a protest. Now it&#8217;s wheels are gone and it seems a sacrilege
   </p>
   
   <p>

@@ -22,7 +22,7 @@ categories:
 kind:
   - Article
 ---
-The following sites have a few things in common &#8211; they were each originally featured as a _daily pointer_ 10 or more years ago and their sites have been regularly updated through a point in 2018. Kudos to all of them. And to you, enjoy!
+The following sites have a few things in common - they were each originally featured as a _daily pointer_ 10 or more years ago and their sites have been regularly updated through a point in 2018. Kudos to all of them. And to you, enjoy!
 
 Blogs:
 

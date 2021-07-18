@@ -22,7 +22,7 @@ categories:
   - links
   - miscellany
 ---
-  * [Chart.css &#8211; A Simple CSS Chart System](http://theus.github.io/chart.css/ "Chart.css - A Simple CSS Chart System")
+  * [Chart.css - A Simple CSS Chart System](http://theus.github.io/chart.css/ "Chart.css - A Simple CSS Chart System")
   * [Emoji Text Symbols](http://text-symbols.com/new-emoji/ "Emoji Text Symbols")
   * [Walker Art Center](http://www.walkerart.org/ "Walker Art Center")
   * [CacheCheck](https://cachecheck.opendns.com/ "CacheCheck")

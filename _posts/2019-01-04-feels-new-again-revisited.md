@@ -41,7 +41,7 @@ To reply to some points made in the [conversation at Kicks Condor](https://ww
 
 > -I think what you’re saying is that even a single-line annotation of a link, even just a few words of human curation do wonders when you’re out discovering the world- 
 
-Exactly. I'll add that the words might bring not only insight as to the content linked to but also to the user experience one might expect when following the link. In my example, pointing out the ‘overly commercial tone’ was appreciated because frankly, I don't enjoy commercial sites that much unless I'm looking for something to buy &#8211; linking to them doesn't fit my admittedly subjective criteria. I like to think people who follow my links regularly might also enjoy business-free, ad-free surfing. That's part of what I'm trying to accomplish &#8211; connecting people to an atypical surfing experience. Adding “(ads)” or some other simple note to a link if it applies seems the considerate thing to do. Human curation is powerful.
+Exactly. I'll add that the words might bring not only insight as to the content linked to but also to the user experience one might expect when following the link. In my example, pointing out the ‘overly commercial tone’ was appreciated because frankly, I don't enjoy commercial sites that much unless I'm looking for something to buy - linking to them doesn't fit my admittedly subjective criteria. I like to think people who follow my links regularly might also enjoy business-free, ad-free surfing. That's part of what I'm trying to accomplish - connecting people to an atypical surfing experience. Adding “(ads)” or some other simple note to a link if it applies seems the considerate thing to do. Human curation is powerful.
 
 > You also mention in your essay that you ‘curate links for my own ongoing use’. Whereas I tend to ‘advertise’ links more, to bring attention to the parts of the web that I want to survive. 
 
@@ -53,4 +53,4 @@ When I said, “people finding me and finding some of my links enjoyable and/or 
 
 That's a cool, unique goal. I admire it but to me, the linkport is intended to connect people with things useful or interesting to them. I never saw connecting linked sites or people with each other as a goal, though it could be result in some cases. Connecting people at large with useful or interesting things is more what I'm after.
 
-I'll close with simple _thank you_ to Kicks. The conversation’s enlightening &#8211; your comments about webmentions inspired some recent, much-needed improvements to several of my blogs I&#8217;m working on, including this one.
+I'll close with simple _thank you_ to Kicks. The conversation’s enlightening - your comments about webmentions inspired some recent, much-needed improvements to several of my blogs I&#8217;m working on, including this one.

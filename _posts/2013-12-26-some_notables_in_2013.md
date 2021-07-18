@@ -24,10 +24,10 @@ kind:
 ---
   * [OldSF](http://www.oldsf.org/ "OldSF")
   * [Wikivoyage](http://en.wikivoyage.org/wiki/Main_Page "Wikivoyage")
-  * [Fancy Input &#8211; CSS3 text typing effects for input fields](http://dropthebit.com/demos/fancy_input/fancyInput.html "Fancy Input - CSS3 text typing effects for input fields")
-  * [cortesi &#8211; Google, destroyer of ecosystems](http://corte.si/posts/socialmedia/rip-google-reader.html "cortesi - Google, destroyer of ecosystems")
+  * [Fancy Input - CSS3 text typing effects for input fields](http://dropthebit.com/demos/fancy_input/fancyInput.html "Fancy Input - CSS3 text typing effects for input fields")
+  * [cortesi - Google, destroyer of ecosystems](http://corte.si/posts/socialmedia/rip-google-reader.html "cortesi - Google, destroyer of ecosystems")
   * [Hummingbird](http://www.hummingbirdnotation.com/ "Hummingbird")
-  * [URLs are for People, not Computers &#8211; Not Implemented](http://www.not-implemented.com/urls-are-for-people-not-computers/ "URLs are for People, not Computers - Not Implemented")
+  * [URLs are for People, not Computers - Not Implemented](http://www.not-implemented.com/urls-are-for-people-not-computers/ "URLs are for People, not Computers - Not Implemented")
   * [Tetr.js](http://simon.lc/tetr.js/ "Tetr.js")
   * [Colours](http://webcolourdata.com/ "Colours")
   * [WelcomeMat.co](http://welcomemat.co/ "WelcomeMat.co")

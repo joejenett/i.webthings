@@ -62,7 +62,7 @@ categories:
   - links
   - miscellany
 ---
-  * [Ghost &#8211; Just a blogging platform](https://ghost.org/ "Ghost - Just a blogging platform") <small>*f</small></p> 
+  * [Ghost - Just a blogging platform](https://ghost.org/ "Ghost - Just a blogging platform") <small>*f</small></p> 
     > Ghost is a simple, powerful publishing platform that allows you to share your story with the world. 
 
   * [Keybase](https://keybase.io/ "Keybase")</p> 
@@ -71,7 +71,7 @@ categories:
   * [import.io | Free Structured Web Data Scraping Tool](https://import.io/ "import.io | Free Structured Web Data Scraping Tool") <small>*f</small></p> 
     > Turn the web into data, today. Transform any website into a table of data or an API in minutes without even writing any code with our free app 
 
-  * [Myth &#8211; CSS the way it was imagined.](http://www.myth.io/ "Myth - CSS the way it was imagined.")</p> 
+  * [Myth - CSS the way it was imagined.](http://www.myth.io/ "Myth - CSS the way it was imagined.")</p> 
     > Myth is a preprocessor that lets you write pure CSS without having to worry about slow browser support, or even slow spec approval.  
     > It&#8217;s like a CSS polyfill. 
 
@@ -81,8 +81,8 @@ categories:
   * [Media Queries](http://mediaqueri.es/ "Media Queries") <small>*a</small></p> 
     > A collection of inspirational websites using media queries and responsive web design. 
 
-  * [Text-to-911: Quick Facts & FAQs &#8211; FCC.gov](http://www.fcc.gov/guides/text-911-quick-facts-faqs "Text-to-911: Quick Facts & FAQs - FCC.gov") 
+  * [Text-to-911: Quick Facts & FAQs - FCC.gov](http://www.fcc.gov/guides/text-911-quick-facts-faqs "Text-to-911: Quick Facts & FAQs - FCC.gov") 
 
 <div style="border-top:1px dashed #999;padding-top:6px;padding-left:24px;">
-  <small><br /> *a &#8211; Ads or affiliate links<br /> *f &#8211; Freemium<br /> $ &#8211; Commercial<br /> * &#8211; This is not an endorsement.<br /> </small>
+  <small><br /> *a - Ads or affiliate links<br /> *f - Freemium<br /> $ - Commercial<br /> * - This is not an endorsement.<br /> </small>
 </div>

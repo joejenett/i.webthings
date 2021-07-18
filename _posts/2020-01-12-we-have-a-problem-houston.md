@@ -19,7 +19,7 @@ categories:
 kind:
   - Note
 ---
-Update 01/14/20 &#8211; Problem was not due to WordPress. It was a server configuration problem (on my end) and is now resolved. Yay!  
+Update 01/14/20 - Problem was not due to WordPress. It was a server configuration problem (on my end) and is now resolved. Yay!  
 <strike>  
 Syndicating of posts from all the webthings has gone awry. I&#8217;m troubleshooting the problem and hopefully, things will be back to normal soon.
 

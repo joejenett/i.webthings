@@ -46,7 +46,7 @@ mf2_mp-syndicate-to:
 categories:
   - viewpoints
 ---
-I recently came across a [Pinboard user](https://pinboard.in/u:amoore)&#8216;s note on a bookmark: “Overly commercial tone but looks useful.” That simple note made me think about the web and _linking_ and what it all means to me. On the same day, I caught up with a conversation at Micro.blog, where [@kicks](https://micro.blog/kicks) had asked me several thought-provoking questions I&#8217;ve been pondering since then. He really got me thinking about about the web and _linking_ &#8211; so here we are. I hope I address at least some of his questions.
+I recently came across a [Pinboard user](https://pinboard.in/u:amoore)&#8216;s note on a bookmark: “Overly commercial tone but looks useful.” That simple note made me think about the web and _linking_ and what it all means to me. On the same day, I caught up with a conversation at Micro.blog, where [@kicks](https://micro.blog/kicks) had asked me several thought-provoking questions I&#8217;ve been pondering since then. He really got me thinking about about the web and _linking_ - so here we are. I hope I address at least some of his questions.
 
 ## The indieweb and platforms like Micro.blog are helping to bring the personal web back home.
 

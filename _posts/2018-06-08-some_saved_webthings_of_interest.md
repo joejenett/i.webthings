@@ -33,7 +33,7 @@ categories:
   * [friendica – A Decentralized Social Network](https://friendi.ca/ "friendica – A Decentralized Social Network")
   * [Fediverse](https://fediverse.party/ "Fediverse")
   * [OpenStreetMap Nominatim: Search](https://nominatim.openstreetmap.org/ "OpenStreetMap Nominatim: Search")
-  * [Troy &#8211; Responsive web tester](http://troy.labs.daum.net/ "Troy - Responsive web tester")
+  * [Troy - Responsive web tester](http://troy.labs.daum.net/ "Troy - Responsive web tester")
   * [Carbon Design System](http://www.carbondesignsystem.com/ "Carbon Design System")
   * [Citizens Police Data Project](https://cpdb.co/findings/ "Citizens Police Data Project")
   * [Stinkmoji](https://stinkmoji.cool/ "Stinkmoji")

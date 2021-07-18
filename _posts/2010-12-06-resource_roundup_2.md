@@ -62,5 +62,5 @@ Color
 
   * [color vision](http://www.handprint.com/LS/CVS/color.html)
   * [CSS Prism](http://cssprism.com/)
-  * [Color pixel wall &#8211; Colorpx](http://colorpx.com/)
+  * [Color pixel wall - Colorpx](http://colorpx.com/)
   * [Color Glossary](http://hilbert.people.uic.edu/Glossary.html)
