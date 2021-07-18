@@ -17,7 +17,8 @@ mf2_syndication:
 Thanks to the following blogs for having participated in the _personal web explorer_ project (discontinued as of 06/24/20):
 <ul>
 <li style="margin-top:12px;"><a href="https://paulopinto.page/">Paulo Pinto</a><br /> 
-    My digital diary. A place for sharing thoughts, ideas, music, literature and photographs./li>
+    My digital diary. A place for sharing thoughts, ideas, music, literature and photographs.
+    </li>
 <li style="margin-top:12px;">
   <a href="https://andrewcanion.com/">About Andrew Canion</a><br />My home on the internet that provides pointers to the range of varied things I do, from blogging to podcasting, to working.
 </li>
