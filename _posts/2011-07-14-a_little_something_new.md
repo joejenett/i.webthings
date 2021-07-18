@@ -21,7 +21,7 @@ categories:
 kind:
   - Article
 ---
-I encounter a lot of cool things everyday that I&#8217;ve wanted to share by _reblogging_ them but needed a place to do so. Still experimental at the moment, I invite you to explore my latest _i.webthing_, [linkscatter](http://linkscatter.com/)&#8230;
+I encounter a lot of cool things everyday that I&#8217;ve wanted to share by _reblogging_ them but needed a place to do so. Still experimental at the moment, I invite you to explore my latest _i.webthing_, [linkscatter](http://linkscatter.com/)-
 
 [<img style="border: none; margin: 24px 0;" src="/images/lscatter.jpg" alt="linkscatter" />](http://linkscatter.com/ "linkscatter")
 

@@ -31,7 +31,7 @@ complete_open_graph:
 categories:
   - i.webthings
 ---
-Short urls have become the new way of linking thanks to [Twitter](http://twitter.com/iwebthings/) and though I&#8217;m not really crazy about the concept, I decided that if I need to use short urls to automagically show various i.webthings updates in my Twitter feed (using [_Twitterfeed_](http://twitterfeed.com/)), I might as well use my own domain to personalize it a bit. So here&#8217;s some _iwebthin.gs_ pointers to the _iwebthings_&#8230;
+Short urls have become the new way of linking thanks to [Twitter](http://twitter.com/iwebthings/) and though I&#8217;m not really crazy about the concept, I decided that if I need to use short urls to automagically show various i.webthings updates in my Twitter feed (using [_Twitterfeed_](http://twitterfeed.com/)), I might as well use my own domain to personalize it a bit. So here&#8217;s some _iwebthin.gs_ pointers to the _iwebthings_-
 
   * <http://iwebthin.gs/iwebthings>
   * <http://iwebthin.gs/simplypersonal>
@@ -45,4 +45,4 @@ Short urls have become the new way of linking thanks to [Twitter](http://twitter
   * <http://iwebthin.gs/noPopunders>
   * <http://iwebthin.gs/colorspeak>
 
-Whatever&#8230; ;-))
+Whatever- ;-))

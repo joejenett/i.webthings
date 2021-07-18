@@ -1,6 +1,6 @@
 ---
 id: 28
-title: 'having fun with it&#8230;'
+title: 'having fun with it-'
 date: 2011-07-27T17:01:36-04:00
 author: joe jenett
 layout: post

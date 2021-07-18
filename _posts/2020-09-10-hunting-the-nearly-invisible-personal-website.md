@@ -1,6 +1,6 @@
 ---
 id: 3561
-title: 'Hunting the Nearly-Invisible Personal Website&diams;'
+title: 'Hunting the Nearly-Invisible Personal Website'
 date: 2020-09-10T13:53:04-04:00
 author: joe jenett
 layout: post

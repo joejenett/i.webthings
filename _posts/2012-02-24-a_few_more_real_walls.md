@@ -1,6 +1,6 @@
 ---
 id: 35
-title: 'a few more (real) walls&#8230;'
+title: 'a few more (real) walls-'
 date: 2012-02-24T05:57:46-05:00
 author: joe jenett
 layout: post
@@ -22,7 +22,7 @@ categories:
 kind:
   - Article
 ---
-&#8230;from the [archives](http://www.jenett.org/photo/?p=walls/):
+-from the [archives](http://www.jenett.org/photo/?p=walls/):
 
 <img style="border: none;" src="/images/accept_no_imitations_375.jpg" alt="accept no imitations" /> 
 

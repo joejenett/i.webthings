@@ -38,7 +38,7 @@ All of the &#8220;Recently Noticed&#8221; links posted to [the dailywebthing](ht
   * [National Tie Day](http://iwebthin.gs/TieDay)
   * [Should I Work for Free?](http://www.shouldiworkforfree.com/)
   * [W3Fools](http://w3fools.com/)
-  * [Google tracks you&#8230;](http://donttrack.us/)
+  * [Google tracks you-](http://donttrack.us/)
   * [Spritebox](http://www.spritebox.net/)
   * [rapportive](https://rapportive.com/)
   * [Orbs](http://orbs.com/)

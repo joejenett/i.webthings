@@ -44,7 +44,7 @@ categories:
 kind:
   - Article
 ---
-An assortment of resources and tools from the archives of [the dailywebthing](http://dailywebthing.com/linkport/)&#8230;
+An assortment of resources and tools from the archives of [the dailywebthing](http://dailywebthing.com/linkport/)-
 
 Icons
 

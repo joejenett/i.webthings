@@ -33,7 +33,7 @@ categories:
   * [baffle.js](https://camwiegert.github.io/baffle/ "baffle.js")  
     A tiny (~1.8kb) javascript library for obfuscating and revealing text in DOM elements.
   * [Do I leak?](https://www.doileak.com/ "Do I leak?")  
-    Your digital footprint might be giving you away&#8230;
+    Your digital footprint might be giving you away-
   * [Express](http://expressjs.com/ "Express")  
     Fast, unopinionated, minimalist web framework for Node.js
   * [Helium](http://heliumfloats.com/ "Helium")  
@@ -41,7 +41,7 @@ categories:
   * [hledger](http://hledger.org/ "hledger")  
     Simple, precise, plain text accounting.
   * [Responsive Typo](https://ibevanmeenen.me/pages/lab/responsive-typo/responsive-typo "Responsive Typo")  
-    Font-size based on your screen-size&#8230; In pure css please.
+    Font-size based on your screen-size- In pure css please.
   * [rscss](http://rscss.io/ "rscss")  
     Styling CSS without losing your sanity
   * [Rspamd](https://rspamd.com/ "Rspamd")  

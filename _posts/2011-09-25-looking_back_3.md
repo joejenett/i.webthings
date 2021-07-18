@@ -1,6 +1,6 @@
 ---
 id: 31
-title: 'looking back&#8230; (3)'
+title: 'looking back- (3)'
 date: 2011-09-25T07:13:23-04:00
 author: joe jenett
 layout: post

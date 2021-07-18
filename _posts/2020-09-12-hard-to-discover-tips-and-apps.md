@@ -1,6 +1,6 @@
 ---
 id: 3602
-title: 'Hard to discover tips and apps for making macOS pleasant&diams;'
+title: 'Hard to discover tips and apps for making macOS pleasant'
 date: 2020-09-12T17:42:21-04:00
 author: joe jenett
 layout: post

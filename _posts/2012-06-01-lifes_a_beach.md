@@ -1,6 +1,6 @@
 ---
 id: 40
-title: 'life&#8217;s a beach&#8230;'
+title: 'life&#8217;s a beach-'
 date: 2012-06-01T14:21:24-04:00
 author: joe jenett
 layout: post

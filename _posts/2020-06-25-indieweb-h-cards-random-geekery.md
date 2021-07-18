@@ -1,6 +1,6 @@
 ---
 id: 3070
-title: 'Indieweb h-cards&diams;'
+title: 'Indieweb h-cards'
 date: 2020-06-25T14:37:04-04:00
 author: joe jenett
 layout: post

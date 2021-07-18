@@ -22,7 +22,7 @@ categories:
 kind:
   - Article
 ---
-I recently [posted](http://bulltown.com/simply.personal/firstfull/) my favorite [pencam](http://jenett.org/photo/?p=pencam) shot at [simply.personal](http://bulltown.com/simply.personal/) – here&#8217;s a few others I also like from long ago&#8230;
+I recently [posted](http://bulltown.com/simply.personal/firstfull/) my favorite [pencam](http://jenett.org/photo/?p=pencam) shot at [simply.personal](http://bulltown.com/simply.personal/) – here&#8217;s a few others I also like from long ago-
 
 [<img style="border: none; margin: 6px 0;" src="/images/always_seeking_375.jpg" alt="always seeking" />](http://jenett.org/photo/?p=image/always_seeking)
 

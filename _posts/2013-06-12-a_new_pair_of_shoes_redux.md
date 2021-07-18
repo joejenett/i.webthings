@@ -23,7 +23,7 @@ Here&#8217;s the plan. I&#8217;m gonna start a website to give you a special lit
 
 This is Web 2.0 baby. We can all pretend to be whatever we want and monetize even the crappiest of content. We&#8217;re all in it for the game and we ain&#8217;t gotta work no more. I love the web and it loves me. Yeah, right!
 
-Get a grip, Joe. Wake up. You&#8217;re just having a bad dream&#8230;
+Get a grip, Joe. Wake up. You&#8217;re just having a bad dream-
 
 <small>(originally published <a href="https://simply.personal.jenett.org/a_new_pair_of_shoes/">7/15/10</a> @ <a href="http://bulltown.com/simply.personal/">jenett.simply.personal</a>) </small>
 

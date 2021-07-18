@@ -1,6 +1,6 @@
 ---
 id: 4110
-title: 'Atlas of Surveillance&diams;'
+title: 'Atlas of Surveillance'
 date: 2020-11-09T06:45:24-05:00
 author: joe jenett
 layout: post

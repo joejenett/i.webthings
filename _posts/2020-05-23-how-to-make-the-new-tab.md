@@ -1,6 +1,6 @@
 ---
 id: 2733
-title: 'How to Make the New Tab Page Dark Themed in Firefox&diams;'
+title: 'How to Make the New Tab Page Dark Themed in Firefox'
 date: 2020-05-23T08:14:40-04:00
 author: joe jenett
 layout: post

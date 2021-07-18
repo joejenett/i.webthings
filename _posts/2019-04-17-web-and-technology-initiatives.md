@@ -23,7 +23,7 @@ kind:
 
 [Humane by Design](https://humanebydesign.com/ "Humane by Design")
 
-> &#8230;a resource that provides guidance for designing ethically humane digital products through patterns focused on user well-being. 
+> -a resource that provides guidance for designing ethically humane digital products through patterns focused on user well-being. 
 
 [<img src="/wp-content/uploads/2019/04/humane.jpg" alt="Humane by Design" style="border:none;width:550px;" />](https://humanebydesign.com/ "Humane by Design") 
 

@@ -29,7 +29,7 @@ categories:
   - miscellany
 ---
   * [How To Add Emoji Support To Any Website](https://blog.farrant.me/adding-emoji-support-to-any-website/ "How To Add Emoji Support To Any Website")  
-    Browser support for Emoji rendering is still quite poor, so there&#8217;s no guarantee that a user will be able to see the glorious Emojis you&#8217;ve spent so long selecting&#8230;
+    Browser support for Emoji rendering is still quite poor, so there&#8217;s no guarantee that a user will be able to see the glorious Emojis you&#8217;ve spent so long selecting-
   * [Device and Viewport Size In JavaScript](http://ryanve.com/lab/dimensions/ "Device and Viewport Size In JavaScript")  
     Live comparison of how to get current viewport size and device dimensions in JavaScript and jQuery.
   * [Inferno](https://infernojs.org/ "Inferno")  

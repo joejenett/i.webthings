@@ -1,6 +1,6 @@
 ---
 id: 161
-title: '&#8230;feels new again (revisited)'
+title: '-feels new again (revisited)'
 date: 2019-01-04T14:11:00-05:00
 author: joe jenett
 excerpt: |
@@ -39,7 +39,7 @@ kind:
 ---
 To reply to some points made in the [conversation at Kicks Condor](https://www.kickscondor.com/the-web-finally-feels-new-again) which originated from [here](https://iwebthings.com/i.webthings/the_web_finally_feels_new_again/):
 
-> &#8230;I think what you’re saying is that even a single-line annotation of a link, even just a few words of human curation do wonders when you’re out discovering the world&#8230; 
+> -I think what you’re saying is that even a single-line annotation of a link, even just a few words of human curation do wonders when you’re out discovering the world- 
 
 Exactly. I'll add that the words might bring not only insight as to the content linked to but also to the user experience one might expect when following the link. In my example, pointing out the ‘overly commercial tone’ was appreciated because frankly, I don't enjoy commercial sites that much unless I'm looking for something to buy &#8211; linking to them doesn't fit my admittedly subjective criteria. I like to think people who follow my links regularly might also enjoy business-free, ad-free surfing. That's part of what I'm trying to accomplish &#8211; connecting people to an atypical surfing experience. Adding “(ads)” or some other simple note to a link if it applies seems the considerate thing to do. Human curation is powerful.
 

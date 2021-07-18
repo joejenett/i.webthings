@@ -1,6 +1,6 @@
 ---
 id: 61
-title: 'Washington needs me&#8230;'
+title: 'Washington needs me-'
 date: 2013-10-02T18:07:51-04:00
 author: joe jenett
 layout: post
@@ -21,7 +21,7 @@ categories:
 kind:
   - Article
 ---
-&#8230;or, as I should say:
+-or, as I should say:
 
 <big>Washington (the House, that is) needs me &#8217;cause I haz credentials!</big>
 

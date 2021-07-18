@@ -5,7 +5,7 @@ date: 2016-05-10T12:07:07-04:00
 author: joe jenett
 excerpt: |
   
-  <p>I could have called this <em>the good, the bad, and the ugly</em> but since that&#8217;s a little cliché and already taken, I&#8217;ll stick with <em>adventures.</em> I do this thing daily and every session brings both joy and annoyance and in between those two extremes are things that simply provoke thought and wonder. So here we go with a few things encountered just this morning&#8230;</p>
+  <p>I could have called this <em>the good, the bad, and the ugly</em> but since that&#8217;s a little cliché and already taken, I&#8217;ll stick with <em>adventures.</em> I do this thing daily and every session brings both joy and annoyance and in between those two extremes are things that simply provoke thought and wonder. So here we go with a few things encountered just this morning-</p>
   <h2>good: obscure little gem</h2>
   <p>A blog with a single post from 2013 features a delightful music video from 2010 and though many of the links on the page are broken, I&#8217;d be a fool not to share it somewhere so <a href="https://blendycello.wordpress.com/2013/08/08/173/">enjoy</a>! </p>
   <h2>bad: what were they thinking</h2>

@@ -1,6 +1,6 @@
 ---
 id: 45
-title: 'one last slice&#8230;'
+title: 'one last slice-'
 date: 2012-06-23T15:46:41-04:00
 author: joe jenett
 layout: post

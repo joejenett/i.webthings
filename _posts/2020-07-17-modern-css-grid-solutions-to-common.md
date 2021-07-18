@@ -1,6 +1,6 @@
 ---
 id: 3222
-title: 'Modern CSS grid solutions to common layout problems&diams;'
+title: 'Modern CSS grid solutions to common layout problems'
 date: 2020-07-17T08:54:17-04:00
 author: joe jenett
 layout: post

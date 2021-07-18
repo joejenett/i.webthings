@@ -100,7 +100,7 @@ categories:
   - i.webthings
   - miscellany
 ---
-I&#8217;ve been working on a project to improve the search functionality of the _webthings_ and will be releasing some new search tools sometime soon. Stay tuned for that, but in the meantime, I&#8217;d like to share some interesting _colorspeak_ I discovered when searching for &#8220;story.&#8221; Enjoy&#8230;
+I&#8217;ve been working on a project to improve the search functionality of the _webthings_ and will be releasing some new search tools sometime soon. Stay tuned for that, but in the meantime, I&#8217;d like to share some interesting _colorspeak_ I discovered when searching for &#8220;story.&#8221; Enjoy-
 
 <div style="background-color: #ff00cc; color: #003300; padding: 12px; margin-top: 24px; margin-bottom: 12px;">
   <p>
