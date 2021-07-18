@@ -15,9 +15,9 @@ mf2_syndication:
   - 'a:0:{}'
 ---
 Thanks to the following blogs for having participated in the _personal web explorer_ project (discontinued as of 06/24/20):
-
-  * [Paulo Pinto](https://paulopinto.page/)  
-    My digital diary. A place for sharing thoughts, ideas, music, literature and photographs.
+<ul>
+<li style="margin-top:12px;">[Paulo Pinto](https://paulopinto.page/)  
+    My digital diary. A place for sharing thoughts, ideas, music, literature and photographs./li>
 <li style="margin-top:12px;">
   <a href="https://andrewcanion.com/">About Andrew Canion</a><br />My home on the internet that provides pointers to the range of varied things I do, from blogging to podcasting, to working.
 </li>
@@ -27,3 +27,4 @@ Thanks to the following blogs for having participated in the _personal web explo
 <li style="margin-top:12px;">
   <a href="https://postedlife.com/">Dominik&#8217;s Posted Life</a><br />It&#8217;s all about movies, music, games, tech, photos, life & my family. It&#8217;s my posted life.
 </li>
+</ul>
