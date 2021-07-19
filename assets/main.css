@@ -32,7 +32,9 @@ p, blockquote, pre,
 ul, ol, dl, figure,
 .highlight {
   margin-bottom: 15px; }
-
+#site-title h1  {
+margin:0;
+}
 /**
  * `main` element
  */
@@ -62,7 +64,6 @@ clear: both;
 }
 #site-title a {
 	color: #296c80;
-	font-size:2em;
 }
 #site-title {
 	margin-left: 96px;
