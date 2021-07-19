@@ -29,4 +29,8 @@ categories:
 kind:
   - Bookmark
 ---
+<section class="response u-bookmark-of h-cite">
+<header>
+<span class="svg-icon svg-bookmark" style="display: inline-block; max-height: 1rem; margin-right: 0.5rem;" aria-label="Bookmark" title="Bookmark"><span aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512"><path d="M0 512V48C0 21.49 21.49 0 48 0h288c26.51 0 48 21.49 48 48v464L192 400 0 512z"></path></svg></span></span><span class="kind-display-text">Bookmarked</span> <a href="https://www.fontshare.com/" class="p-name u-url">fontshare</a> <em>(<span class="p-publication">fontshare.com</span>)</em></header>
+<blockquote class="e-summary">It’s a growing collection of professional grade fonts that are 100% free for personal and commercial use. Our mission is to make high-quality and technically sound fonts accessible to everyone across the globe.</blockquote></section>
 Proprietary freeware from a commercial foundry - they dedicate 25% of their Latin-based fonts to this collection of free fonts.
