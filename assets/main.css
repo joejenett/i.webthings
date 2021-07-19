@@ -64,7 +64,8 @@ clear: both;
 	color: #296c80;
 }
 #site-title {
-	margin-left: 96px
+	margin-left: 96px;
+	height:60px;
 }
 
 #branding {
