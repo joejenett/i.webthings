@@ -75,6 +75,7 @@ clear: both;
 	border-radius: 8px;
 	margin: 30px auto 0 auto;
 	min-width:1000px;
+	max-height:84px;
 	
 
 }
