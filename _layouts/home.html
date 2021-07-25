@@ -12,10 +12,7 @@ layout: default
   {%- if site.posts.size > 0 -%}
     <!-- h2 class="post-list-heading">{{ page.list_title | default: "archive" }}</h2 -->
     <ul class="post-list" style="margin-bottom:48px;">
-      {% assign count = 0 %}
       {%- for post in site.posts -%}
-      {% assign count = count | plus:1}
-      {% if count == 4 %}{% break %}
       <li style="margin-bottom:6px;">
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
         <h3>
@@ -28,7 +25,6 @@ layout: default
         <p style="border-bottom:1px dashed #ccc;margin-bottom:48px;"><a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a></p>
         {%- endif -%}
       </li>
-  {% endif %}
       {%- endfor -%}
     </ul>
 
