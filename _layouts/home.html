@@ -15,7 +15,7 @@ layout: default
       {% assign count = 0 %}
       {%- for post in site.posts -%}
       {% assign count = count | plus:1}
-      {% if count < 4 %}
+      {% if count == 4 %}{% break %}
       <li style="margin-bottom:6px;">
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
         <h3>
