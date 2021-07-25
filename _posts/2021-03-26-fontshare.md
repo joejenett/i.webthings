@@ -30,7 +30,7 @@ kind:
   - Bookmark
 ---
 
-Bookmarked [fontshare](https://www.fontshare.com/) _(fontshare.com)_
+Bookmarked [fontshare](https://www.fontshare.com/)<!-- excerpt-end --> 
 > 
 > > It’s a growing collection of professional grade fonts that are 100% free for personal and commercial use. Our mission is to make high-quality and technically sound fonts accessible to everyone across the globe.
 
