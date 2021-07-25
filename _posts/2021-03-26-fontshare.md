@@ -29,4 +29,11 @@ categories:
 kind:
   - Bookmark
 ---
-Proprietary freeware from a commercial foundry &#8211; they dedicate 25% of their Latin-based fonts to this collection of free fonts.
+
+[fontshare – i.webthings hub](https://hub.iwebthings.com/fontshare/)
+
+> Bookmarked [fontshare](https://www.fontshare.com/) _(fontshare.com)_
+> 
+> > It’s a growing collection of professional grade fonts that are 100% free for personal and commercial use. Our mission is to make high-quality and technically sound fonts accessible to everyone across the globe.
+> 
+> Proprietary freeware from a commercial foundry – they dedicate 25% of their Latin-based fonts to this collection of free fonts.
