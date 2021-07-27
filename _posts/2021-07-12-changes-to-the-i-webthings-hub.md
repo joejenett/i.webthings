@@ -18,8 +18,10 @@ categories:
   - i.webthings
   - micro.blog
 kind:
-  - Note
+  - Note 
+  
 ---
+
 Effective immediately, posts from my various other sites will no longer be syndicated here.<!-- excerpt-end --> Previously syndicated posts are being removed (from this site only) but will remain intact on the sites from which they were syndicated. Sorry for any inconvenience this may cause.
 
 Thanks,
@@ -27,11 +29,12 @@ Thanks,
 joe jenett
 
 
+--- 
 
 
  5 previous thoughts on “changes to the i.webthings hub”
  
- 1.  ![](https://secure.gravatar.com/avatar/31e2703d793efd74179e750fdca610d1?s=50&d=identicon&r=pg) Poorchop says:
+  -  ![](https://secure.gravatar.com/avatar/31e2703d793efd74179e750fdca610d1?s=50&d=identicon&r=pg) Poorchop says:
      
      July 15, 2021 at 2:10 am 
          
