@@ -56,12 +56,7 @@ font-size:48px;
 letter-spacing:-1px;
 font-weight:700;"
 }
-@media only screen and (max-width:479px) {
-.titleme {
-font-size:24px;
-letter-spacing:0;
-}
-}
+
 hr {
 border-top:1px solid #ddd;
 border-bottom:1px solid #fff;
@@ -102,6 +97,15 @@ clear: both;
 	min-width: 1000px;
 }
 
+@media only screen and (max-width:479px) {
+.titleme {
+font-size:24px;
+letter-spacing:0;
+}
+#site-image {
+width:54px;
+}
+}
 
 /*
 end added
