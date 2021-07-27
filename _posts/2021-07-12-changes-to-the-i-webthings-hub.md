@@ -19,7 +19,6 @@ categories:
   - micro.blog
 kind:
   - Note 
-  
 ---
 
 Effective immediately, posts from my various other sites will no longer be syndicated here.<!-- excerpt-end --> Previously syndicated posts are being removed (from this site only) but will remain intact on the sites from which they were syndicated. Sorry for any inconvenience this may cause.
