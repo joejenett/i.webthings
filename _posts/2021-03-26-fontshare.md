@@ -29,9 +29,11 @@ categories:
 kind:
   - Bookmark
 ---
+<span class="kind-display-text">Bookmarked</span> <a href="https://www.fontshare.com/" class="p-name u-url">fontshare</a> <em>(<span class="p-publication">fontshare.com</span>)</em></header>
+<blockquote class="e-summary">It’s a growing collection of professional grade fonts that are 100% free for personal and commercial use. Our mission is to make high-quality and technically sound fonts accessible to everyone across the globe.</blockquote></section>
 
-Bookmarked [fontshare](https://www.fontshare.com/)<!-- excerpt-end --> 
-> 
-> > It’s a growing collection of professional grade fonts that are 100% free for personal and commercial use. Our mission is to make high-quality and technically sound fonts accessible to everyone across the globe.
-
-Proprietary freeware from a commercial foundry – they dedicate 25% of their Latin-based fonts to this collection of free fonts.
+</div>
+			<div class="entry-content e-content" itemprop="description articleBody">
+		<p>Proprietary freeware from a commercial foundry – they dedicate 25% of their Latin-based fonts to this collection of free fonts.</p>
+		
+B
