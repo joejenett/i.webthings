@@ -51,7 +51,17 @@ img {
 /*
 added
 */
-
+.titleme {
+font-size:48px;
+letter-spacing:-1px;
+font-weight:700;"
+}
+@media only screen and (max-width:479px) {
+.titleme {
+font-size:24px;
+letter-spacing:0;
+}
+}
 hr {
 border-top:1px solid #ddd;
 border-bottom:1px solid #fff;
