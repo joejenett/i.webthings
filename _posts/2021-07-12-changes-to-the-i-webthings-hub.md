@@ -29,6 +29,7 @@ joe jenett
 
 
 ---
+
  5 previous thoughts on “changes to the i.webthings hub”
  
  1.  ![](https://secure.gravatar.com/avatar/31e2703d793efd74179e750fdca610d1?s=50&d=identicon&r=pg) Poorchop says:
