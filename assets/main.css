@@ -91,12 +91,7 @@ top: -64px;
 	max-width:880px;
 }
 div.hcard-display {
-	padding: 3px 3px 3px 190px;
-	/*border: solid 1px #a3b8cc;
-	border-radius: 8px;*/
-	margin: 0 auto 0 auto;
-	max-width:905px;
-	clear:both;
+
 }
 .wrapper {
 clear:both;
@@ -117,7 +112,7 @@ margin-top:0;
 margin-bottom:0;
 }
 div.hcard-display {
-	padding: 3px;
+
 }
 }
 
