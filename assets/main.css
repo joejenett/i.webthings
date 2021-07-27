@@ -98,6 +98,7 @@ background: #fbffff;
 	border-bottom:1px solid #ddd;
 	margin: 0 auto 0 auto;
 	max-width:905px;
+	clear:both;
 }
 .wrapper {
 clear:both;
