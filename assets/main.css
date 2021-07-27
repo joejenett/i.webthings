@@ -94,7 +94,7 @@ div.hcard-display {
 	padding: 3px 3px 3px 190px;
 	/*border: solid 1px #a3b8cc;
 	border-radius: 8px;*/
-	margin: 12px auto 0 auto;
+	margin: 6px auto 0 auto;
 	max-width:905px;
 	clear:both;
 }
@@ -118,6 +118,7 @@ margin-bottom:0;
 }
 div.hcard-display {
 	padding: 3px;
+}
 }
 
 /*
