@@ -89,10 +89,11 @@ top: -64px;
 	border-radius: 8px;
 	margin: 30px auto 0 auto;
 	max-width:880px;
-	
-
 }
 
+.wrapper {
+clear:both;
+}
 #page {
 	min-width: 1000px;
 }
