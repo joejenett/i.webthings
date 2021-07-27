@@ -15,7 +15,7 @@ layout: default
     {% assign count = 0 %}
       {%- for post in site.posts -%}
       {% assign count = count | plus:1 %}
-      <li style="margin-bottom:6px;">
+      <li style="margin-top:16px;margin-bottom:6px;">
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
         <h3>
           <a class="post-link" href="{{ post.url | relative_url }}">

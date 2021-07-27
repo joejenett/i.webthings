@@ -27,7 +27,7 @@ Thanks,
 
 joe jenett
 
-
+<!-- excerpt-end -->
 --- 
 
 
