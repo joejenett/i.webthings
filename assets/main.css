@@ -91,7 +91,6 @@ top: -64px;
 	max-width:880px;
 }
 div.hcard-display {
-background: #fbffff;
 	padding: 3px 3px 3px 190px;
 	/*border: solid 1px #a3b8cc;
 	border-radius: 8px;*/
@@ -117,6 +116,8 @@ height:48px;
 margin-top:0;
 margin-bottom:0;
 }
+div.hcard-display {
+	padding: 3px;
 }
 
 /*
