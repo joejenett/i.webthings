@@ -28,7 +28,7 @@ joe jenett
 
 
 
-<div style="margin-top:48px;border-top:1px dashed #ccc;font-size:80%;">
+---
  5 previous thoughts on “changes to the i.webthings hub”
  
  1.  ![](https://secure.gravatar.com/avatar/31e2703d793efd74179e750fdca610d1?s=50&d=identicon&r=pg) Poorchop says:
@@ -71,4 +71,4 @@ joe jenett
              July 16, 2021 at 1:22 pm
              
              Thanks. Kind of sad to see the hub feed go but I can understand wanting to simplify things.
-  </div>
+ 
