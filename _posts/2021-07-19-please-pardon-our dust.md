@@ -3,6 +3,6 @@ layout: post
 title:  "Please Pardon our Dust"
 date:   2021-07-19 16:47:00 -0400
 ---
-I’m working on an idea here. Hopefully, there will be a bunch more here soon. Stay tuned.<!-- excerpt-end -->
+I’m working on an idea here. Hopefully soon, what you see here will be replaced with real content. Stay tuned.<!-- excerpt-end -->
 
-If this is done right, you'll only see this on the post page.
+Still working on it...
