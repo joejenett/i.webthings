@@ -90,7 +90,15 @@ top: -64px;
 	margin: 30px auto 0 auto;
 	max-width:880px;
 }
-
+div.hcard-display {
+background: #fbffff;
+	padding: 3px 3px 3px 190px;
+	/*border: solid 1px #a3b8cc;
+	border-radius: 8px;*/
+	border-bottom:1px solid #ddd;
+	margin: 0 auto 0 auto;
+	max-width:905px;
+}
 .wrapper {
 clear:both;
 }
