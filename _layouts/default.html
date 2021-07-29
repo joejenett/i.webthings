@@ -9,17 +9,37 @@
 
     <main class="page-content" aria-label="Content">
       <div class="wrapper">
-      <div class="hcard-display h-card vcard p-author">
-	<div class="hcard-header">
-		i.webthings is <a class="u-url url fn u-uid" href="https://iwebthings.jenett.org/" rel="author"><img alt="" src="https://secure.gravatar.com/avatar/0bf0445b4e4b39f830b186b7e23195a1?s=60&amp;d=default&amp;r=pg" srcset="https://secure.gravatar.com/avatar/0bf0445b4e4b39f830b186b7e23195a1?s=120&amp;d=default&amp;r=pg 2x" class="avatar avatar-60 photo u-photo hcard-photo u-photo" width="42" style="border-radius:24px;position:relative;top:-3px;"></a> <span class="hcard-name p-name n">joe jenett</span>, <span class="hcard-body hcard-properties p-note note"> a curator (of sorts)</span>
-	</div>
-</div>
+        <div class="onef">
         {{ content }}
+        </div>
+        <div class="twof">
+        <div class="thesidebar">
+        <div class="hcard-display h-card vcard p-author">
+			<div class="hcard-header">
+				<a class="u-url url fn u-uid" href="https://directory.iwebthings.com/" rel="author"><img alt="" src="https://secure.gravatar.com/avatar/0bf0445b4e4b39f830b186b7e23195a1?s=60&amp;d=default&amp;r=pg" srcset="https://secure.gravatar.com/avatar/0bf0445b4e4b39f830b186b7e23195a1?s=120&amp;d=default&amp;r=pg 2x" class="avatar avatar-60 photo u-photo hcard-photo u-photo" width="60" style="border-radius:24px;"></a>
+				<p class="hcard-name p-name n">
+					joe jenett
+				</p>
+			</div>
+			<div class="hcard-body">
+				<ul class="hcard-properties"></ul>
+				<p class="p-note note">
+					a curator (of sorts) - explore the web!
+				</p>
+			</div>
+		</div>
+
+            <div style="text-align:center;font-size:.7em;margin-bottom:48px;">
+<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" src="/images/by-nc-sa.png" style="margin:14px 0px 4px 0px;border:none;" width="88"></a><br> Content License: <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>.
+            </div>
+        {%- include social.html -%}
+        </div>
+        </div>
       </div>
     </main>
-
+<!--
     {%- include footer.html -%}
-
+-->
   </body>
 
 </html>
