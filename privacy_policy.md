@@ -16,7 +16,7 @@ mf2_syndication:
 ---
 ## Who we are
 
-Joe Jenett a/k/a i.webthings (“us”,“we”, or “our”) operates the websites at:
+Joe Jenett a/k/a i.webthings (“us”, “we”, or “our”) operates the websites at:
 
   * <a href="https://hub.iwebthings.com/" class="url" rel="noopener noreferrer">https://hub.iwebthings.com/</a>,
   * <a href="https://directory.iwebthings.com/" class="url" rel="noopener noreferrer">https://directory.iwebthings.com/</a>,
