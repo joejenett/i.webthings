@@ -14,8 +14,9 @@ inline_featured_image:
 mf2_syndication:
   - 'a:0:{}'
 ---
-## Who we are
+(07/29/21: Revisions are in progress - this information currently pertains to https://hub.iwebthings.com/ only.)
 
+## Who we are
 Joe Jenett a/k/a i.webthings (“us”, “we”, or “our”) operates the websites at:
 
   * <a href="https://hub.iwebthings.com/" class="url" rel="noopener noreferrer">https://hub.iwebthings.com/</a>,
