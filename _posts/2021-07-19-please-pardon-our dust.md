@@ -2,6 +2,7 @@
 layout: post
 title:  "Please Pardon our Dust"
 date:   2021-07-19 16:47:00 -0400
+permalink: /please-pardon-our-dust
 author: joe jenett
 categories: i-webthings
 ---
