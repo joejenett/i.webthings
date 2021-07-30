@@ -13,6 +13,19 @@ margin-bottom:24px;
 header {
 border:none;
 }
+.post-link {
+    font-weight: 600;
+   }
+article, .home {
+    border: 1px solid #a3b8cc;
+    background-color: #fbffff;
+    border-radius: 8px;
+    padding: 0 24px;
+   }
+.post-title {
+font-size:32px;
+font-weight:600;
+}
 #menu {
 margin-below:48px;
 }

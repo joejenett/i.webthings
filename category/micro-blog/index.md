@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: category
 permalink: /category/micro-blog/
 title: micro-blog
 ---

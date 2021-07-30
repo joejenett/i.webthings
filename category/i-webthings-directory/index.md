@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: category
 permalink: /category/i-webthings-directory/
 title: i-webthings-directory
 ---

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: category
 permalink: /category/personal/
 title: personal
 ---

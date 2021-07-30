@@ -14,7 +14,7 @@ layout: default
         • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.author }}</span></span>
       {%- endif -%}
             <span class="post-categories">
-    Posted in:
+    • posted in:
   {% if post %}
     {% assign categories = post.categories %}
   {% else %}
@@ -38,7 +38,7 @@ layout: default
   {%- if site.disqus.shortname -%}
     {%- include disqus_comments.html -%}
   {%- endif -%}
-
+<div style="background:#fff;z-index:100;border:1px solid #a3b8cc;border-radius:8px;margin-bottom:24px;">
   <script src="https://utteranc.es/client.js"
         repo="joejenett/i.webthings"
         issue-term="title"
@@ -46,6 +46,6 @@ layout: default
         crossorigin="anonymous"
         async>
 </script>
-  
+  </div>
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 </article>
