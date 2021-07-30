@@ -13,6 +13,10 @@ margin-bottom:24px;
 header {
 border:none;
 }
+#menu a {
+margin: 0 16px;
+font-weight:600;
+}
 #site-image {
 	position: relative;
 	float: left;

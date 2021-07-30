@@ -4,6 +4,4 @@
 
 layout: home
 ---
- <div style="text-align:right;">
- <a href="/archive.html">Archive</a>
- </div>
+ 
