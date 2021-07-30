@@ -15,8 +15,8 @@ complete_open_graph:
 mf2_syndication:
   - 'a:0:{}'
 categories:
-  - i.webthings
-  - micro.blog
+  - i-webthings
+  - micro-blog
 kind:
   - Note 
 ---
