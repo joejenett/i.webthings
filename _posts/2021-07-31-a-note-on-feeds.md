@@ -6,6 +6,9 @@ permalink: /a-note-on-feeds
 author: joe jenett
 categories: i-webthings
 ---
+<div style="border-bottom:1px solid #ccc;padding-bottom:12px;margin-bottom:12px;"><strong>Update</strong> 07/31/21 7:12 PM:<br />
+As part of the ongoing project to simplify things, several of the feeds shown may change in the near future. In that case, redirects for the feeds will be implemented and I'll provide additional information here on the blog. Just wanted to give you a heads up. Thx.
+</div>
 <p>For your convenience, following is a list of individual feeds for the key active <em>webthings</em> along with an downloadable OPML file including all of them to import into your news reader. Hoping some of you find this information useful.</p>
 <ul>
 <li><a href="https://hub.iwebthings.com/" title="">i.webthings hub</a> → <a href="https://hub.iwebthings.com/feed/" title="">RSS feed</a></li>
