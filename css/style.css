@@ -6,6 +6,9 @@ font-weight:700;"
 h1.page-heading {
 font-weight:600;
 }
+h4 {
+margin: 0;
+}
 hr {
 border-top:1px solid #ddd;
 border-bottom:1px solid #fff;
