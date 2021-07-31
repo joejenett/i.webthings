@@ -1,0 +1,43 @@
+---
+id: 436
+title: I’m on a mission here
+date: 2019-02-08T16:16:52-05:00
+author: joe jenett
+excerpt: |
+layout: post
+guid: https://iwebthings.com/i.webthings/?p=436
+permalink: /im-on-a-mission-here/
+classic-editor-remember:
+  - classic-editor
+mf2_mp-syndicate-to:
+  - 'a:1:{i:0;s:4:"none";}'
+complete_open_graph:
+  - 'a:7:{s:14:"og:description";s:0:"";s:8:"og:title";s:0:"";s:7:"og:type";s:0:"";s:12:"twitter:card";s:7:"summary";s:15:"twitter:creator";s:0:"";s:19:"twitter:description";s:0:"";s:8:"og:image";s:0:"";}'
+mf2_syndication:
+  - 'a:0:{}'
+categories:
+  - i-webthings
+---
+_i.webthings_ is a subset of [jenett.webthings](https://jenett.org/webthings/ "jenett.webthings"), _an independent web and networking initiative._ Two of its projects, _the dailywebthing linkport_ and _dailywebthing daily pointers_, born of my long-term appreciation of the potential of hypertext and the medium, have similar motivations behind them. I've been curating and sharing links online since 1997 and have continually done so because I enjoy doing it so much and get to help others discover new things in the process. The _linkport_ and _daily pointers_ are in my blood.
+
+## more important now than ever
+
+Last Fall, my enthusiasm for what I do on the web was somewhat rejuvenated, sparked by initiatives like [Micro.blog](https://micro.blog/ "Micro.blog") and the [IndieWeb](https://indieweb.org/ "IndieWeb") and by people like [Brad Enslen](https://ramblinggit.com/ "Brad Enslen - Thoughts from my stylish, mysterious, perilous mind.") whose [_human-edited web directory_](https://indieseek.xyz/about/ "About | Indieseek.xyz Indieweb Directory") appeals to me and [Kicks Condor](https://www.kickscondor.com/ "Kicks Condor") who provided [helpful feedback](https://www.kickscondor.com/the-web-finally-feels-new-again/ "Reply: The Web Finally Feels New Again") to something I [wrote](https://iwebthings.com/i.webthings/the_web_finally_feels_new_again/ "%Title%") in December as part of an ongoing conversation between us (I also like his [directory](https://href.cool/ "%Title%") btw). Both of these guys made me more aware of the concept of _human-curated_ links, new ways to find them, and the benefits of new tools (webmentions, etc.) we now have at our disposal. They've inspired me big time. Thanks Brad and Kicks.
+
+## learning some other things 
+
+I recently learned one needs to be careful when cross-posting to social networks, particularly when one has two linkblogs that update every day set to automatically cross-post to a single social media account. After only 2 days and having cross-posted from each linkblog once each day to my new i.webthings account on Mastodon, I received a message from the instance admin:
+
+> Your account was reported for spam, which is against our Code of Conduct. I have silenced your account (people can still follow you but you won&#8217;t show up in the local/federated timelines). Let me know what I can clarify, have a good day. 
+
+Nothing like this to curb one's enthusiasm! After a total of 4 cross-posts in 2 days, my mission to share links was somehow mistaken for advertising or excessive promotion or they thought i.webthings is a bot. That's about all I can glean from said Code of Conduct. 
+
+I'm probably more sensitive to spam, advertising, and self-promotion than most people and regret I didn't foresee this happening considering my linkblogs are updated daily. It never dawned on me that someone might mistake my promotion of others' sites to be self-promotion. Oh well.
+
+I didn't care to argue the point with anyone and decided to simply delete the account and move forward with what I learned and modified my plans accordingly. I don't like it but I do get it.
+
+When it comes to what I do on the web, the positives have always outweighed the negatives. That's why I'm still here and remain even more determined and committed to my mission.
+
+Carry on.
+
+[](https://fed.brid.gy/)
