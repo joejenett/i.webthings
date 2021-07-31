@@ -24,6 +24,13 @@ article, .home {
     border-radius: 8px;
     padding: 0 24px;
    }
+   article.archive-item {
+    border: none;
+    background-color: #fbffff;
+    border-radius: 0;
+    padding: 0 24px;
+   }
+
 .post-title {
 font-size:32px;
 font-weight:600;
