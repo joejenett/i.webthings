@@ -38,4 +38,4 @@ kind:
 ---
 Bookmarked Modern CSS grid solutions to common layout problems _(vycke.dev)_
 
-    three layout implementations that can improve your (personal) website
+ >   three layout implementations that can improve your (personal) website
