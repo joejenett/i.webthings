@@ -32,6 +32,7 @@ categories:
 kind:
   - Bookmark
 ---
-Bookmarked [Hard to discover tips and apps for making macOS pleasant](https://thume.ca/2020/09/04/macos-tips/) by [![Tristan Hume](https://thume.ca/assets/themes/thume/images/bubble-110.png)Tristan Hume](https://thume.ca/) _(thume.ca)_
+<!--Bookmarked [Hard to discover tips and apps for making macOS pleasant](https://thume.ca/2020/09/04/macos-tips/) by [![Tristan Hume](https://thume.ca/assets/themes/thume/images/bubble-110.png)Tristan Hume](https://thume.ca/) _(thume.ca)_-->
+<span class="kind-display-text">Bookmarked</span> <a href="https://thume.ca/2020/09/04/macos-tips/" class="p-name u-url">Hard to discover tips and apps for making macOS pleasant</a> by <a href="https://thume.ca/" class="h-card p-author"><img class="u-photo" src="https://thume.ca/assets/themes/thume/images/bubble-110.png" alt="Tristan Hume" width="32" height="32"> Tristan Hume</a> <em>(<span class="p-publication">thume.ca</span>)</em>
 
 There’s some useful hidden macOS tips here.
