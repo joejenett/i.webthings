@@ -2,7 +2,7 @@
 layout: post
 title:  "work in progress"
 date:   2021-07-31 16:28:00 -0400
-permalink: /work-in-progress
+permalink: /work-in-progress/
 author: joe jenett
 categories: i-webthings
 ---
