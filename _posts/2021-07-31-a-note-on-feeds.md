@@ -2,7 +2,7 @@
 layout: post
 title:  "a note on feeds"
 date:   2021-07-31 09:54:00 -0400
-permalink: /a-note-on-feeds
+permalink: /a-note-on-feeds/
 author: joe jenett
 categories: i-webthings
 ---
