@@ -9,7 +9,8 @@
 
     <main class="page-content" aria-label="Content">
 		<div class="wrapper">
-							<div class="stork-wrapper" style="margin-bottom:24px;">
+			<div class="onef">
+			<div class="stork-wrapper" style="margin-bottom:24px;">
 			      	<input data-stork="iwt" class="stork-input" placeholder="Search Posts" />
 			      		<div data-stork="iwt-output" class="stork-output"></div>
 	    			</div>
@@ -19,8 +20,7 @@
 				        stork.initialize("/assets/stork.wasm")
 				        stork.register("iwt", "/assets/iwt.st")
 				    </script>
-
-			<div class="onef">
+				    
 				{{ content }}
 			</div>
 			<div class="twof">
