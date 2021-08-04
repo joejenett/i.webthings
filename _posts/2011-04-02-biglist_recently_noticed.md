@@ -45,7 +45,7 @@ All of the &#8220;Recently Noticed&#8221; links posted to [the dailywebthing](ht
   * [endor.se](http://www.endor.se/)
   * [Head JS :: The only script in your HEAD](http://headjs.com/)
   * [AeroFS &#8211; File sync without servers](http://www.aerofs.com/)
-  * [MathJax | Beautiful math in all browsers](http://www.mathjax.org/)
+  * [MathJax - Beautiful math in all browsers](http://www.mathjax.org/)
   * [Fast Society, private, short-term mobile group chat](http://fastsociety.com/)
   * [WorkFlowy &#8211; Organize your brain](http://workflowy.com/)
   * [Organize ideas, notes, todos: Knowcase](http://www.knowcase.com/)
