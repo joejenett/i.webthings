@@ -16,7 +16,10 @@
 	    			</div>
 	      
 				    <script src="https://iwebthings.jenett.org/stork/stork.js"></script>
-				    
+				    <script>
+	    stork.initialize("/stork/stork.wasm")
+		stork.register("iwt", "/stork/iwt.st")
+	</script>
 				{{ content }}
 			</div>
 			<div class="twof">
