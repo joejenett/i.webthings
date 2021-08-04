@@ -25,8 +25,8 @@ kind:
 All of the &#8220;Recently Noticed&#8221; links posted to [the dailywebthing](http://dailywebthing.com/) from 7/17/10 through 4/2/11, shown in reverse chronological order – enjoy!
 
   * [Your World of Text](http://yourworldoftext.com/home/)
-  * [your brain, organized | thinkery.me](http://thinkery.me/)
-  * [Popcorn.js | The HTML5 Video Framework](http://popcornjs.org/)
+  * [your brain, organized - thinkery.me](http://thinkery.me/)
+  * [Popcorn.js - The HTML5 Video Framework](http://popcornjs.org/)
   * [Bean: An OS X Word Processor](http://www.bean-osx.com/Bean.html)
   * [Urban Renewal](http://www.kreativekorp.com/software/fonts/urbanrenewal.shtml)
   * [Diagram.ly](http://www.diagram.ly/)
