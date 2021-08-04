@@ -1,11 +1,7 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8" />
-    <title>Search</title>
-    <link rel="stylesheet" href="/stork/basic.css" />
-  </head>
-  <body>	
+---
+layout: default
+title: "Search"	
+---
 <div class="stork-wrapper" style="margin-bottom:14px;">
   	<input data-stork="iwt" class="stork-input" placeholder="Search Posts" />
   		<div data-stork="iwt-output" class="stork-output"></div>
@@ -16,6 +12,3 @@
 stork.initialize("/stork/stork.wasm")
 stork.register("iwt", "/stork/iwt.st")
 </script>
-
-  </body>
-</html>
