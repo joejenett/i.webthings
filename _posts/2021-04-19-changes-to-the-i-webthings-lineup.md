@@ -2,6 +2,7 @@
 id: 5182
 title: changes to the i.webthings lineup
 date: 2021-04-19T17:06:18-04:00
+dated: 04/19/21
 author: joe jenett
 layout: post
 guid: https://hub.iwebthings.com/?p=5182

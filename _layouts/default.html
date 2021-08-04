@@ -10,6 +10,11 @@
     <main class="page-content" aria-label="Content">
 		<div class="wrapper">
 			<div class="onef">
+			<div style="padding-right:18px;">
+			<input type="text" id="search-input" placeholder="search post titles">
+			<br/>
+			<div id="results-container"></div>
+			</div>
 				{{ content }}
 			</div>
 			<div class="twof">
@@ -97,9 +102,25 @@
 			</div>
 		</div>
     </main>
+    <!--
+    <script src="https://unpkg.com/simple-jekyll-search@1.5.0/dest/simple-jekyll-search.min.js"></script>
+    -->
+	<script src="https://unpkg.com/simple-jekyll-search@latest/dest/simple-jekyll-search.min.js"></script><script>
+SimpleJekyllSearch({
+  searchInput: document.getElementById('search-input'),
+  resultsContainer: document.getElementById('results-container'),
+  json: '/search.json',
+  searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a> <small>({date})</small></li>',
+  noResultsText: 'No results found',
+  limit: 10,
+  fuzzy: false,
+  exclude: ['Welcome']
+})
+</script>
 	<!--
 		{%- include footer.html -%}
 	-->
 </body>
 
 </html>
+			<!--<button onclick= "document.getElementById('search-input').value = ''"> x </button> -->

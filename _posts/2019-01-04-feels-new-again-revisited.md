@@ -1,6 +1,6 @@
 ---
 id: 161
-title: '&#8230;feels new again (revisited)'
+title: '...feels new again (revisited)'
 date: 2019-01-04T14:11:00-05:00
 author: joe jenett
 excerpt: |
