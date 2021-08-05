@@ -17,9 +17,9 @@ layout: default
 
     <ul>
     {%- for item in yearitem.items -%}
-      <li>
-        <date>{{ item.date | date:'%B %e'}}</date>
+      <li style="list-style:none;text-indent:-22px;">
         <span><a href="{{ item.url }}">{{ item.title }}</a></span>
+        <date><small>({{ item.date | date:'%b %-d, %Y'}})</small></date>
       </li>
     {% endfor %}
     </ul>
