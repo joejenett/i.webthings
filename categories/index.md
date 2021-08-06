@@ -17,7 +17,7 @@ title: Categories
     <h3 class="category-head">{{ category_name }}</h3>
     {% for post in site.categories[category_name] %}
     <article class="archive-item">
-      <li><span>{{ post.date | date:'%B %e, %Y' }}</span> &nbsp; <a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></li>
+      <li><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a> <span><small>({{ post.date | date:'%b %-d, %Y'}})</small></span> &nbsp; </li>
     </article>
     {% endfor %}
   </div>
