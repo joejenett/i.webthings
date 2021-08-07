@@ -35,6 +35,7 @@ layout: default
       </div>
 
 
+<!--
 <script>
     $().ready(function() {
        fetch("https://webmention.io/api/mentions?perPage=500&jsonp=parseWebmentions&target=https://webthings.jenett.org{{ page.url }}")
@@ -42,6 +43,7 @@ layout: default
     .then(responseJson => console.log(responseJson));
     });
    </script>
+   -->
    <div class="interaction-alert loading-indicator loading-indicator--standalone" id="comments-loader">
   Loading interactions…
 </div>
@@ -92,36 +94,9 @@ layout: default
   </div>
 </div>
 
-<template id="reply-template">
-  <li class="h-entry">
-    <div class="comment">
-      <div class="comment__author reply p-author">
-        <a class="reply__bar u-url js-source" href="">
-          <div class="reply__author reply__author p-author js-author-name" href=""></div>
-          <div class="reply__date js-date" href=""></div>
-        </a>
-        <a class="reply__avatar u-author js-author" href="">
-          <img class="u-photo js-avatar" src=""/>
-        </a>
-      </div>
-      <div class="comment__content js-content e-entry"></div>
-    </div>
-  </li>
-</template>
+<template id="reply-template"></template>
 
-<template id="like-template">
-  <li class="h-entry">
-    <div class="reply h-card p-author">
-      <a class="reply__bar u-url js-source" href="">
-        <div class="reply__author reply__author p-name js-author-name" href=""></div>
-        <div class="reply__date js-date" href=""></div>
-      </a>
-      <a class="reply__avatar u-author js-author" href="">
-        <img class="u-photo js-avatar" src=""/>
-      </a>
-    </div>
-  </li>
-</template>
+<template id="like-template"></template>
    <!--
 <span data-webmention-count data-url="https://webthings.jenett.org{{ page.url }}"></span> mentions
 -->
