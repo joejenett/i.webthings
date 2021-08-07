@@ -37,12 +37,12 @@ layout: default
 
 <script>
     $().ready(function() {
-       fetch("https://webmention.io/api/mentions.jf2?target=https://webthings.jenett.org/{{ page.url }}")
+       fetch("https://webmention.io/api/mentions.jf2?target=https://webthings.jenett.org{{ page.url }}")
     .then(response => response.json())
     .then(responseJson => console.log(responseJson));
     });
    </script>
-<span data-webmention-mentions data-url="https://webthings.jenett.org/{{ page.url }}"></span>
+<span data-webmention-mentions data-url="https://webthings.jenett.org{{ page.url }}"></span>
 
 
 <div style="background:#fff;z-index:100;border:1px solid #a3b8cc;border-radius:8px;margin-bottom:24px;">
