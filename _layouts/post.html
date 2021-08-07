@@ -37,7 +37,7 @@ layout: default
 
 <script>
     $().ready(function() {
-       fetch("https://webmention.io/api/count?target=https://webthings.jenett.org{{ page.url }}")
+       fetch("https://webmention.io/api/mentions?perPage=500&jsonp=parseWebmentions&target=https://webthings.jenett.org{{ page.url }}")
     .then(response => response.json())
     .then(responseJson => console.log(responseJson));
     });
