@@ -32,14 +32,7 @@ layout: default
   <div class="post-content e-content" itemprop="articleBody">
     {{ content }}
       </div>
-      
-<script>
-    $().ready(function() {
-       fetch("https://webmention.io/api/count?target=https://iwebthings.jenett.org{{ page.url }}")
-    $result = json_encode($data);
-    file_put_contents("{{ page.permalink }}.json", true, $result);
-    });
-</script>
+
 
 <!--
 
