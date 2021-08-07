@@ -8,3 +8,30 @@ categories: i-webthings
 ---
 Slowly but surely, it’s coming together but we’re still in working on this remake. In the meantime, feel free to check out the _real_ <a title="i.webthings hub" href="https://hub.iwebthings.com/">i.webthings hub</a> (for now, that is).  
 <img src="/images/newguy.png" width="32" alt="" />
+ <h1 class="p-name">iwebthings.jenett.org</h1>
+
+
+    <div class="h-entry mention">
+
+      <div class="context">
+        ↩ <a href="https://iwebthings.jenett.org/work-in-progress/" class="u-mention-of">https://iwebthings.jenett.org/work-in-progress/</a>
+      </div>
+
+        <div class="author u-author h-card">
+            <img src="https://webmention.io/avatar/secure.gravatar.com/6f34eba462d4999eb36312844efb2aac09597d5e243e27d5e37563170a19c62e.png" class="photo u-photo">
+            <a href="https://simply.personal.jenett.org/author/admin/" class="name u-url p-name">joe jenett</a>
+            <a href="https://simply.personal.jenett.org/author/admin/" class="url">https://simply.personal.jenett.org/author/admin/</a>
+        </div>
+
+        <h1 class="p-name">it’s joe the testing guy again…</h1>
+
+        <div class="e-content html"><p>…and if you follow the <a href="https://iwebthings.jenett.org/work-in-progress/" title="it’s a lean machine">link</a>, you might find a clue as to what I’ve been working on lately. But hurry, ’cause joe the testing guy always deletes posts like this one.</p></div>
+
+      <div class="metaline">
+        <time class="dt-published" datetime="2021-08-06T18:02:51-0400">
+          <a href="https://simply.personal.jenett.org/its-joe-the-testing-guy-again/" class="u-url">
+            Aug 6, 2021  6:02pm -04:00
+          </a>
+        </time>
+      </div>
+    </div>
