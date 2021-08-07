@@ -37,12 +37,12 @@ layout: default
 
 <script>
     $().ready(function() {
-       fetch("https://webmention.io/api/count?target={{ page.url | relative_url }}")
+       fetch("https://webmention.io/api/mentions.jf2?target={{ page.url | relative_url }}")
     .then(response => response.json())
     .then(responseJson => console.log(responseJson));
     });
 </script>
-<span data-webmention-count data-url="{{ page.url | relative_url }}"></span> mentions
+<span data-webmention-mentions data-url="{{ page.url | relative_url }}"></span>
 
 
 <div style="background:#fff;z-index:100;border:1px solid #a3b8cc;border-radius:8px;margin-bottom:24px;">
