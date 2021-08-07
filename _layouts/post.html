@@ -36,7 +36,7 @@ layout: default
 
 <script>
     $().ready(function() {
-       fetch("https://webmention.io/api/count?target=https://iwebthings.jenett.org{{ page.url }}")
+       GET ("https://webmention.io/api/count?target=https://iwebthings.jenett.org{{ page.url }}")
     .then(response => response.json())
     .then(responseJson => console.log(responseJson));
     });
