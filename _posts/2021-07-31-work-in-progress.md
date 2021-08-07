@@ -9,7 +9,7 @@ categories: i-webthings
 Slowly but surely, it’s coming together but we’re still in working on this remake. In the meantime, feel free to check out the _real_ <a title="i.webthings hub" href="https://hub.iwebthings.com/">i.webthings hub</a> (for now, that is).  
 <img src="/images/newguy.png" width="32" alt="" />
 <div class="h-entry mention">
-<div class="context">
+<div class="context" style="visibility:hidden;">
 ↩ <a href="https://iwebthings.jenett.org/work-in-progress/" class="u-mention-of">https://iwebthings.jenett.org/work-in-progress/</a>
 </div>
 <div class="author u-author h-card">
