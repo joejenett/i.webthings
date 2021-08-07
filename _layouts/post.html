@@ -33,7 +33,6 @@ layout: default
     {{ content }}
       </div>
 
-<!--
 <script>
     $().ready(function() {
        fetch("https://webmention.io/api/count?target=https://iwebthings.jenett.org{{ page.url }}")
@@ -41,29 +40,7 @@ layout: default
     .then(responseJson => console.log(responseJson));
     });
 </script>
--->
-<script>
-jQuery(function($){
-  var urls = [];
-  var base;
 
-  $("*[data-webmention-count]").each(function(i,e){
-    var parser = document.createElement('a');
-    parser.href = $(e).data('url');
-    base = parser.protocol + "//" + parser.hostname;
-    urls.push(parser.pathname+parser.search);
-  });
-
-  $.getJSON("https://webmention.io/api/count", {
-    base: base,
-    targets: urls.join(",")
-  }, function(data){
-    $("*[data-webmention-count]").each(function(i,e){
-      $(e).text(data.count[$(e).data('url')]);
-    });
-  });
-});
-</script>
 <span data-webmention-count data-url="https://iwebthings.jenett.org{{ page.url }}"></span> mentions
 <div style="background:#fff;z-index:100;border:1px solid #a3b8cc;border-radius:8px;margin-bottom:24px;margin-top:18px;">
   <script src="https://utteranc.es/client.js"
