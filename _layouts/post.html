@@ -48,44 +48,6 @@ layout: default
   Loading interactions…
 </div>
 <div class="post-interaction is-hidden" id="comments">
-  <div class="tabs">
-    <button class="tabs__reply js-tab" aria-controls="pane-replies">
-      
-
-      <span id="reply-count">replies</span>
-    </button>
-    <button class="tabs__like js-tab" aria-controls="pane-likes">
-     
-
-      <span id="like-count">likes</span>
-    </button>
-    <button class="tabs__repost js-tab" aria-controls="pane-shares">
-    
-      <span id="share-count">shares</span>
-    </button>
-  </div>
-  <div class="tab-pane " id="pane-replies" aria-controlled-by="tab-replies">
-    <h3>Replies</h3>
-    <form id="webmention-form" class="inline-form content" method="post" action="https://webmention.io/keithjgrant.com/webmention">
-      <input type="hidden" name="target" value="https://keithjgrant.com/posts/2019/02/adding-webmention-support-to-a-static-site/" />
-      <label for="reply-url">Have you written a <a href="https://indieweb.org/responses">response</a> to this? Let me know the URL:</label>
-      <div class="inline-form__inputs">
-        <input type="text" id="reply-url" name="source" placeholder="https://example.com/my-post" />
-        <button type="submit" id="webmention-submit">Send Webmention</button>
-      </div>
-      <p class="form-alert is-hidden"></p>
-    </form>
-    <ul class="replies" id="replies"></ul>
-  </div>
-  <div class="tab-pane" id="pane-likes" aria-controlled-by="tab-likes">
-    <h3>Likes</h3>
-    <ul class="replies replies--short" id="likes"></ul>
-  </div>
-  <div class="tab-pane" id="pane-shares" aria-controlled-by="tab-shares">
-    <h3>Shares</h3>
-    <ul class="replies replies--short" id="shares"></ul>
-  </div>
-</div>
 
 <template id="reply-template"></template>
 
