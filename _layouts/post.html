@@ -38,11 +38,10 @@ layout: default
 <script>
     $().ready(function() {
        fetch("https://webmention.io/api/mentions.jf2?target={{ page.url | relative_url }}")
-    .then(response => response.json())
+    .then(response => /data/response.json())
     .then(responseJson => console.log(responseJson));
     });
-    $("#url").html(data["url"]);
-</script>
+   </script>
 <span data-webmention-mentions data-url="{{ page.url | relative_url }}">
 
 </span>
