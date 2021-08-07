@@ -36,7 +36,13 @@ layout: default
 
 <script type="text/javascript" src="/js/webmention.js"></script>
 <div class="post-mentions" id="post-mentions"> <ul class="mentions-list" id="mentions-list"></ul> </div>
-
+<script
+    $().ready(function(){
+        $.getJSON( "/{{ page.url }}.json", function( data ) {
+        $("#url").html(data["url"]);
+      });
+    });
+</script>
 <!--
 <script>
     $().ready(function() {
