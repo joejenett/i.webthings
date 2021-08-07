@@ -39,7 +39,7 @@ layout: default
 
 <script>
     $().ready(function() {
-       fetch("https://webmention.io/api/count?target=https://iwebthings.jenett.org{{ page.url }}?token=Hk9-dBDdNDqQh9UECT5hdg")
+       fetch("https://webmention.io/api/count.jf2?domain=iwebthings.jenett.org/{{ page.url }}")
     .then(response => response.json())
     .then(responseJson => console.log(responseJson));
     });
