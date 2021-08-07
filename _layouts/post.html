@@ -35,10 +35,14 @@ layout: default
       </div>
 
 
-<!--
-<div id="webmentions"></div>
--->
-
+<script>
+    $().ready(function() {
+       fetch("https://webmention.io/api/count?target={{ page.url }}")
+    .then(response => response.json())
+    .then(responseJson => console.log(responseJson));
+    });
+</script>
+<span data-webmention-count data-url="{{ page.url }}"></span> mentions
   {%- if site.disqus.shortname -%}
     {%- include disqus_comments.html -%}
   {%- endif -%}
