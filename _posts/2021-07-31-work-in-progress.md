@@ -17,9 +17,6 @@ Slowly but surely, it’s coming together but we’re still in working on this r
 <a href="https://simply.personal.jenett.org/author/admin/" class="name u-url p-name">joe jenett</a>
 <a href="https://simply.personal.jenett.org/author/admin/" class="url">https://simply.personal.jenett.org/author/admin/</a>
 </div>
-<h1 class="p-name">it’s joe the testing guy again…</h1>
-<div class="e-content html"><p>…and if you follow the <a href="https://iwebthings.jenett.org/work-in-progress/" title="it’s a lean machine">link</a>, you might find a clue as to what I’ve been working on lately. But hurry, ’cause joe the testing guy always deletes posts like this one.</p></div>
-<div class="metaline">
 <time class="dt-published" datetime="2021-08-06T18:02:51-0400">
 <a href="https://simply.personal.jenett.org/its-joe-the-testing-guy-again/" class="u-url">
 Aug 6, 2021  6:02pm -04:00
