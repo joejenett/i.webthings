@@ -33,7 +33,12 @@ layout: default
     {{ content }}
       </div>
 
-
+<script>
+    $().ready(function() {
+       fetch("https://webmention.io/api/count?target=https://iwebthings.jenett.org{{ page.url }}")
+    .then(response => "{{ page.permalink }}.json()")
+    });
+</script>
 <!--
 
 <script>
