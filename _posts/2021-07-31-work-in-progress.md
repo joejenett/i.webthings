@@ -16,11 +16,10 @@ mentions:<br />
 <div class="author u-author h-card">
 <img src="https://webmention.io/avatar/secure.gravatar.com/6f34eba462d4999eb36312844efb2aac09597d5e243e27d5e37563170a19c62e.png" class="photo u-photo">
 <a href="https://simply.personal.jenett.org/author/admin/" class="name u-url p-name">joe jenett</a>
-<a href="https://simply.personal.jenett.org/author/admin/" class="url">https://simply.personal.jenett.org/author/admin/</a>
 </div>
 <time class="dt-published" datetime="2021-08-06T18:02:51-0400">
 <a href="https://simply.personal.jenett.org/its-joe-the-testing-guy-again/" class="u-url">
-Aug 6, 2021  6:02pm -04:00
+<small>Aug 6, 2021  6:02pm -04:00</small>
 </a>
 </time>
 </div>
