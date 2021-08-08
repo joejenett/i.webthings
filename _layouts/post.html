@@ -33,15 +33,15 @@ layout: default
     {{ content }}
       </div>
  
-
+    
 <script>
     $().ready(function() {
          $.ajax({
        url: 'https://webmention.io/api/count?target=https://iwebthings.jenett.org{{ page.url }}',
-       dataType: 'json',
-       success: function(data) {
-          var items = [];
+       dataType: 'json'
           });
+    .then(response => response.json())
+    .then(responseJson => console.log(responseJson));
     });
 </script>
 
