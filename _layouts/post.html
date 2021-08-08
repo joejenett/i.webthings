@@ -32,8 +32,7 @@ layout: default
   <div class="post-content e-content" itemprop="articleBody">
     {{ content }}
   </div>
-  
-
+{{page.url}}
 
 {% assign webmentions = "" | split: "," %}
 {% assign webmention_dump = site.data.wm.links | reverse %}
