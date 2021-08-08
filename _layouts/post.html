@@ -32,7 +32,11 @@ layout: default
   <div class="post-content e-content" itemprop="articleBody">
     {{ content }}
       </div>
-
+ <script>
+ $().ready(function() {
+     jQuery.get("https://webmention.io/api/mentions.jf2?target=https://iwebthings.jenett.org/{{ page.url }}")
+     });
+  </script>
 <script type="text/javascript" src="/js/webmentions.js"></script>
  <script>
  $().ready(function() {
