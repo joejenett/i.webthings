@@ -1,13 +1,43 @@
 const ANON_AVATAR = '/images/anon-avatar.png';
 
-export default function fetchWebmentions(url) {
+export default function fetchWebmentions(url, aliases) {
   if (!document.getElementById('comments')) {
     return;
   }
-  if (!url) { 
-    url = window.location.href;
+  if (!url) {
+    url = document.location.origin + document.location.pathname;
   }
-  const targets = getUrlPermutations(url);
+  const targets = getUrlPermutations(url, aliases);
+
+  var script = document.createElement('script');
+  var src =
+    'https://webmention.io/api/mentions?perPage=500&jsonp=parseWebmentions';
+  targets.forEach(function(targetUrl) {
+    src += `&target[]=${encodeURIComponent(targetUrl)}`;
+  });
+  src += `&_=${Math.random()}`;
+  script.src = src;
+  script.async = true;
+  document.getElementsByTagName('head')[0].appendChild(script);
+}
+
+function getUrlPermutations(url, aliases) {
+  const urls = [];
+  url = url.replace('http://localhost:1313', 'https://keithjgrant.com');
+  urls.push(url);
+  urls.push(url.replace('https://', 'http://'));
+  if (url.substr(-1) === '/') {
+    var noslash = url.substr(0, url.length - 1);
+    urls.push(noslash);
+    urls.push(noslash.replace('https://', 'http://'));
+  }
+  if (aliases) {
+    aliases.forEach(function(alias) {
+      urls.push(`https://keithjgrant.com${alias}`);
+    });
+  }
+  return urls;
+}
 
 function parseWebmentions(data) {
   var links = data.links.sort(wmSort);
