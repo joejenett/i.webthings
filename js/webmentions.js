@@ -11,9 +11,9 @@ export default function fetchWebmentions(url, aliases) {
 
   var script = document.createElement('script');
   var src =
-    'https://webmention.io/api/mentions?perPage=500&jsonp=parseWebmentions';
+    'https://webmention.io/api/mentions.jf2';
   targets.forEach(function(targetUrl) {
-    src += `&target[]=${encodeURIComponent(targetUrl)}`;
+    src += `?target[]=${encodeURIComponent(targetUrl)}`;
   });
   src += `&_=${Math.random()}`;
   script.src = src;
