@@ -35,9 +35,11 @@ layout: default
  
 
 <script>
-fetch("https://webmention.io/api/count?target=https://iwebthings.jenett.org/{{ page.url }}")
+    $().ready(function() {
+       fetch("https://webmention.io/api/count?target=https://iwebthings.jenett.org{{ page.url }}")
     .then(response => response.json())
     .then(responseJson => console.log(responseJson));
+    });
 </script>
 
 <span data-webmention-count data-url="https://iwebthings.jenett.org/{{ page.url }}"></span> mentions
