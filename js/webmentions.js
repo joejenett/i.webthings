@@ -23,7 +23,7 @@ export default function fetchWebmentions(url, aliases) {
 
 function getUrlPermutations(url, aliases) {
   const urls = [];
-  url = url.replace('http://localhost:1313', 'https://keithjgrant.com');
+  url = url.replace('http://localhost:4000', 'https://iwebthings.jenett.org/');
   urls.push(url);
   urls.push(url.replace('https://', 'http://'));
   if (url.substr(-1) === '/') {
@@ -33,7 +33,7 @@ function getUrlPermutations(url, aliases) {
   }
   if (aliases) {
     aliases.forEach(function(alias) {
-      urls.push(`https://keithjgrant.com${alias}`);
+      urls.push(`https://iwebthings.jenett.org/${alias}`);
     });
   }
   return urls;
