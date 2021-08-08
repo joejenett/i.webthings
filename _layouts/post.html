@@ -31,36 +31,21 @@ layout: default
 
   <div class="post-content e-content" itemprop="articleBody">
     {{ content }}
-      </div>
- 
- {% assign webmentions = "" | split: "," %}
-
-{% assign webmention_dump = site.data.wm.links | reverse %}
-
-{% assign this_url = page.slug | replace: ".", "-" %}
-
-{% for item in webmention_dump %}
-
-  {% assign target_url = item.target | split: "/" | compact | last %}
-
-  {% if target_url == this_url %}
-
-      {% assign webmentions = webmentions | push: item %}
-
-  {% endif %}
-
-{% endfor %}
-
-{% if webmentions.size > 0 %}
-
-  <div class="c-headings">
-
-    <h2 class="mb1 f4 c-lh-title">Mentions</h2>
-
   </div>
-
-  <p class="f7 mt1 mb3">Comments and replies to this post from other sites and services, such as <a href="https://micro.blog">micro.blog</a> and Twitter.</p>
-
+ 
+{% assign webmentions = "" | split: "," %}
+{% assign webmention_dump = site.data.wm.links | reverse %}
+{% assign this_url = page.slug | replace: ".", "-" %}
+{% for item in webmention_dump %}
+  {% assign target_url = item.target | split: "/" | compact | last %}
+  {% if target_url == this_url %}
+      {% assign webmentions = webmentions | push: item %}
+  {% endif %}
+{% endfor %}
+{% if webmentions.size > 0 %}
+  <div class="c-headings">
+    <h2 class="mb1 f4 c-lh-title">Mentions</h2>
+  </div>
   {% for webmention in webmentions %}
 
     <h3 id="{{ webmention.id }}" class="f5 c-lh-title mt0 mb1 flex items-center">{% if webmention.data.author.url %}<a class="no-underline underline-hover" rel="nofollow" href="{{ webmention.data.author.url }}">{% endif %}{% if webmention.data.author.photo %}<img class="v-mid dib h-auto w2 br-100 mr2" src="{{ webmention.data.author.photo }}" alt="{{ webmention.data.author.name }}">{% endif %}{{ webmention.data.author.name }}{% if webmention.data.author.url %}</a>{% endif %}</h3>
@@ -70,7 +55,7 @@ layout: default
     {% if webmention.data.content %}<div class="c-collapse-top-margin c-serif">{{ webmention.data.content | strip_html | markdownify }}</div>{% endif %}
     
   {% endfor %}
-
+{% endif %}
     
 <div style="background:#fff;z-index:100;border:1px solid #a3b8cc;border-radius:8px;margin-bottom:24px;margin-top:18px;">
   <script src="https://utteranc.es/client.js"
@@ -79,8 +64,8 @@ layout: default
         theme="github-light"
         crossorigin="anonymous"
         async>
-</script>
-  </div>
+  </script>
+</div>
    
    
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
