@@ -9,12 +9,5 @@ jQuery(function($){
     urls.push(parser.pathname+parser.search);
   });
 
-  $.getJSON("https://webmention.io/api/mentions", {
-    base: base,
-    targets: urls.join(",")
-  }, function(data){
-    $("*[data-webmention-mentions]").each(function(i,e){
-      $(e).text(data.url[$(e).data('url')]);
     });
-  });
 });
