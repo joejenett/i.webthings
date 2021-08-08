@@ -4,8 +4,8 @@ export default function fetchWebmentions(url, aliases) {
   if (!document.getElementById('comments')) {
     return;
   }
-  if (!url) {
-    url = document.location.origin + document.location.pathname;
+  if (!url) { 
+    url = window.location.href;
   }
   const targets = getUrlPermutations(url, aliases);
 
