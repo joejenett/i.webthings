@@ -37,7 +37,7 @@ layout: default
 
 {% assign webmentions = "" | split: "," %}
 {% assign webmention_dump = site.data.wm.links | reverse %}
-{% assign this_url = {{site.url}}{{page.permalink}} %}
+{% assign this_url = {{site.url}}{{page.url}} %}
 {% for item in webmention_dump %}
   {% assign target_url = item.target %}
   {% if target_url == this_url %}
