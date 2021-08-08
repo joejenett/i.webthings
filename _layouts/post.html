@@ -32,11 +32,11 @@ layout: default
   <div class="post-content e-content" itemprop="articleBody">
     {{ content }}
   </div>
-{{page.url}}
+
 
 {% assign webmentions = "" | split: "," %}
 {% assign webmention_dump = site.data.wm.links | reverse %}
-{% assign this_url = {{page.url}} %}
+{% assign this_url = https://iwebthings.jenett.org{{page.url}} %}
 {% for item in webmention_dump %}
   {% assign target_url = item.target %}
   {% if target_url == this_url %}
