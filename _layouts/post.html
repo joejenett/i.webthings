@@ -33,15 +33,11 @@ layout: default
     {{ content }}
   </div>
 
-{{ page.permalink }}
-<br />
-
-
 {% assign webmentions = "" | split: "," %}
 {% assign webmention_dump = site.data.wm.links | reverse %}
-{% assign this_url = page.permalink | replace: ".", "-" %}
+{% assign this_url = page.slug | replace: ".", "-" %}
 {% for item in webmention_dump %}
-  {% assign target_url = item.target %}
+  {% assign target_url = item.target | split: "/" | compact | last %}
   {% if target_url == this_url %}
       {% assign webmentions = webmentions | push: item %}
   {% endif %}
