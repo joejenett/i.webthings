@@ -33,7 +33,13 @@ layout: default
     {{ content }}
       </div>
 
-<div id="thescript"></div>
+<script type="text/javascript" src="/js/webmentions.js"></script>
+ <script>
+ $().ready(function() {
+     jQuery.get("https://webmention.io/api/mentions?perPage=500&jsonp=parseWebmentions&target=https://iwebthings.jenett.org/{{ page.url }}")
+     });
+  </script>
+  
 <div id="comments"></div>
 <!--
 <script>

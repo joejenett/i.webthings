@@ -9,36 +9,6 @@ export default function fetchWebmentions(url) {
   }
   const targets = getUrlPermutations(url);
 
-  var script = document.createElement('script');
-  var src =
-    'https://webmention.io/api/mentions?perPage=500&jsonp=parseWebmentions';
-  targets.forEach(function(targetUrl) {
-    src += `&target[]=document.location.pathname`;
-  });
-  src += `&_=${Math.random()}`;
-  script.src = src;
-  script.async = true;
-  document.getElementsById('thescript')[0].appendChild(script);
-}
-
-function getUrlPermutations(url) {
-  const urls = [];
-  url = url.replace('http://localhost:4000', 'https://iwebthings.jenett.org/');
-  urls.push(url);
-  urls.push(url.replace('https://', 'http://'));
-  if (url.substr(-1) === '/') {
-    var noslash = url.substr(0, url.length - 1);
-    urls.push(noslash);
-    urls.push(noslash.replace('https://', 'http://'));
-  }
-  if (aliases) {
-    aliases.forEach(function(alias) {
-      urls.push(`https://iwebthings.jenett.org/${alias}`);
-    });
-  }
-  return urls;
-}
-
 function parseWebmentions(data) {
   var links = data.links.sort(wmSort);
   var likes = [];
