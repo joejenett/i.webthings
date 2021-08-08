@@ -13,7 +13,7 @@ export default function fetchWebmentions(url) {
   var src =
     'https://webmention.io/api/mentions?perPage=500&jsonp=parseWebmentions';
   targets.forEach(function(targetUrl) {
-    src += `&target[]=${encodeURIComponent(targetUrl)}`;
+    src += `&target[]=document.location.pathname`;
   });
   src += `&_=${Math.random()}`;
   script.src = src;
