@@ -1,13 +1,13 @@
 const ANON_AVATAR = '/images/anon-avatar.png';
 
-export default function fetchWebmentions(url, aliases) {
+export default function fetchWebmentions(url) {
   if (!document.getElementById('comments')) {
     return;
   }
   if (!url) { 
     url = window.location.href;
   }
-  const targets = getUrlPermutations(url, aliases);
+  const targets = getUrlPermutations(url);
 
   var script = document.createElement('script');
   var src =
@@ -18,10 +18,10 @@ export default function fetchWebmentions(url, aliases) {
   src += `&_=${Math.random()}`;
   script.src = src;
   script.async = true;
-  document.getElementsByTagName('head')[0].appendChild(script);
+  document.getElementsById('thescript')[0].appendChild(script);
 }
 
-function getUrlPermutations(url, aliases) {
+function getUrlPermutations(url) {
   const urls = [];
   url = url.replace('http://localhost:4000', 'https://iwebthings.jenett.org/');
   urls.push(url);
