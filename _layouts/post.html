@@ -21,7 +21,7 @@ layout: default
     {% assign categories = page.categories %}
   {% endif %}
   {% for category in categories %}
-  <a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a>
+  <a href="{{site.url}}categories/#{{category|slugize}}">{{category}}</a>
   {% unless forloop.last %}&nbsp;{% endunless %}
   {% endfor %}
 </span>
@@ -33,11 +33,11 @@ layout: default
     {{ content }}
   </div>
   
-{{site.url}}
+
 
 {% assign webmentions = "" | split: "," %}
 {% assign webmention_dump = site.data.wm.links | reverse %}
-{% assign this_url = {{site.baseurl}}{{page.permalink}} %}
+{% assign this_url = {{site.url}}{{page.permalink}} %}
 {% for item in webmention_dump %}
   {% assign target_url = item.target %}
   {% if target_url == this_url %}
