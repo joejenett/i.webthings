@@ -450,4 +450,8 @@ A more detailed example:
 
     container.innerHTML = `${formattedComments}${reactions}`;
   });
+<<<<<<< HEAD:js/webmention.js
 }());
+=======
+});
+>>>>>>> 1bb3b47f0c3d840c6e29a05231a23a9768a585da:js/webmention1ng.js
