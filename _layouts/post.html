@@ -33,8 +33,10 @@ layout: default
     {{ content }}
   </div>
   
+  
 <script src="/js/webmention.js" async></script>
 <div id="webmentions"></div> 
+  
   
 <!--
 {% include webmentions.html %}
@@ -46,9 +48,6 @@ fetch("https://webmention.io/api/count?jsonp=f&target=https://iwebthings.jenett.
     .then(response => response.json())
     .then(responseJson => console.log(responseJson));
 </script>
-      
-
-
 
 <div id="count" data-webmention-count data-url="https://iwebthings.jenett.org{{ page.url}}"></div> mentions
 -->
