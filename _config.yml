@@ -37,8 +37,8 @@ plugins:
 
 jekyll-get-json:
   - data: wm
-  - json: 'https://webmention.io/api/mentions?token=Hk9-dBDdNDqQh9UECT5hdg'
-  - cache: true
+    json: 'https://webmention.io/api/mentions?token=Hk9-dBDdNDqQh9UECT5hdg'
+    cache: true
       
 show_excerpts: true
 
