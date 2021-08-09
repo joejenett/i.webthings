@@ -46,7 +46,7 @@ layout: default
 
 {% for item in webmention_dump %}
 
-  {% assign target_url = item.target | split: "/" | compact | last %}
+  {% assign target_url = "https://iwebthings.jenett.org/work-in-progress" %}
 
   {% if target_url == this_url %}
 
@@ -58,7 +58,9 @@ layout: default
 
 {% if webmentions.size > 0 %}
 
+<p>
 Yay!
+</p>
 
   {% endif %}
 
