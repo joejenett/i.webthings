@@ -33,12 +33,13 @@ layout: default
     {{ content }}
   </div>
   
+
   
 <script src="/js/webmention.js" async />
 <div id="webmentions"></div> 
   
-  
-<!--
+   <!-- 
+
 {% include webmentions.html %}
 -->
 
@@ -51,7 +52,7 @@ fetch("https://webmention.io/api/count?jsonp=f&target=https://iwebthings.jenett.
 
 <div id="count" data-webmention-count data-url="https://iwebthings.jenett.org{{ page.url}}"></div> mentions
 
-
+-->
 <div style="background:#fff;z-index:100;border:1px solid #a3b8cc;border-radius:8px;margin-bottom:24px;margin-top:18px;">
   <script src="https://utteranc.es/client.js"
         repo="joejenett/i.webthings"
@@ -60,8 +61,8 @@ fetch("https://webmention.io/api/count?jsonp=f&target=https://iwebthings.jenett.
         crossorigin="anonymous"
         async>
   </script>
-
+  
 </div>
-   -->
+ 
   <a class="u-url" href="/{{ page.url | relative_url }}" hidden></a>
 </article>
