@@ -1,6 +1,6 @@
 ---
 id: 84
-title: 'it&#8217;s time for kindness&#8230;'
+title: 'it’s time for kindness'
 date: 2018-02-15T10:06:01-05:00
 author: joe jenett
 layout: post
