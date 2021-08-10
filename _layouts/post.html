@@ -1,58 +1,53 @@
 ---
 layout: default
 ---
+
 <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
-
-  <header class="post-header">
-    <h1 class="post-title p-name" style="margin-top:18px;" itemprop="name headline">{{ page.title | escape }}</h1>
-    <p class="post-meta">
-      <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
-        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        {{ page.date | date: date_format }}
-      </time>
-      {%- if page.author -%}
-        • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.author }}</span></span>
-      {%- endif -%}
-            <span class="post-categories">
-    • posted in:
-  {% if post %}
-    {% assign categories = post.categories %}
-  {% else %}
-    {% assign categories = page.categories %}
-  {% endif %}
-  {% for category in categories %}
-  <a href="/categories/#{{category|slugize}}">{{category}}</a>
-  {% unless forloop.last %}&nbsp;{% endunless %}
-  {% endfor %}
+<header class="post-header">
+<h1 class="post-title p-name" style="margin-top:18px;" itemprop="name headline">{{ page.title | escape }}</h1>
+<p class="post-meta">
+<time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+{%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+{{ page.date | date: date_format }}
+</time>
+{%- if page.author -%}• <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+<span class="p-author h-card" itemprop="name">{{ page.author }}
 </span>
-      </p>
-
-  </header>
-
-  <div class="post-content e-content" itemprop="articleBody">
-    {{ content }}
-  </div>
-  
- <!-- 
-<script src="/js/webmention.js" async />
-<div id="webmentions"></div> 
--->
-
-<!--
-{% include webmentions.html %}
--->
-<!--
-<div id="count" data-webmention-count data-url="https://iwebthings.jenett.org{{ page.url}}"></div> mentions
--->
-<div style="background:#fff;z-index:100;border:1px solid #a3b8cc;border-radius:8px;margin-bottom:24px;margin-top:18px;">
-  <script src="https://utteranc.es/client.js"
-        repo="joejenett/i.webthings"
-        issue-term="title"
-        theme="github-light"
-        crossorigin="anonymous"
-        async>
-  </script>
+</span>
+{%- endif -%}
+<span class="post-categories">• posted in:
+{% if post %}
+{% assign categories = post.categories %}
+{% else %}
+{% assign categories = page.categories %}
+{% endif %}
+{% for category in categories %}
+<a href="/categories/#{{category|slugize}}">{{category}}</a>
+{% unless forloop.last %}&nbsp;{% endunless %}
+{% endfor %}
+</span>
+</p>
+</header>
+<div class="post-content e-content" itemprop="articleBody">
+{{ content }}
 </div>
- 
-  <a class="u-url" href="/{{ page.url | relative_url }}" hidden></a>
+<script>
+    $().ready(function() {
+      $.getJSON("https://webmention.io/api/count?target=https://iwebthings.jenett.org{{ page.url }}")
+    .then(response => response.json())
+    .then(responseJson => console.log(responseJson));
+      });
+    });
+</script>
+<script type="text/javascript" src="https://webmention.io/js/mentions.js"></script>
+<div style="background:#fff;z-index:100;border:1px solid #a3b8cc;border-radius:8px;margin-bottom:24px;margin-top:18px;">
+<script src="https://utteranc.es/client.js"
+repo="joejenett/i.webthings"
+issue-term="title"
+theme="github-light"
+crossorigin="anonymous"
+async>
+</script>
+</div>
+<a class="u-url" href="/{{ page.url | relative_url }}" hidden></a>
 </article>
