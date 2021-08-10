@@ -39,7 +39,14 @@ jekyll-get-json:
   - data: wm
     json: 'https://jenett.org/wm.json'
     cache: true
-      
+
+defaults:
+-
+    scope:
+        path: "/"      # empty string for all files
+    values:
+        is_home: true
+            
 show_excerpts: true
 
 excerpt_separator: <!-- excerpt-end -->
