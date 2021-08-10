@@ -42,12 +42,12 @@ layout: default
 {% include webmentions.html %}
 -->
 
-<script type="text/javascript">
+<script>
     $().ready(function() {
-    $.getJSON( "https://webmention.io/api/count?jsonp=f&target=https://iwebthings.jenett.org/work-in-progress", function( data ) {
-    console.log(data);
+       fetch("https://webmention.io/api/count?target=https://iwebthings.jenett.org{{ page.url }}")
+    .then(response => response.json())
+    .then(responseJson => console.log(responseJson));
     });
-});
 </script>
 
 <div id="count" data-webmention-count data-url="https://iwebthings.jenett.org{{ page.url}}"></div> mentions
