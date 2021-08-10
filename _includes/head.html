@@ -5,7 +5,14 @@
 	<link rel="stylesheet" type="text/css" href="/assets/main.css" />
 	<link rel="stylesheet" type="text/css" href="/css/style.css" />
     <script type="text/javascript" src="/js/jquery-2.2.4.min.js"></script>
-   
+   <script>
+    $().ready(function() {
+       fetch("https://webmention.io/api/count?target=https://iwebthings.jenett.org{{ page.url }}")
+    .then(response => response.json())
+    .then(responseJson => console.log(responseJson));
+    });
+</script>
+
     <!-- 
     <script type="text/javascript" src="https://webmention.io/js/mentions.js"></script>
      -->
