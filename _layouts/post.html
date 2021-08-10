@@ -31,15 +31,9 @@ layout: default
 <div class="post-content e-content" itemprop="articleBody">
 {{ content }}
 </div>
-<script>
-    $().ready(function() {
-      $.getJSON("https://webmention.io/api/count?target=https://iwebthings.jenett.org{{ page.url }}")
-    .then(response => response.json())
-    .then(responseJson => console.log(responseJson));
-      });
-    });
-</script>
-<script type="text/javascript" src="https://webmention.io/js/mentions.js"></script>
+
+{% include webmentions.html %}
+
 <div style="background:#fff;z-index:100;border:1px solid #a3b8cc;border-radius:8px;margin-bottom:24px;margin-top:18px;">
 <script src="https://utteranc.es/client.js"
 repo="joejenett/i.webthings"
