@@ -40,6 +40,8 @@ jekyll-get-json:
     json: 'https://jenett.org/wm.json'
     cache: true
 
+markdown: kramdown
+
 defaults:
 -
     scope:
