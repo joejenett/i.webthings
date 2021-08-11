@@ -6,4 +6,4 @@ permalink: /if-this-works
 author: joe 1enett
 categories: i-webthings
 ---
-...the <a href="https://simply.personal.jenett.org/its-joe-the-testing-guy-again/" title="">testing guy</a> just might be done for now.
+...the <a href="https://simply.personal.jenett.org/its-joe-the-testing-guy-again/" title="">testing guy</a> just might be done for now. Or not.
