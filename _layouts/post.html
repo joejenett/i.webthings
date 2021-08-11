@@ -38,7 +38,7 @@ layout: default
 			console.log(mydata);
 			var output = 'Mentions: <ul>';
 			$.each(mydata.links, function(i, v) {
-        if (v.target.search(new RegExp(/{{ page.slug }}/i)) != -1) {
+        if (v.target.search(new RegExp(/{{ page.url }}/i)) != -1) {
         	output += '<li><img src="' + v.data.author.photo + '" alt="" width="32"> ';
         	output += '<a href="' + v.source + '">' + v.data.author.name + '</a></li>';
         }
