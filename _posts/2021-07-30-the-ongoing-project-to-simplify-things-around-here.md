@@ -5,6 +5,7 @@ author: joe jenett
 layout: post
 permalink: /the-ongoing-project-to-simplify-things-around-here/
 categories: i-webthings
+slug: ongoing-project
 inline_featured_image:
   - "0"
 mf2_mp-syndicate-to:
