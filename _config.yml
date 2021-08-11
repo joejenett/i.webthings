@@ -31,7 +31,7 @@ github_username:  joejenett
 # Build settings
 theme: minima
 plugins:
-  - jekyll-feed
+#  - jekyll-feed
 #  - jekyll-get-json
 
 
