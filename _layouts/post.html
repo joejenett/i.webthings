@@ -32,7 +32,24 @@ layout: default
 {{ content }}
 </div>
 
-{% include webmentions.html %}
+<script>
+	$().ready(function(){
+		$.getJSON( "https://webmention.io/api/mentions?token=Hk9-dBDdNDqQh9UECT5hdg", function( mydata ) {
+			console.log(mydata);
+			var output = 'Mentions: <ul>';
+			$.each(mydata.links, function(i, v) {
+        if (v.target.search(new RegExp(/{{ page.slug }}/i)) != -1) {
+        	output += '<li><img src="' + v.data.author.photo + '" alt="" width="32"> ';
+        	output += '<a href="' + v.source + '">' + v.data.author.name + '</a></li>';
+        }
+    		});
+    		output += '</ul>';
+    		$('#result').html(output);
+		});	
+	});
+</script>
+
+<div id="result"></div>
 
 <div style="background:#fff;z-index:100;border:1px solid #a3b8cc;border-radius:8px;margin-bottom:24px;margin-top:18px;">
 <script src="https://utteranc.es/client.js"

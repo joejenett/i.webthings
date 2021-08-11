@@ -32,22 +32,15 @@ github_username:  joejenett
 theme: minima
 plugins:
   - jekyll-feed
-  - jekyll-get-json
+#  - jekyll-get-json
 
 
-jekyll-get-json:
-  - data: wm
-    json: 'https://jenett.org/wm.json'
-    cache: true
+#jekyll-get-json:
+#  - data: wm
+#    json: 'https://jenett.org/wm.json'
+#    cache: true
 
-markdown: kramdown
-
-defaults:
--
-    scope:
-        path: "/"      # empty string for all files
-    values:
-        is_home: true
+#markdown: kramdown
             
 show_excerpts: true
 
