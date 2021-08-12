@@ -18,5 +18,5 @@ slug: what-have-you
 <h2>other changes</h2>
 <p>Comments have changed. For now, you need a GitHub account to login to the comment feature. However, if you’re not set up to send webmentions and don’t have a GitHub account, a contact form is also available.</p>
 <p>If you like viewing content from multiple webthings at one time, you might want to check out the <a href="https://jenett.org/aggregator/">aggregator</a>.</p>
-<p>As the new site gets underway, I be continuing to troubleshoot and optimize. I hope you enjoy the new version of the <em>i.webthings hub</em>.</p>
+<p>As the new site gets underway, I’ll be continuing to troubleshoot and optimize. I hope you enjoy the new version of the <em>i.webthings hub</em>.</p>
 
