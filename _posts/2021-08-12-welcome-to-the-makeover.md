@@ -21,6 +21,7 @@ If you’re currently subscribed to the rss or json feeds, they will also redire
 The new search form searches only by post title. It’s more limited but I opted for simplicity and low overhead for the transition. I’m hoping this limitation does not inconvenience you.
 
 ## webmentions
+ 
 I’ve implemented webmentions in this new version of the hub and hopefully, that functionality is set to go. I’ll be watching for issues and will address them should the need arise.
 
 ## other changes
