@@ -5,14 +5,16 @@ date:   2021-08-12 09:30:00 -0400
 categories: i-webthings
 slug: what-have-you
 ---
+(Please pardon our dust - working on it)
+
 Notice how fast the page loaded? I’ve migrated the hub from Wordpress to Jekyll - static pages with a bit of javascript and no database - it’s a lean machine.
 
 ## our url has changed
 Redirects are in place for all content and for the site’s feed for the time being but you may want to update your bookmarks for future use. When the iwebthings.com domain expires next year sometime, the redirects will no longer function. Here’s the new info:
-    <ul>
-    <li>Site URL: https://iwebthings.jenett.org/</li>
-    <li>Site Feed: https://iwebthings.jenett.org/feed.atom</li> 
-	</ul>
+    
+    * Site URL: https://iwebthings.jenett.org/
+    * Site Feed: https://iwebthings.jenett.org/feed.atom  
+
 If you’re currently subscribed to the rss or json feeds, they will also redirect to the new atom feed for the time being.
 
 ## change to the search form
