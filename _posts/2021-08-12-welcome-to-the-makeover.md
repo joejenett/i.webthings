@@ -11,7 +11,7 @@ category: i-webthings
 <p>Redirects are in place for all content <span style="text-decoration:line-through;">and the site’s feed </span>for the time being but you may want to update your bookmarks for future use. When the iwebthings.com domain expires next year sometime, the redirects will no longer function. Here’s the new info:</p>  
 <p><ul><li>Site URL: <a href="https://iwebthings.jenett.org/" title="">https://iwebthings.jenett.org/</a></li>
 <li>Site Feed: <a href="https://iwebthings.jenett.org/feed.atom" title="">https://iwebthings.jenett.org/feed.atom</a></li></ul></p>
-<p>If you’re currently subscribed to the rss or json feeds, they will also redirect to the new atom feed for the time being.</p>
+<p style="text-decoration:line-through;">If you’re currently subscribed to the rss or json feeds, they will also redirect to the new atom feed for the time being.</p>
 <h2>change to the search form</h2>
 <p>The new search form searches only by post title. It’s more limited but I opted for simplicity and low overhead for the transition. I’m hoping this limitation does not inconvenience you.</p>
 <h2>webmentions</h2>
