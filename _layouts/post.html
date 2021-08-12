@@ -32,6 +32,10 @@ layout: default
 {{ content }}
 </div>
 
+{% if post.excerpt != post.content %}
+    <p><a href="{{ site.baseurl }}{{ post.url }}">more...</a></p>
+{% endif %}
+
 <script type="text/javascript">
 	$().ready(function(){
 		$.getJSON( "$.getJSON( "https://webmention.io/api/mentions?token=Hk9-dBDdNDqQh9UECT5hdg",
