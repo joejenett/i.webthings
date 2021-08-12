@@ -17,15 +17,12 @@ Redirects are in place for all content and for the site’s feed for the time be
 If you’re currently subscribed to the rss or json feeds, they will also redirect to the new atom feed for the time being.
 
 ## change to the search form
-
 The new search form searches only by post title. It’s more limited but I opted for simplicity and low overhead for the transition. I’m hoping this limitation does not inconvenience you.
 
 ## webmentions
-
 I’ve implemented webmentions in this new version of the hub and hopefully, that functionality is set to go. I’ll be watching for issues and will address them should the need arise.
 
 ## other changes
-
 Comments have changed. For now, you need a GitHub account to login to the comment feature. However, if you’re not set up to send webmentions and don’t have a GitHub account, a contact form is also available.
 
 If you like viewing content from multiple webthings at one time, you might want to check out the <a href="https://jenett.org/aggregator/">aggregator</a>.
