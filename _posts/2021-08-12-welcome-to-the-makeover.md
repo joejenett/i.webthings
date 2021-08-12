@@ -2,8 +2,7 @@
 layout: post
 title:  "welcome to the makeover"
 date:   2021-08-12 09:30:00 -0400
-categories: i-webthings
-slug: what-have-you
+category: i-webthings
 ---
 <p>(update 08/12/21 12:01 PM: Still working on the feed redirect.)</p>
 <p>Notice how fast the page loaded? I’ve migrated the hub from Wordpress to Jekyll - static pages with a bit of javascript and no database - it’s a lean machine.</p>
