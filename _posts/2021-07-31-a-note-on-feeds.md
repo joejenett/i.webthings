@@ -19,6 +19,6 @@ As part of the ongoing project to simplify things, several of the feeds shown ma
 <li><a href="https://pointers.dailywebthing.com/" title="">dailywebthing daily pointers</a> → <a href="https://pointers.dailywebthing.com/feed/" title="">RSS feed</a></li>
 <li><a href="https://simply.personal.jenett.org/" title="">simply. personal.</a> → <a href="https://simply.personal.jenett.org/feed/" title="">RSS feed</a></li>
 <li><a href="https://wiki.jenett.org/" title="">jenett. wiki.</a> → <a href="https://wiki.jenett.org/feed.php" title="">RSS feed</a></li>
-</ul><!-- excerpt-end -->
+</ul>
 <p><br /><a href="https://hub.iwebthings.com/iwt.opml" title="">OPML</a> (includes all)</p>
 <p>Note: The <a href="https://directory.jenett.org/">i.webthings directory</a> and <a href="https://joe.jenett.org/">🌱 𝚓𝚘𝚎. 𝚒𝚍𝚎𝚊𝚜.</a> do not have RSS feeds, though I hope you’ll enjoy visiting them now and then.<br><img src="/images/newguy.png" alt="" width="22"></p>
