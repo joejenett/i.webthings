@@ -24,9 +24,12 @@ layout: default
         </h3>
         {%- if site.show_excerpts -%}
           {{ post.excerpt }}
-      <!--  <p style="border-bottom:1px dashed #ccc;margin-bottom:48px;font-size:80%;">(<a href="{{ site.baseurl }}{{ post.url }}" class="read-more">read more</a>)</p> -->
         {%- endif -%}
-      </li>
+
+        {% if post.excerpt != post.content %}
+          <p><a href="{{ site.baseurl }}{{ post.url }}">(read more...)</a></p>
+        {% endif %}
+
       {% if count == 3 %}{% break %}
           {% endif %}
       {%- endfor -%}
