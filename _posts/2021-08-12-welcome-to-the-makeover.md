@@ -12,6 +12,7 @@ Redirects are in place for all content and for the site’s feed for the time be
  - Site URL: https://iwebthings.jenett.org/
   - Site Feed: https://iwebthings.jenett.org/feed.atom
 
+
 If you’re currently subscribed to the rss or json feeds, they will also redirect to the new atom feed for the time being.
 
 ## change to the search form
