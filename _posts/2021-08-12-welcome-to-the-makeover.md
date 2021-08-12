@@ -6,10 +6,9 @@ permalink: /welcome-to-the-makeover/
 slug: to-the-makeover
 category: i-webthings
 ---
-<p>(update 08/12/21 12:01 PM: Still working on the feed redirect.)</p>
 <p>Notice how fast the page loaded? I’ve migrated the hub from Wordpress to Jekyll - static pages with a bit of javascript and no database - it’s a lean machine.</p>
 <h2>our url has changed</h2>
-<p>Redirects are in place for all content and the site’s feed for the time being but you may want to update your bookmarks for future use. When the iwebthings.com domain expires next year sometime, the redirects will no longer function. Here’s the new info:</p>  
+<p>Redirects are in place for all content <span style="text-decoration:line-through;">and the site’s feed </span>for the time being but you may want to update your bookmarks for future use. When the iwebthings.com domain expires next year sometime, the redirects will no longer function. Here’s the new info:</p>  
 <p><ul><li>Site URL: <a href="https://iwebthings.jenett.org/" title="">https://iwebthings.jenett.org/</a></li>
 <li>Site Feed: <a href="https://iwebthings.jenett.org/feed.atom" title="">https://iwebthings.jenett.org/feed.atom</a></li></ul></p>
 <p>If you’re currently subscribed to the rss or json feeds, they will also redirect to the new atom feed for the time being.</p>
