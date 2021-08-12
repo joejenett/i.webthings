@@ -5,7 +5,7 @@ date:   2021-08-12 09:30:00 -0400
 categories: i-webthings
 slug: what-have-you
 ---
-(Please pardon our dust - working on it)
+(Please pardon our dust - working on it. Still fixing redirects.)
 
 Notice how fast the page loaded? I’ve migrated the hub from Wordpress to Jekyll - static pages with a bit of javascript and no database - it’s a lean machine.
 
