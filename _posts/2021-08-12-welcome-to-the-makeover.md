@@ -2,6 +2,8 @@
 layout: post
 title:  "welcome to the makeover"
 date:   2021-08-12 09:30:00 -0400
+permalink: /welcome-to-the-makeover/
+slug: to-the-makeover
 category: i-webthings
 ---
 <p>(update 08/12/21 12:01 PM: Still working on the feed redirect.)</p>
