@@ -40,7 +40,7 @@ plugins:
 #    json: 'https://jenett.org/wm.json'
 #    cache: true
 
-#markdown: kramdown
+markdown: kramdown
             
 show_excerpts: true
 
