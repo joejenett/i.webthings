@@ -5,6 +5,7 @@ date:   2021-08-12 09:30:00 -0400
 categories: i-webthings
 slug: what-have-you
 ---
+<p>(update 08/12/21 12:01 PM: Still working on the feed redirect.)</p>
 <p>Notice how fast the page loaded? I’ve migrated the hub from Wordpress to Jekyll - static pages with a bit of javascript and no database - it’s a lean machine.</p>
 <h2>our url has changed</h2>
 <p>Redirects are in place for all content and the site’s feed for the time being but you may want to update your bookmarks for future use. When the iwebthings.com domain expires next year sometime, the redirects will no longer function. Here’s the new info:</p>  
