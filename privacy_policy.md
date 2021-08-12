@@ -17,7 +17,7 @@ mf2_syndication:
 ## Who we are
 Joe Jenett a/k/a i.webthings (“us”, “we”, or “our”) operates the websites at:
 
-  * <a href="https://iwebthings.jenett.org/" class="url" rel="noopener noreferrer">https://hub.iwebthings.com/</a>,
+  * <a href="https://iwebthings.jenett.org/" class="url" rel="noopener noreferrer">https://iwebthings.jenett.org/</a>,
   * <a href="https://directory.jenett.org/" class="url" rel="noopener noreferrer">https://directory.iwebthings.com/</a>,
   * <a href="https://the.dailywebthing.com/" class="url" rel="noopener noreferrer">https://the.dailywebthing.com/</a>,
   * <a href="https://pointers.dailywebthing.com/" class="url" rel="noopener noreferrer">https://pointers.dailywebthing.com/</a>,
@@ -27,7 +27,7 @@ Joe Jenett a/k/a i.webthings (“us”, “we”, or “our”) operates the web
 
 This page informs you of our policies regarding the collection, use and disclosure of Personal Information we receive from users of the Sites. Some policies only apply to sites with certain features.
 
-## What personal data we collect and why we collect it
+## What personal data we may collect and why we collect it
 
 ### Comments
 
