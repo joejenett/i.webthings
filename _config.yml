@@ -32,7 +32,9 @@ github_username:  joejenett
 theme: minima
 plugins:
   - jekyll-feed
+  - kramdown
 #  - jekyll-get-json
+
 
 
 #jekyll-get-json:
