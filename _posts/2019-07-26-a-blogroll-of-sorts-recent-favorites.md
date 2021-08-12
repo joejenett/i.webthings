@@ -6,6 +6,7 @@ author: joe jenett
 layout: post
 guid: https://hub.iwebthings.com/?p=879
 permalink: /a-blogroll-of-sorts-recent-favorites/
+slug: blogroll-of-sorts
 inline_featured_image:
   - "0"
 mf2_mp-syndicate-to:

@@ -7,6 +7,7 @@ excerpt: '						'
 layout: post
 guid: https://iwebthings.com/i.webthings/2010/10/18/what-i-link-is-what-i-like/
 permalink: /what_i_link_is_what_i_like/
+slug: what-i-link
 classic-editor-remember:
   - classic-editor
 complete_open_graph:

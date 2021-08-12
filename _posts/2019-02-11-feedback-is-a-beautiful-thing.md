@@ -7,6 +7,7 @@ excerpt: |
 layout: post
 guid: https://iwebthings.com/i.webthings/?p=457
 permalink: /feedback-is-a-beautiful-thing/
+slug: beautiful-thing
 classic-editor-remember:
   - classic-editor
 mf2_mp-syndicate-to:

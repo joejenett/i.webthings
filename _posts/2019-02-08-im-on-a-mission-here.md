@@ -7,6 +7,7 @@ excerpt: |
 layout: post
 guid: https://iwebthings.com/i.webthings/?p=436
 permalink: /im-on-a-mission-here/
+slug: on-a-mission
 classic-editor-remember:
   - classic-editor
 mf2_mp-syndicate-to:

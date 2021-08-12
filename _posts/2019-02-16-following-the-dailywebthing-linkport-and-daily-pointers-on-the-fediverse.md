@@ -7,6 +7,7 @@ excerpt: |
 layout: post
 guid: https://iwebthings.com/i.webthings/?p=480
 permalink: /following-the-dailywebthing-linkport-and-daily-pointers-on-the-fediverse/
+slug: on-the-fediverse
 mf2_syndication:
   - 'a:1:{i:0;s:57:"https://twitter.com/iwebthings/status/1096781516997361665";}'
   - 'a:1:{i:0;s:57:"https://twitter.com/iwebthings/status/1096781516997361665";}'
@@ -19,6 +20,8 @@ complete_open_graph:
 categories:
   - i-webthings
 ---
+(Update 08/11/21: Mastodon syndication is being discontinued.)
+
 I&#8217;m pleased to announce _the dailywebthing linkport_ and _dailywebthing daily pointers_ are now available on the Fediverse. It&#8217;s easy to follow either (or both) of these linkblogs from your Mastodon client.
 
 To follow the _linkport,_ search for _@the.dailywebthing_ in your client&#8217;s search form and follow:

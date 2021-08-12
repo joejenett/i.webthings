@@ -6,6 +6,7 @@ author: joe jenett
 layout: post
 guid: https://hub.iwebthings.com/?p=3760
 permalink: /introducing-the-i-webthings-directory/
+slug: introducing-directory
 inline_featured_image:
   - "0"
 mf2_mp-syndicate-to:

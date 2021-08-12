@@ -6,6 +6,7 @@ author: joe jenett
 layout: post
 guid: https://iwebthings.com/i.webthings/2011/04/21/my-favorite-mac-apps-part-1/
 permalink: /my_favorite_mac_apps_part_1/
+slug: apps_part_1
 classic-editor-remember:
   - classic-editor
 complete_open_graph:

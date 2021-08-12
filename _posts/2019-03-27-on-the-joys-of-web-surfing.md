@@ -6,6 +6,7 @@ author: joe jenett
 layout: post
 guid: https://hub.iwebthings.com/?p=637
 permalink: /on-the-joys-of-web-surfing/
+slug: joys-of-web
 mf2_mp-syndicate-to:
   - 'a:1:{i:0;s:4:"none";}'
 complete_open_graph:

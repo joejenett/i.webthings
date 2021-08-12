@@ -1,6 +1,6 @@
 ---
 id: 18
-title: 'lookin&#8217; for something?'
+title: 'lookin’ for something?'
 date: 2011-02-13T11:22:14-05:00
 author: joe jenett
 layout: post

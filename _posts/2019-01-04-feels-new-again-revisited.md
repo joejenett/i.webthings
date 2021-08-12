@@ -2,6 +2,7 @@
 id: 161
 title: '...feels new again (revisited)'
 date: 2019-01-04T14:11:00-05:00
+permalink: /feels-new-again-revisited/
 author: joe jenett
 excerpt: |
   <p>To reply to some points made in the <a href="https://www.kickscondor.com/the-web-finally-feels-new-again">conversation at Kicks Condor</a> which originated from <a href="https://iwebthings.com/i.webthings/the_web_finally_feels_new_again/">here</a>:</p>

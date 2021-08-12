@@ -7,6 +7,7 @@ excerpt: '						'
 layout: post
 guid: https://iwebthings.com/i.webthings/?p=395
 permalink: /updates-i-webthings-site-network/
+slug: webthings-site-network
 classic-editor-remember:
   - classic-editor
 mf2_mp-syndicate-to:

@@ -6,6 +6,7 @@ author: joe jenett
 layout: post
 guid: https://hub.iwebthings.com/?p=822
 permalink: /daily-pointers-why-i-link/
+slug: pointers-why
 inline_featured_image:
   - "0"
 mf2_mp-syndicate-to:

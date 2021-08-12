@@ -6,6 +6,7 @@ author: joe jenett
 layout: post
 guid: https://iwebthings.com/i.webthings/2011/02/01/a-web-of-oddities-2/
 permalink: /a_web_of_oddities_2/
+slug: of_oddities_2
 classic-editor-remember:
   - classic-editor
 complete_open_graph:

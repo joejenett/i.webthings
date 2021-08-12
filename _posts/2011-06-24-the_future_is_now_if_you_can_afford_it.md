@@ -6,6 +6,7 @@ author: joe jenett
 layout: post
 guid: https://iwebthings.com/i.webthings/2011/06/24/the-future-is-now-if-you-can-afford-it/
 permalink: /the_future_is_now_if_you_can_afford_it/
+slug: can_afford_it
 classic-editor-remember:
   - classic-editor
 complete_open_graph:

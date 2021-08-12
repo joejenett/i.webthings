@@ -6,6 +6,7 @@ author: joe jenett
 layout: post
 guid: https://iwebthings.com/i.webthings/2012/06/01/lifes-a-beach/
 permalink: /lifes_a_beach/
+slug: 
 classic-editor-remember:
   - classic-editor
 complete_open_graph:

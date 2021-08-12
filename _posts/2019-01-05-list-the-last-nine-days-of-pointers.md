@@ -7,6 +7,7 @@ excerpt: '						'
 layout: post
 guid: https://iwebthings.com/i.webthings/?p=177
 permalink: /list-the-last-nine-days-of-pointers/
+slug: last-nine-days
 classic-editor-remember:
   - classic-editor
 complete_open_graph:

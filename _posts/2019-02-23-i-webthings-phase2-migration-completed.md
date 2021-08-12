@@ -6,6 +6,7 @@ author: joe jenett
 layout: post
 guid: https://hub.iwebthings.com/?p=563
 permalink: /i-webthings-phase2-migration-completed/
+slug: phase2-migration
 classic-editor-remember:
   - classic-editor
 mf2_mp-syndicate-to:

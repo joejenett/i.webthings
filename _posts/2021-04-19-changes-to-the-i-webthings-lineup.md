@@ -7,6 +7,7 @@ author: joe jenett
 layout: post
 guid: https://hub.iwebthings.com/?p=5182
 permalink: /changes-to-the-i-webthings-lineup/
+slug: webthings-lineup
 inline_featured_image:
   - "0"
 mf2_mp-syndicate-to:

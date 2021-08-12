@@ -6,6 +6,7 @@ author: joe jenett
 layout: post
 guid: https://hub.iwebthings.com/?p=4840
 permalink: '/we-%e2%9d%a4%ef%b8%8f-and-appreciate-pinboard/'
+slug: appreciate-pinboard
 inline_featured_image:
   - "0"
 mf2_mp-syndicate-to:

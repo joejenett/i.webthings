@@ -6,6 +6,7 @@ author: joe jenett
 layout: post
 guid: https://iwebthings.com/i.webthings/2011/02/21/looking-back-just-a-few-faves-2/
 permalink: /looking_back_just_a_few_faves_2/
+slug: few_faves_2
 classic-editor-remember:
   - classic-editor
 complete_open_graph:

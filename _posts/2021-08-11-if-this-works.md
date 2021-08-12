@@ -2,7 +2,7 @@
 layout: post
 title:  "if this works..."
 date:   2021-08-11 18:25:00 -0400
-permalink: /if-this-works
+permalink: /if-this-works/
 author: joe jenett
 categories: i-webthings
 ---

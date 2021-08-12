@@ -6,6 +6,7 @@ author: joe jenett
 layout: post
 guid: https://hub.iwebthings.com/?p=789
 permalink: /most-recent-additions-to-the-daily-pointers/
+slug: more recent additions
 mf2_mp-syndicate-to:
   - 'a:1:{i:0;s:4:"none";}'
 complete_open_graph:

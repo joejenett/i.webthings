@@ -6,6 +6,7 @@ author: joe jenett
 layout: post
 guid: https://iwebthings.com/i.webthings/2012/08/14/lifes-a-beach-2/
 permalink: /lifes_a_beach_2/
+slug: beach_2
 classic-editor-remember:
   - classic-editor
 complete_open_graph:

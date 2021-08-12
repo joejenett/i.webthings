@@ -6,6 +6,7 @@ author: joe jenett
 layout: post
 guid: https://iwebthings.com/i.webthings/2010/10/24/two-of-my-favorite-walls/
 permalink: /two_of_my_favorite_walls/
+slug: favorite_walls
 classic-editor-remember:
   - classic-editor
 complete_open_graph:

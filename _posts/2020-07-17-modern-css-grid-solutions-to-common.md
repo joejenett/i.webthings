@@ -6,6 +6,7 @@ author: joe jenett
 layout: post
 guid: https://hub.iwebthings.com/?p=3222
 permalink: /modern-css-grid-solutions-to-common/
+slug: modern-css-grid
 micropub_auth_response:
   - 'a:10:{s:10:"token_type";s:6:"Bearer";s:5:"scope";s:20:"create delete update";s:2:"me";s:27:"https://hub.iwebthings.com/";s:9:"issued_by";s:54:"https://hub.iwebthings.com/wp-json/indieauth/1.0/token";s:9:"client_id";s:20:"https://omnibear.com";s:11:"client_name";s:8:"Omnibear";s:11:"client_icon";s:29:"https://omnibear.com/logo.svg";s:9:"issued_at";i:1591353809;s:4:"user";i:1;s:13:"last_accessed";i:1594990254;}'
 mf2_type:

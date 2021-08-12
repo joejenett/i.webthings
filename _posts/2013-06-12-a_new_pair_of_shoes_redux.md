@@ -3,15 +3,10 @@ id: 56
 title: A New Pair Of Shoes (redux)
 date: 2013-06-12T08:53:15-04:00
 author: joe jenett
-excerpt: |
-  
-  <p>Here's the plan. I'm gonna start a website to give you a special little freebie (everybody loves freebies), and link it to another site where I'll review books I've read (yeah, right!) and provide easy links for buying said books. Of course, those'll be affiliate links 'cause I'm gonna get rich quick, Mama. And if that don't work, the 32 Google Ads surrounding each book review should at least cover my nut.</p>
-  <p>This is Web 2.0 baby. We can all pretend to be whatever we want and monetize even the crappiest of content. We're all in it for the game and we ain't gotta work no more. I love the web and it loves me. Yeah, right!</p>
-  <p>Get a grip, Joe. Wake up. You're just having a bad dream...</p>
-  <p><small>(originally published <a href="http://bulltown.com/simply.personal/a_new_pair_of_shoes/">7/15/10</a> @ <a href="http://bulltown.com/simply.personal/">jenett.simply.personal</a>) </small></p>
 layout: post
 guid: https://iwebthings.com/i.webthings/2013/06/12/a-new-pair-of-shoes-redux/
 permalink: /a_new_pair_of_shoes_redux/
+slug: shoes_redux
 classic-editor-remember:
   - classic-editor
 complete_open_graph:

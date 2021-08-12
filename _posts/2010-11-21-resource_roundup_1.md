@@ -3,7 +3,8 @@ id: 12
 title: resource roundup (1)
 date: 2010-11-21T09:25:21-05:00
 author: joe jenett
-excerpt: |
+slug: roundup_1
+
   
   <p>An assortment of resources and tools from the archives of <a href="http://dailywebthing.com/linkport/">the dailywebthing</a>...</p>
   Cheat Sheets:

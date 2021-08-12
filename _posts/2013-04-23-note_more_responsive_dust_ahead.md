@@ -3,9 +3,7 @@ id: 51
 title: 'note: more (responsive) dust ahead'
 date: 2013-04-23T07:59:58-04:00
 author: joe jenett
-excerpt: |
-  
-  So. After having finished the responsive redesign of <a href="http://dailywebthing.com/linkport/">the dailywebthing</a> recently (though some ongoing tweaking continues), I decided to do the same here. I'll be testing new templates and implementing changes here on the live site for the next few days, so if you should encounter something funky, it's probably temporary. And yes, I am having fun!
+slug: more_responsive_dust
 layout: post
 guid: https://iwebthings.com/i.webthings/2013/04/23/note-more-responsive-dust-ahead/
 permalink: /note_more_responsive_dust_ahead/
