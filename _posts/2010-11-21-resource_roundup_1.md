@@ -4,31 +4,6 @@ title: resource roundup (1)
 date: 2010-11-21T09:25:21-05:00
 author: joe jenett
 slug: roundup_1
-
-  
-  <p>An assortment of resources and tools from the archives of <a href="http://dailywebthing.com/linkport/">the dailywebthing</a>...</p>
-  Cheat Sheets:
-  <ul>
-  <li><a href="http://www.addedbytes.com/cheat-sheets/">Assorted Cheat Sheets</a></li>
-  <li><a href="http://lesliefranke.com/files/reference/firefoxcheatsheet.html">Mozilla Firefox Cheat Sheet</a></li>
-  <li><a href="http://lesliefranke.com/files/reference/csscheatsheet.html">CSS Cheat Sheet</a></li>
-  <li><a href="http://www.storiesinflight.com/html5/">HTML5/CSS3 Cheatsheet</a></li>
-  </ul>
-  Generators:
-  <ul>
-  <li><a href="http://www.colorzilla.com/gradient-editor/">Ultimate CSS Gradient Generator</a></li>
-  <li><a href="http://css3generator.com/">CSS3 Generator</a></li>
-  <li><a href="http://css3please.com/">CSS3 Please!</a></li>
-  <li><a href="http://projectdeploy.org/">Project Deploy*</a></li>
-  <li><a href="http://cooletips.de/htaccess/">htaccess Generator</a></li>
-  </ul>
-  Bookmarklets:
-  <ul>
-  <li><a href="http://markup.io/">Markup</a></li>
-  <li><a href="http://quixapp.com/">Quix</a></li>
-  <li><a href="http://www.readshout.com/quickread">QuickRead</a></li>
-  <li><a href="http://www.sprymedia.co.uk/article/Design">Design</a></li>
-  </ul>
 layout: post
 guid: https://iwebthings.com/i.webthings/2010/11/21/resource-roundup-1/
 permalink: /resource_roundup_1/
