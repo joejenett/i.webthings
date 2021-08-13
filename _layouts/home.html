@@ -40,12 +40,12 @@ layout: default
 			console.log(mydata);
 			var output = '';
 			$.each(mydata.links, function(i, v) {
-        		if (v.target.search("{{ site.url }}/") = 1) {
+        		if (v.target.search("{{ site.url }}/") != -1) {
 				output = 'Mentions: <br />';
 			}
 			});
         		$.each(mydata.links, function(i, v) {
-        		if (v.target.search("{{ site.url }}/") = 1) {
+        		if (v.target.search("{{ site.url }}/") != -1) {
         		output += '<a href="' + v.source + '"><img src="' + v.data.author.photo + '" alt="" width="48" /></a> ';
                	}
     	});
