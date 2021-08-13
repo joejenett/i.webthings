@@ -40,7 +40,7 @@ layout: default
 			console.log(mydata);
 			var output = '';
 			$.each(mydata.links, function(i, v) {
-        		if (v.target.search("{{ site.url }}/")) {
+        		if (v.target.search("{{ site.url }}/")) != -1) {
 				output = 'Mentions: <br />';
 			}
 			});
