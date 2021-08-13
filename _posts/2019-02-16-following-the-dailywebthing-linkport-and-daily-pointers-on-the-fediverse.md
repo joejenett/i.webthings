@@ -20,9 +20,7 @@ complete_open_graph:
 categories:
   - i-webthings
 ---
-(Update 08/11/21: Mastodon syndication is being discontinued.)
-
-I&#8217;m pleased to announce _the dailywebthing linkport_ and _dailywebthing daily pointers_ are now available on the Fediverse. It&#8217;s easy to follow either (or both) of these linkblogs from your Mastodon client.
+I’m pleased to announce _the dailywebthing linkport_ and _dailywebthing daily pointers_ are now available on the Fediverse. It&#8217;s easy to follow either (or both) of these linkblogs from your Mastodon client.
 
 To follow the _linkport,_ search for _@the.dailywebthing_ in your client&#8217;s search form and follow:
 
