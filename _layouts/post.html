@@ -39,16 +39,15 @@ layout: default
 			var output = '';
 			$.each(mydata.links, function(i, v) {
 				if (v.target.search(new RegExp(/{{ page.slug }}/i)) != -1) {
-				output = 'Mentions: <ul>';
+				output = 'Mentions: <br />';
 			}
 			});
         		$.each(mydata.links, function(i, v) {
         		if (v.target.search(new RegExp(/{{ page.slug }}/i)) != -1) {
-        		output += '<li><img src="' + v.data.author.photo + '" alt="" width="32"> ';
-        		output += '<a href="' + v.source + '"><small>' + v.source + '</small></a></li>';
-        	}
+        		output += '<a href="' + v.source + '"><img src="' + v.data.author.photo + '" alt="" width="48" /></a> ';
+               	}
     	});
-    		output += '</ul>';
+    		output += '<br /> ';
     		$('#result').html(output);
 		});	
 	});
