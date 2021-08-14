@@ -44,10 +44,10 @@ layout: default
 			});
         		$.each(mydata.links, function(i, v) {
         		if (v.target.search(new RegExp(/{{ page.slug }}/i)) != -1) {
-        		output += '<a href="' + v.source + '"><img src="' + v.data.author.photo + '" alt="" width="48" /></a> ';
+               		output += '<a href="' + v.source + '"><img src="' + v.data.author.photo + '" alt="" width="48" /></a> ';
                	}
     	});
-    		output += '<br /> ';
+    		output += ' ';
     		$('#result').html(output);
 		});	
 	});
