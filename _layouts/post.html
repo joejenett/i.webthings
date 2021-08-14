@@ -40,14 +40,14 @@ layout: default
 			$.each(mydata.links, function(i, v) {
 				if (v.target.search(new RegExp(/{{ page.slug }}/i)) != -1) {
 				output = 'Mentions: <ul>';
-			}
+				}
 			});
-        		$.each(mydata.links, function(i, v) {
+        	$.each(mydata.links, function(i, v) {
         		if (v.target.search(new RegExp(/{{ page.slug }}/i)) != -1) {
         		output += '<li><img src="' + v.data.author.photo + '" alt="" width="32"> ';
         		output += '<a href="' + v.source + '"><small>' + v.source + '</small></a></li>';
-        	}
-    	});
+        		}
+    		});
     		output += '</ul>';
     		$('#result').html(output);
 		});	
