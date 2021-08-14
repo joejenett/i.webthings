@@ -33,10 +33,15 @@ layout: default
 </div>
 <script type="text/javascript">
 	$().ready(function(){
-		$.getJSON( "$.getJSON( "https://webmention.io/api/mentions?token=Hk9-dBDdNDqQh9UECT5hdg",
+		$.getJSON( "https://webmention.io/api/mentions?token=Hk9-dBDdNDqQh9UECT5hdg",
 		function( mydata ) {
 			console.log(mydata);
-			var output = 'Mentions: <ul>';
+			var output = '';
+			$.each(mydata.links, function(i, v) {
+				if (v.target.search(new RegExp(/{{ page.slug }}/i)) != -1) {
+				output = 'Mentions: <ul>';
+				}
+			});
         	$.each(mydata.links, function(i, v) {
         		if (v.target.search(new RegExp(/{{ page.slug }}/i)) != -1) {
         		output += '<li><img src="' + v.data.author.photo + '" alt="" width="32"> ';
