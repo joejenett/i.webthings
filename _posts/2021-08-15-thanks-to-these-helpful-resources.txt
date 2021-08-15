@@ -2,7 +2,7 @@
 layout: post
 title:  "thanks to these helpful resources"
 date:   2021-08-15 11:57:00 -0400
-category: archives
+category: i-webthings
 slug: these-helpful-resources
 ---
 <p>I found these resources helpful in the recent move to Jekyll for i.webthings - sharing in case they might be useful to you as well.</p>
