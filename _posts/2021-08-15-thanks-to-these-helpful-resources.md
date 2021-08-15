@@ -18,4 +18,4 @@ permalink: /thanks-to-these-helpful-resources/
 <li><a title="Simple Secure Spam-Free Contact Form in PHP – Iris - Phppot" href="https://phppot.com/php/simple-secure-spam-free-contact-form-in-php-iris/">Iris Contact Form</a> ($)</li>
 <li><a title="Liquid template language" href="https://shopify.github.io/liquid/">Liquid template language</a></li>
 </ul>
-<p><a href="https://brid.gy/publish/twitter"></a></p>
+<p><a class="u-syndication" href="https://brid.gy/publish/twitter"></a></p>
