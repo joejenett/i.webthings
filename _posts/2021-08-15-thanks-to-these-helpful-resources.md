@@ -4,6 +4,7 @@ title:  "thanks to these helpful resources"
 date:   2021-08-15 11:57:00 -0400
 category: i-webthings
 slug: these-helpful-resources
+permalink: /thanks-to-these-helpful-resources/
 ---
 <p>I found these resources helpful in the recent move to Jekyll for i.webthings - sharing in case they might be useful to you as well.</p>
 <ul>
