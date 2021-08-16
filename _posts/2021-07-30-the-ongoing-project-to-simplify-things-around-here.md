@@ -4,7 +4,8 @@ date: 2021-07-30 13:46:00 -04:00
 author: joe jenett
 layout: post
 permalink: /the-ongoing-project-to-simplify-things-around-here/
-categories: i-webthings
+categories:
+  - i-webthings
 slug: ongoing-project
 inline_featured_image:
   - "0"
