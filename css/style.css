@@ -181,8 +181,7 @@ padding:0 12px 0 48px;"
 	padding: 9px;
 	margin: 0 10px;
 	border: 1px solid #a3b8cc;
-	background-color: var(--sp-bg-color);
-	border-radius: 8px;
+	background: #fbffff;	border-radius: 8px;
 	text-align: center;
 	font-size: .9em;
 	font-weight: 600;
