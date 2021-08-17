@@ -17,6 +17,10 @@ line-height:1.45em;
 body {
 background-color: #fff;
 }
+nav {
+position: relative;
+top: -6px;
+}
 h1.post-title {
 font-size:30px;
 }
