@@ -21,6 +21,10 @@ nav {
 position: relative;
 top: -6px;
 }
+.home {
+position: relative;
+top: -11px;
+}
 h1.post-title {
 font-size:30px;
 }
