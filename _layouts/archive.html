@@ -2,7 +2,8 @@
 layout: default
 ---
 
-<div class="home" style="margin-top:36px;">
+<div class="home">
+<div style="margin-top:36px;">
   {%- if page.title -%}
     <h1 class="page-heading">{{ page.title }}</h1>
   {%- endif -%}
@@ -27,5 +28,5 @@ layout: default
   {% endfor %}
   
       <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
-
+</div>
 </div>
