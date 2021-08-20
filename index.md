@@ -3,5 +3,6 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 slug: iwebthings.jenett
 layout: home
+title: "i.webthings hub"
 ---
  
