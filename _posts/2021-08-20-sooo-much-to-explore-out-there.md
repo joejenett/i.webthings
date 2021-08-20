@@ -3,7 +3,7 @@ layout: post
 title:  "sooo much to explore out there..."
 date:   2021-08-20 08:41:00 -0400
 author: joe jenett
-categories:
+category:
   - i-webthings
   - explore
 permalink: /sooo-much-to-explore-out-there/
