@@ -18,12 +18,12 @@ body {
 background-color: #fff;
 }
 a, ul.post-list li a {
-color: #004068;
+color: #286c80;
 text-decoration: none;
 font-weight:500;
 }
 a:visited, ul.post-list li a:visited {
-color: #004068;
+color: #286c80;
 
  }
 a:hover, ul.post-list li a:hover {
@@ -272,7 +272,7 @@ padding:0 12px 0 48px;
 	list-style:none outside none;
 	line-height:1.4em;	
 }
-#aka li a, li a:visited {
+#aka li a, #aka li a:visited {
 	font-weight:600;
 	text-decoration:none;
 	color:#222;
