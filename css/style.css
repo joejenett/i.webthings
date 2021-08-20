@@ -17,6 +17,19 @@ line-height:1.45em;
 body {
 background-color: #fff;
 }
+a, ul.post-list li a {
+color: #004068;
+text-decoration: none;
+font-weight:500;
+}
+a:visited, ul.post-list li a:visited {
+color: #004068;
+
+ }
+a:hover, ul.post-list li a:hover {
+color: #222;
+text-decoration: underline; 
+}
 nav {
 position: relative;
 top: -6px;
@@ -32,7 +45,7 @@ font-size:30px;
 font-size: 28px;
 font-weight: 500;
 }
-.titleme {
+.titleme a.url {
 font-size:48px;
 letter-spacing:-1px;
 font-weight:700;"
