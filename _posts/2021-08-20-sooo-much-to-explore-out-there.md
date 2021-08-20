@@ -33,6 +33,7 @@ slug: much-to-explore
 <li><a class="normaltext" title="a11y tools" href="https://a11y-tools.com/">a11y tools</a></li>
 <li><a class="normaltext" title="color.gd" href="https://color.gd/">color.gd</a></li>
 </ul>
+
 <p>Enjoy!</p>
 <a class="u-syndication" href="https://brid.gy/publish/twitter"></a>
 
