@@ -6,6 +6,7 @@ author: joe jenett
 categories:
   - i-webthings
   - explore
+permalink: /sooo-much-to-explore-out-there/
 slug: much-to-explore
 ---
 ...like the last 7 days of <a href="https://pointers.dailywebthing.com/" title="">pointers</a> fer example:
