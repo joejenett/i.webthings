@@ -4,5 +4,6 @@
 slug: iwebthings.jenett
 layout: home
 title: "i.webthings hub"
+description: "i.webthings - an independent and noncommercial web initiative."
 ---
  
