@@ -30,7 +30,7 @@ layout: default
         {% if post.excerpt != post.content %}
           <p><a href="{{ site.baseurl }}{{ post.url }}">(read more...)</a></p>
         {% endif %}
-
+</li>
       {% if count == 3 %}{% break %}
           {% endif %}
       {%- endfor -%}
