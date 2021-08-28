@@ -1,6 +1,6 @@
 ---
 id: 879
-title: 'a blogroll of sorts &ndash; recent favorites'
+title: 'a blogroll of sorts - recent favorites'
 date: 2019-07-26T12:09:16-04:00
 author: joe jenett
 layout: post
@@ -34,7 +34,7 @@ kind:
   * [erasing.org](https://erasing.org/)
   * [Flashing Palely in the Margins](https://www.inthemargins.ca/)
   * [From Whence, Fragment?](https://fromwhencefragment.com/)
-  * [Gabz/mL](https://gabz.me/ "")
+  * [Gabz/mL](https://gabz.me/)
   * [John Johnston](https://johnjohnston.info/blog/)
   * [jottkah](http://blog.jottkah.de/)
   * [Kicks Condor](https://www.kickscondor.com/)
