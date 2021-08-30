@@ -50,4 +50,13 @@ kind:
 
 <small></em>(also posted to <a class="u-syndication" href="https://indieweb.xyz/en/linking">indieweb.xyz/en/linking</a>)</em></small>
 
-[](https://fed.brid.gy/)
+<h2 id="comments-title">One thought on “<span>most recent additions to the daily pointers</span>”		</h2>
+
+
+<ol class="commentlist">
+</ol>
+<div class="bookmarks">
+<h3>Bookmarks</h3>
+<ul class="mention-list linkback-bookmark"><li class="webmention even thread-even depth-1 linkback-bookmark-single u-bookmark h-cite h-entry p-comment comment" id="comment-127">
+<span class="p-author h-card"><a class="u-url" title="Kicks Condor bookmarked this note on kickscondor.com." href="https://www.kickscondor.com/"><img alt="" src="https://secure.gravatar.com/avatar/?s=64&amp;d=identicon&amp;r=pg" srcset="https://secure.gravatar.com/avatar/?s=128&amp;d=identicon&amp;r=pg 2x" class="avatar avatar-64 photo avatar-default u-photo" itemprop="image" loading="lazy" width="64" height="64"></a><span class="hide-name p-name">Kicks Condor</span></span><a class="u-url" href="https://www.kickscondor.com/raw-links-from-joe"></a>
+</li></ul></div>
