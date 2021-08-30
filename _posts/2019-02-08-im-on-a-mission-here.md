@@ -41,4 +41,30 @@ When it comes to what I do on the web, the positives have always outweighed the 
 
 Carry on.
 
-[](https://fed.brid.gy/)
+<h2 id="comments-title">3 thoughts on “<span>I’m on a mission here</span>”		</h2>
+
+
+<ol class="commentlist">
+</ol>
+
+
+<div class="likes">
+<h3>Likes</h3>
+<ul class="mention-list linkback-like"><li class="webmention even thread-even depth-1 linkback-like-single u-like h-cite h-entry p-comment comment" id="comment-5">
+<span class="p-author h-card"><a class="u-url" title="Jacky Alcine liked this  on v2.jacky.wtf." href="https://v2.jacky.wtf/"><img alt="" src="https://v2.jacky.wtf/media/image/floating/18839571_10211060628046341_57901873418052273_o.jpg?v=original" srcset="https://v2.jacky.wtf/media/image/floating/18839571_10211060628046341_57901873418052273_o.jpg?v=original 2x" class="avatar avatar-64 photo avatar-default local-avatar u-photo" itemprop="image" loading="lazy" width="64" height="64"></a><span class="hide-name p-name">Jacky Alcine</span></span><a class="u-url" href="https://v2.jacky.wtf/post/e702f629-2ffe-4fbf-a4e9-27b850f0b3ba"></a>
+</li></ul>
+</div>
+
+
+<div class="bookmarks">
+<h3>Bookmarks</h3>
+<ul class="mention-list linkback-bookmark"><li class="webmention odd alt thread-odd thread-alt depth-1 linkback-bookmark-single u-bookmark h-cite h-entry p-comment comment" id="comment-4">
+<span class="p-author h-card"><a class="u-url" title="Kicks Condor bookmarked this  on kickscondor.com." href="https://www.kickscondor.com/"><img alt="" src="https://secure.gravatar.com/avatar/?s=64&amp;d=identicon&amp;r=pg" srcset="https://secure.gravatar.com/avatar/?s=128&amp;d=identicon&amp;r=pg 2x" class="avatar avatar-64 photo avatar-default u-photo" itemprop="image" loading="lazy" width="64" height="64"></a><span class="hide-name p-name">Kicks Condor</span></span><a class="u-url" href="https://www.kickscondor.com/joe%27s-syndicated-links-considered-%27spam%27-by-some-mastodon-instance"></a>
+</li></ul>
+</div>
+
+<div class="mentions">
+<h3>Mentions</h3>
+<ul class="mention-list linkback-mention"><li class="webmention even thread-even depth-1 linkback-mention-single u-mention h-cite h-entry p-comment comment" id="comment-6">
+<span class="p-author h-card"><a class="u-url" title="" href="https://boffosocko.com/"><img alt="" src="https://secure.gravatar.com/avatar/d5fb4e498fe609cc29b04e5b7ad688c4?s=49&amp;d=identicon&amp;r=pg" srcset="https://secure.gravatar.com/avatar/d5fb4e498fe609cc29b04e5b7ad688c4?s=49&amp;d=identicon&amp;r=pg 2x" class="avatar avatar-64 photo avatar-default local-avatar u-photo" itemprop="image" loading="lazy" width="64" height="64"></a><span class="hide-name p-name">Chris Aldrich</span></span><a class="u-url" href="https://boffosocko.com/2019/02/09/mastodon-spam-wordpress-and-the-indieweb/"></a>
+</li></ul></div>
