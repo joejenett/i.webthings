@@ -1,6 +1,6 @@
 ---
 id: 30
-title: 'just playin&#8217; (more walls)'
+title: 'just playin’ (more walls)'
 date: 2011-08-21T11:41:15-04:00
 author: joe jenett
 layout: post
