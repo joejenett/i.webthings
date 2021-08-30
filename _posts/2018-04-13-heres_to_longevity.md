@@ -1,6 +1,6 @@
 ---
 id: 85
-title: 'here&#8217;s to longevity!'
+title: 'here’s to longevity!'
 date: 2018-04-13T17:29:02-04:00
 author: joe jenett
 layout: post
