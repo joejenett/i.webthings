@@ -62,7 +62,7 @@ October 2, 2020 at 2:20 pm						</time></a>
 <article id="comment-545" class="comment " itemprop="comment" itemscope="" itemtype="http://schema.org/Comment">
 <footer>
 <address class="comment-author p-author author vcard hcard h-card" itemprop="creator" itemscope="" itemtype="http://schema.org/Person">
-<img alt="" src="https://micro.blog/iwebthings/avatar.jpg" srcset="https://micro.blog/iwebthings/avatar.jpg 2x" class="avatar avatar-50 photo avatar-default local-avatar u-photo" itemprop="image" loading="lazy" width="50" height="50">				<cite class="fn p-name" itemprop="name"><a href="https://micro.blog/iwebthings" rel="external nofollow ugc" class="u-url url">iwebthings</a></cite> <span class="says">says:</span>					</address>
+<img alt="" src="https://secure.gravatar.com/avatar/0bf0445b4e4b39f830b186b7e23195a1?s=50&amp;d=identicon&amp;r=pg" itemprop="image" loading="lazy" width="50" height="50">				<cite class="fn p-name" itemprop="name"><a href="https://micro.blog/iwebthings" rel="external nofollow ugc" class="u-url url">iwebthings</a></cite> <span class="says">says:</span>					</address>
 <!-- .comment-author .vcard -->
 
 <div class="comment-meta commentmetadata">
