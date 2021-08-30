@@ -30,6 +30,9 @@ a:hover, ul.post-list li a:hover {
 color: #222;
 text-decoration: underline; 
 }
+article.comment {
+margin-bottom:9px;
+}
  .commentlist li, .bookmarks li, .mentions li, .likes li {
   list-style:none;	
   }
