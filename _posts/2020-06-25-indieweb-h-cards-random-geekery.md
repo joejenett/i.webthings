@@ -36,6 +36,6 @@ categories:
 kind:
   - Bookmark
 ---
-<span class="kind-display-text">Bookmarked</span> <a href="https://randomgeekery.org/post/2020/04/indieweb-h-cards/" class="p-name u-url">Indieweb h-cards</a> by <a href="https://randomgeekery.org" class="h-card p-author"><img class="u-photo" src="https://randomgeekery.org/img/avatar-thumbnail.jpg" alt="Brian Wisti" width="32" height="32"> Brian Wisti</a> <em>(<span class="p-publication">randomgeekery.org</span>)</em>
+<span class="kind-display-text">Bookmarked</span> <a href="https://randomgeekery.org/post/2020/04/indieweb-h-cards/" class="p-name u-url">Indieweb h-cards</a> by <a href="https://randomgeekery.org" class="h-card p-author"><img class="u-photo" src="https://randomgeekery.org/img/avatar-thumbnail.jpg" alt="Brian Wisti" width="32"> Brian Wisti</a> <em>(<span class="p-publication">randomgeekery.org</span>)</em>
 <blockquote class="e-summary">Using microformats to build a profile page</blockquote>
 
