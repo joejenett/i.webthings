@@ -1,6 +1,6 @@
 ---
 id: 71
-title: '“Get the facts&#8230;”'
+title: '“Get the facts...”'
 date: 2015-06-01T10:59:01-04:00
 author: joe jenett
 excerpt: |
