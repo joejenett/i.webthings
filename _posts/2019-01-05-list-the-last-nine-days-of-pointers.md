@@ -46,3 +46,24 @@ kind:
   * [Meteuphoric](https://meteuphoric.com/ "Meteuphoric")[📌](https://pinboard.in/u:) [⬅](https://href.cool/ "Href.cool")
   * [Island in the Net](https://islandinthenet.com/blog-home/ "Island in the Net")
   * [Elen Grey](https://elengrey.com/ "Elen Grey")
+  
+<h2 id="comments-title">One thought on “<span>list: the last nine days of pointers</span>”		</h2>
+
+
+<ol class="commentlist">
+<li class="comment even thread-even depth-1 h-cite h-entry p-comment" id="li-comment-2">
+<article id="comment-2" class="comment _mPS2id-t mPS2id-target mPS2id-target-last" itemprop="comment" itemscope="" itemtype="http://schema.org/Comment">
+<footer>
+<address class="comment-author p-author author vcard hcard h-card" itemprop="creator" itemscope="" itemtype="http://schema.org/Person">
+<img alt="" src="https://iwebthings.com/i.webthings/wp-content/plugins/semantic-linkbacks/img/mm.jpg" srcset="https://iwebthings.com/i.webthings/wp-content/plugins/semantic-linkbacks/img/mm.jpg 2x" class="avatar avatar-50 photo avatar-default local-avatar u-photo" itemprop="image" loading="lazy" width="50" height="50">				<cite class="fn p-name" itemprop="name">Anne</cite> <span class="says">says:</span>					</address>
+<!-- .comment-author .vcard -->
+
+<div class="comment-meta commentmetadata">
+<a href="/list-the-last-nine-days-of-pointers/#comment-2" class="__mPS2id _mPS2id-h mPS2id-highlight"><time class="updated published dt-updated dt-published" datetime="2019-01-19T11:54:30-05:00" itemprop="datePublished dateModified dateCreated">
+January 19, 2019 at 11:54 am						</time></a>
+</div>
+<!-- .comment-meta .commentmetadata -->
+</footer>
+
+<div class="comment-content e-content p-summary p-name" itemprop="text name description">
+<p>Haven’t been here in a while. (Hiding out from all things orange and/or painful.)  How lovely and new and fresh. — And that title over there — Is it real? Is it true? The web finally feels new again? Must dive in.</p></div></article></li></ol>
