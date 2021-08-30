@@ -48,7 +48,7 @@ kind:
   * [Cosmic Voyage](https://cosmic.voyage/)
   * [Gold-mended Life](http://goldmendedlife.com/)
 
-<small></em>(also posted to <a class="u-syndication" href="https://indieweb.xyz/en/linking">indieweb.xyz/en/linking</a>)</em></small>
+<small><em>(also posted to <a class="u-syndication" href="https://indieweb.xyz/en/linking">indieweb.xyz/en/linking</a>)</em></small>
 
 <h2 id="comments-title">One thought on “<span>most recent additions to the daily pointers</span>”		</h2>
 
