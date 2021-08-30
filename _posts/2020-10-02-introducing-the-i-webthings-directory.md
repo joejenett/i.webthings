@@ -86,18 +86,6 @@ October 2, 2020 at 3:42 pm						</time></a>
 
 
 
-<p class="nocomments">Comments are closed.</p>
-
-
-
-
-
-
-
-
-
-
-
 
 
 
