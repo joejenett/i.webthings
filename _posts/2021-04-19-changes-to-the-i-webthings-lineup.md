@@ -31,7 +31,7 @@ joe jenett
 <h2 id="comments-title">One thought on “<span>changes to the i.webthings lineup</span>”		</h2>
 <ol class="commentlist">
 		</ol>
-<p class="nocomments">Comments are closed.</p>
+
 <div class="likes">
 <h3>Likes</h3>
 <ul class="mention-list linkback-like"><li class="webmention even thread-even depth-1 linkback-like-single u-like h-cite h-entry p-comment comment" id="comment-2706">
