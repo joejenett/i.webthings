@@ -28,9 +28,6 @@ Thanks,
 
 joe jenett
 
-<!-- excerpt-end -->
---- 
-
 
 <h2 id="comments-title">5 thoughts on “<span>changes to the i.webthings hub</span>”		</h2>
 
