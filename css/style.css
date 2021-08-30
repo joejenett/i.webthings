@@ -30,6 +30,9 @@ a:hover, ul.post-list li a:hover {
 color: #222;
 text-decoration: underline; 
 }
+article.post.h-entry div.post-content.e-content p a.h-card.p-author img.u-photo {
+border-radius: 24px;
+}
 article.comment {
 margin-bottom:9px;
 }
