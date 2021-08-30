@@ -52,3 +52,13 @@ kind:
 [<img src="/wp-content/uploads/2019/04/feeds.jpg" alt="You Need Feeds" style="border:none;width:550px;" />](https://www.youneedfeeds.com/ "You Need Feeds") 
 
 <small><em>(also posted to <a class="u-ooosyndication" href="https://indieweb.xyz/en/initiatives">indieweb.xyz/en/initiatives</a>)</em></small>
+
+<h2 id="comments-title">One thought on “<span>web and technology initiatives</span>”		</h2>
+
+<ol class="commentlist">
+</ol>
+<div class="bookmarks">
+<h3>Bookmarks</h3>
+<ul class="mention-list linkback-bookmark"><li class="webmention even thread-even depth-1 linkback-bookmark-single u-bookmark h-cite h-entry p-comment comment" id="comment-324">
+<span class="p-author h-card"><a class="u-url" title="Charlotte Allen bookmarked this note on charlotteallen.info." href="https://charlotteallen.info/author/charlotte/"><img alt="" src="https://seccdn.libravatar.org/avatar/a89c5af69159d7d8caf0d158708d2a83?size=40" srcset="https://seccdn.libravatar.org/avatar/a89c5af69159d7d8caf0d158708d2a83?size=40 2x" class="avatar avatar-64 photo avatar-default local-avatar u-photo" itemprop="image" loading="lazy" width="64" height="64"></a><span class="hide-name p-name">Charlotte Allen</span></span><a class="u-url" href="https://charlotteallen.info/2020/01/25/6988/"></a>
+</li></ul></div>
