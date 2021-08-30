@@ -32,3 +32,13 @@ That&#8217;s why I created _dailywebthing daily pointers_ back in 2000. I like t
 
 <small></em>(also posted to <a class="u-syndication" href="https://indieweb.xyz/en/linking">indieweb.xyz/en/linking</a>)</em></small>
 
+<h2 id="comments-title">One thought on “<span>daily pointers: why i link</span>”		</h2>
+
+
+<ol class="commentlist">
+	</ol>
+<div class="mentions">
+<h3>Mentions</h3>
+<ul class="mention-list linkback-mention"><li class="webmention even thread-even depth-1 linkback-mention-single u-mention h-cite h-entry p-comment comment" id="comment-172">
+<span class="p-author h-card"><a class="u-url" title="" href="https://andanotherthing.co/author/jphilpin/"><img alt="" src="https://secure.gravatar.com/avatar/?s=64&amp;d=identicon&amp;r=pg" srcset="https://secure.gravatar.com/avatar/?s=128&amp;d=identicon&amp;r=pg 2x" class="avatar avatar-64 photo avatar-default u-photo" itemprop="image" loading="lazy" width="64" height="64"></a><span class="hide-name p-name">John Philpin</span></span><a class="u-url" href="https://andanotherthing.co/2019/07/good-chaps-in-general/"></a>
+</li></ul></div>
