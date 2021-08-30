@@ -45,7 +45,7 @@ article.post.h-entry div.post-content.e-content h2#comments-title, html body div
   font-size:1.2em;
   font-weight:300;
   margin-top:48px;
-  border-top:1px solid #ddd;	
+  /*border-top:1px solid #ddd;*/	
   }
   span.hide-name.p-name {
   font-size:.9em;
