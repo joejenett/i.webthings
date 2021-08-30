@@ -137,7 +137,3 @@ April 15, 2021 at 7:01 am						</time></a>
 </li>
 <!-- #comment-## -->
 </ol>
-
-
-
-<p class="nocomments">Comments are closed.</p>
