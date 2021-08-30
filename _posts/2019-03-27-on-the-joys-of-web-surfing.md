@@ -25,3 +25,31 @@ This morning as I&#8217;m catching up on that linking thing I do, the words of a
 My mind&#8217;s in fun mode now and I start exploring Kicks&#8217; linked site. The first thing I encounter is [a piece](https://soundcloud.com/stardotdotdot/string-quartet-01) a for piano and violin created by the site&#8217;s author, Luming Hao. It&#8217;s different &#8211; eerie and engaging. Nice. Then I explore the [song](https://unclebusiness.bandcamp.com/track/thats-what-you-get-for-wearing-sandals-on-christmas-you-asshole "That's What You Get For Wearing Sandals on Christmas You Asshole") that inspired the piece, a freeform head-banger that&#8217;s most listenable. I&#8217;m smiling now, thinking how thankful I am when the surf leads to magical things.
 
 Inspiring!
+
+
+<h2 id="comments-title">One thought on “<span>on the joys of web surfing</span>”		</h2>
+
+
+<ol class="commentlist">
+<li class="webmention even thread-even depth-1 u-comment h-cite h-entry p-comment comment" id="li-comment-83">
+<article id="comment-83" class="comment " itemprop="comment" itemscope="" itemtype="http://schema.org/Comment">
+<div class="comment-content p-summary p-name" itemprop="text name description">
+<p>Times like this, it sure pays to have your depth of knowing what’s out there—YOUNG-HAE CHANG HEAVY INDUSTRIES is <em>definitely</em> a classic. One that you’ve now introduced me to. I finally took the time to browse it. What an inventive take on a blog. (Or on poetry?) Since 1997. My humblest thanks, Joe.</p>
+</div>
+<footer>
+<div class="comment-meta commentmetadata">
+<address class="comment-author p-author author vcard hcard h-card" itemprop="creator" itemscope="" itemtype="http://schema.org/Person">
+<cite class="fn p-name" itemprop="name"><a href="https://www.kickscondor.com/" rel="external nofollow ugc" class="u-url url">Kicks Condor</a></cite>						</address>
+<span class="sep">-</span>
+<a href="https://www.kickscondor.com/comments/w0t-a-c00l-site"><time class="updated published dt-updated dt-published" datetime="2019-04-04T23:01:11-04:00" itemprop="datePublished dateModified dateCreated">
+April 4, 2019 at 11:01 pm						</time></a>
+</div>
+</footer>
+</article>
+</li>
+<!-- #comment-## -->
+</ol>
+
+
+
+<p class="nocomments"></p>
