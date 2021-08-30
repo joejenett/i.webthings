@@ -33,12 +33,14 @@ text-decoration: underline;
  .commentlist li, .bookmarks li, .mentions li {
   list-style:none;	
   }
-    .commentlist img.u-photo, .bookmarks img.u-photo, .mentions img.u-photo {
+    .commentlist img.u-photo, .bookmarks img.u-photo, .mentions img.u-photo,
+    .likes u-photo {
   border-radius:24px;
   margin-right:6px;	
   }
 article.post.h-entry div.post-content.e-content h2#comments-title, html body div.wrapper article.post.h-entry div.post-content.e-content div.bookmarks h3,
-    article.post.h-entry div.post-content.e-content div.mentions h3 {
+    article.post.h-entry div.post-content.e-content div.mentions h3,
+     {
   font-size:1.2em;
   font-weight:300;
   margin-top:48px;
