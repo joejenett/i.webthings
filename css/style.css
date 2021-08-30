@@ -30,6 +30,10 @@ a:hover, ul.post-list li a:hover {
 color: #222;
 text-decoration: underline; 
 }
+.syndy {
+font-size:.8em;
+font-style: italic;
+}
 nav {
 position: relative;
 top: -6px;

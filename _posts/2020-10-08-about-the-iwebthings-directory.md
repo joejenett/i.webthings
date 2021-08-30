@@ -31,3 +31,113 @@ That&#8217;s not to say there&#8217;s anything wrong with blogs or sites which d
 
 Thanks,  
 joe jenett
+<h2 id="comments-title">4 thoughts on “<span>about the i.webthings directory</span>”		</h2>
+
+
+<ol class="commentlist">
+<li class="comment even thread-even depth-1 h-cite h-entry p-comment" id="li-comment-2680">
+<article id="comment-2680" class="comment _mPS2id-t mPS2id-target" itemprop="comment" itemscope="" itemtype="http://schema.org/Comment">
+<footer>
+<address class="comment-author p-author author vcard hcard h-card" itemprop="creator" itemscope="" itemtype="http://schema.org/Person">
+<img alt="" src="https://secure.gravatar.com/avatar/0ce8b2c406e423f114e39fd4d128c31d?s=50&amp;d=identicon&amp;r=pg" srcset="https://secure.gravatar.com/avatar/0ce8b2c406e423f114e39fd4d128c31d?s=100&amp;d=identicon&amp;r=pg 2x" class="avatar avatar-50 photo u-photo" itemprop="image" loading="lazy" width="50" height="50">				<cite class="fn p-name" itemprop="name"><a href="https://indieseek.xyz/" rel="external nofollow ugc" class="u-url url">Brad Enslen</a></cite> <span class="says">says:</span>					</address>
+<!-- .comment-author .vcard -->
+
+<div class="comment-meta commentmetadata">
+<a href="/about-the-iwebthings-directory/#comment-2680" class="__mPS2id _mPS2id-h mPS2id-highlight"><time class="updated published dt-updated dt-published" datetime="2021-03-21T07:22:26-04:00" itemprop="datePublished dateModified dateCreated">
+March 21, 2021 at 7:22 am						</time></a>
+				</div>
+<!-- .comment-meta .commentmetadata -->
+</footer>
+
+<div class="comment-content e-content p-summary p-name" itemprop="text name description">
+<p>Joe,</p>
+<p>I finally took the time to poke around and I think this is really great.  Nice clean look and feel and a very selective index.  Also being the most “directory like” of your link finding creations.</p>
+<p>Anyway, I just thought you should get some praise!</p>
+</div>
+
+<div class="reply">
+		</div>
+<!-- .reply -->
+</article><!-- #comment-## -->
+</li>
+<!-- #comment-## -->
+<li class="comment byuser comment-author-admin bypostauthor odd alt thread-odd thread-alt depth-1 h-cite h-entry p-comment" id="li-comment-2681">
+<article id="comment-2681" class="comment _mPS2id-t" itemprop="comment" itemscope="" itemtype="http://schema.org/Comment">
+<footer>
+<address class="comment-author p-author author vcard hcard h-card" itemprop="creator" itemscope="" itemtype="http://schema.org/Person">
+<img alt="" src="https://secure.gravatar.com/avatar/0bf0445b4e4b39f830b186b7e23195a1?s=50&amp;d=identicon&amp;r=pg" srcset="https://secure.gravatar.com/avatar/0bf0445b4e4b39f830b186b7e23195a1?s=100&amp;d=identicon&amp;r=pg 2x" class="avatar avatar-50 photo u-photo" itemprop="image" loading="lazy" width="50" height="50">				<cite class="fn p-name" itemprop="name">joe jenett</cite> <span class="says">says:</span>					</address>
+<!-- .comment-author .vcard -->
+
+<div class="comment-meta commentmetadata">
+<a href="/about-the-iwebthings-directory/#comment-2681" class="__mPS2id _mPS2id-h"><time class="updated published dt-updated dt-published" datetime="2021-03-22T07:17:19-04:00" itemprop="datePublished dateModified dateCreated">
+March 22, 2021 at 7:17 am						</time></a>
+				</div>
+<!-- .comment-meta .commentmetadata -->
+</footer>
+
+<div class="comment-content e-content p-summary p-name" itemprop="text name description">
+<p>Thanks Brad!</p>
+</div>
+
+<div class="reply">
+		</div>
+<!-- .reply -->
+</article><!-- #comment-## -->
+</li>
+<!-- #comment-## -->
+<li class="comment even thread-even depth-1 h-cite h-entry p-comment" id="li-comment-2699">
+<article id="comment-2699" class="comment _mPS2id-t" itemprop="comment" itemscope="" itemtype="http://schema.org/Comment">
+<footer>
+<address class="comment-author p-author author vcard hcard h-card" itemprop="creator" itemscope="" itemtype="http://schema.org/Person">
+<img alt="" src="https://secure.gravatar.com/avatar/f65657c4839d879d843bc25c77f1e47f?s=50&amp;d=identicon&amp;r=pg" srcset="https://secure.gravatar.com/avatar/f65657c4839d879d843bc25c77f1e47f?s=100&amp;d=identicon&amp;r=pg 2x" class="avatar avatar-50 photo u-photo" itemprop="image" loading="lazy" width="50" height="50">				<cite class="fn p-name" itemprop="name">Poorchop</cite> <span class="says">says:</span>					</address>
+<!-- .comment-author .vcard -->
+
+<div class="comment-meta commentmetadata">
+<a href="/about-the-iwebthings-directory/#comment-2699" class="__mPS2id _mPS2id-h"><time class="updated published dt-updated dt-published" datetime="2021-04-14T21:31:57-04:00" itemprop="datePublished dateModified dateCreated">
+April 14, 2021 at 9:31 pm						</time></a>
+				</div>
+<!-- .comment-meta .commentmetadata -->
+</footer>
+
+<div class="comment-content e-content p-summary p-name" itemprop="text name description">
+<p>I’ve been doing a little more exploring and I love this project. I have been trying to build up a collection of links and RSS feeds to smaller websites that are more in the vein of the early web. I have already found some great content through here. The random explorer is awesome. Thank you also for including my site. It’s an honor to featured!</p>
+</div>
+
+<div class="reply">
+		</div>
+<!-- .reply -->
+</article><!-- #comment-## -->
+<ul class="children">
+<li class="comment byuser comment-author-admin bypostauthor odd alt depth-2 h-cite h-entry p-comment" id="li-comment-2700">
+<article id="comment-2700" class="comment _mPS2id-t" itemprop="comment" itemscope="" itemtype="http://schema.org/Comment">
+<footer>
+<address class="comment-author p-author author vcard hcard h-card" itemprop="creator" itemscope="" itemtype="http://schema.org/Person">
+<img alt="" src="https://secure.gravatar.com/avatar/0bf0445b4e4b39f830b186b7e23195a1?s=50&amp;d=identicon&amp;r=pg" srcset="https://secure.gravatar.com/avatar/0bf0445b4e4b39f830b186b7e23195a1?s=100&amp;d=identicon&amp;r=pg 2x" class="avatar avatar-50 photo u-photo" itemprop="image" loading="lazy" width="50" height="50">				<cite class="fn p-name" itemprop="name">joe jenett</cite> <span class="says">says:</span>					</address>
+<!-- .comment-author .vcard -->
+
+<div class="comment-meta commentmetadata">
+<a href="/about-the-iwebthings-directory/#comment-2700" class="__mPS2id _mPS2id-h"><time class="updated published dt-updated dt-published" datetime="2021-04-15T07:01:12-04:00" itemprop="datePublished dateModified dateCreated">
+April 15, 2021 at 7:01 am						</time></a>
+				</div>
+<!-- .comment-meta .commentmetadata -->
+</footer>
+
+<div class="comment-content e-content p-summary p-name" itemprop="text name description">
+<p>My pleasure Poorchop – thanks for reminding me why I do this thing (and for including me in your collection of links). So glad we crossed paths!</p>
+</div>
+
+<div class="reply">
+		</div>
+<!-- .reply -->
+</article><!-- #comment-## -->
+</li>
+<!-- #comment-## -->
+</ul>
+<!-- .children -->
+</li>
+<!-- #comment-## -->
+</ol>
+
+
+
+<p class="nocomments">Comments are closed.</p>
