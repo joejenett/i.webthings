@@ -46,13 +46,13 @@ layout: default
 			console.log(mydata);
 			var output = '';
 			$.each(mydata.links, function(i, v) {
-				if (v.target.search(new RegExp(/{{ site.title }}/i)) != -1) {
+				if (v.target.search(new RegExp(/{{ page.slug }}/i)) != -1) {
 				output = '<div style="border-top:1px solid #ddd;margin-bottom:24px;">Homepage Mentions: ';
 			}
 			});
         		$.each(mydata.links, function(i, v) {
-        		if (v.target.search(new RegExp(/{{ site.title }}/i)) != -1) {
-               		output += '<a href="' + v.source + '"><img src="' + v.data.author.photo + '" alt="" width="48" /><br />' + v.data.author.name + '</a> ';
+        		if (v.target.search(new RegExp(/{{ page.slug }}/i)) != -1) {
+               		output += '<a href="' + v.source + '"><img src="' + v.data.author.photo + '" alt="" width="48" /> - ' + v.data.author.name + '</a> ';
                	}
     	});
     		output += '<div>';
