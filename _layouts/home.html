@@ -45,12 +45,12 @@ layout: default
 		function( mydata ) {
 			console.log(mydata);
 			var output = '';
-			$.each(mydata.links, function(i, v) {
+			$.each(mydata.links, function(v) {
 				if ($(v.target.search).text() === "https://iwebthings.jenett.org/") {
 				output = '<div style="border-top:1px solid #ddd;margin-bottom:24px;">Homepage Mentions: <br />';
 			}
 			});
-        		$.each(mydata.links, function(i, v) {
+        		$.each(mydata.links, function(v) {
         		if ($(v.target.search).text() === "https://iwebthings.jenett.org/") {
                		output += '<a href="' + v.source + '"><img src="' + v.data.author.photo + '" alt="" width="48" /> ' + v.data.author.name + '</a> ';
                	}
