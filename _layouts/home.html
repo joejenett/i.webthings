@@ -45,13 +45,13 @@ layout: default
 		function( mydata ) {
 			console.log(mydata);
 			var output = '';
-			$.each(mydata.links, function(v) {
-				if ($(v.target.search).text() === "https://iwebthings.jenett.org/") {
-				output = '<div style="border-top:1px solid #ddd;margin-bottom:24px;">Homepage Mentions: <br />';
+			$.each(mydata.links, function(i, v) {
+				if (v.target.search(new RegExp(/{{ page.slug }}/i)) != -1) {
+				output = '<div style="border-top:1px solid #ddd;margin-bottom:24px;">Mentions: <br />';
 			}
 			});
-        		$.each(mydata.links, function(v) {
-        		if ($(v.target.search).text() === "https://iwebthings.jenett.org/") {
+        		$.each(mydata.links, function(i, v) {
+        		if (v.target.search(new RegExp(/{{ page.slug }}/i)) != -1) {
                		output += '<a href="' + v.source + '"><img src="' + v.data.author.photo + '" alt="" width="48" /> ' + v.data.author.name + '</a> ';
                	}
     	});
