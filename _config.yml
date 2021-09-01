@@ -20,7 +20,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: i.webthings hub
+title: i.webthings
 email: joe.jenett@jenett.org
 description: i.webthings - an independent and noncommercial web initiative.
 baseurl: "" # the subpath of your site, e.g. /blog
