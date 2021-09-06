@@ -4,7 +4,8 @@ layout: none
 [
     {% for post in site.posts %}
       {
-      "title"    : "{{ post.title | escape }}",
+      "title"    : "{{ post.permalink }}",
+      "content"  : {{ post.content | strip_html | truncatewords:12 | jsonify }},
       "category" : "{{ post.categories | join: ', '  }}",
       "tags"     : "{{ post.tags | join: ', ' }}",
       "url"      : "{{ site.baseurl }}{{ post.url }}",
