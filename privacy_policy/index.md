@@ -17,6 +17,7 @@ mf2_syndication:
 ## Who we are
 Joe Jenett a/k/a i.webthings (“us”, “we”, or “our”) operates the websites at:
 
+  * <a href="https://jenett.org/" class="url" rel="noopener noreferrer">https://jenett.org/</a>,
   * <a href="https://iwebthings.jenett.org/" class="url" rel="noopener noreferrer">https://iwebthings.jenett.org/</a>,
   * <a href="https://directory.jenett.org/" class="url" rel="noopener noreferrer">https://directory.jenett.org/</a>,
   * <a href="https://the.dailywebthing.com/" class="url" rel="noopener noreferrer">https://the.dailywebthing.com/</a>,
