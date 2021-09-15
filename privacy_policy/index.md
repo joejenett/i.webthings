@@ -69,7 +69,7 @@ These websites may collect data about you, use cookies, embed additional third-p
 
 Like many sites operators, we collect information that your browser sends whenever you visit our sites ("Log Data"). 
 
-This Log Data may include information such as your computer's Internet Protocol ("IP") address, browser type, browser version, the pages of our sites that you visit, the time and date of your visit, the time spent on those pages and other statistics. 
+This Log Data may include information such as your computer's Internet Protocol ("IP") address, browser type, browser version, the pages of our sites that you visit, the time and date of your visit, the time spent on those pages and other statistics. This data may be used at our discretion to block users we feel are abusing comment or contact forms, or other interactive features on our site(s). 
 
 We do not utilize any analytic or tracking services, nor do we use tracking cookies, though embedded content (such as a twitter widget) may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, as explained above.
 
