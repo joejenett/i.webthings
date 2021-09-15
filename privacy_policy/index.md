@@ -23,6 +23,8 @@ Joe Jenett a/k/a i.webthings (“us”, “we”, or “our”) operates the web
   * <a href="https://the.dailywebthing.com/" class="url" rel="noopener noreferrer">https://the.dailywebthing.com/</a>,
   * <a href="https://pointers.dailywebthing.com/" class="url" rel="noopener noreferrer">https://pointers.dailywebthing.com/</a>,
   * <a href="https://simply.jenett.org/" class="url" rel="noopener noreferrer">https://simply.jenett.org/</a>,
+  * <a href="https://wiki.jenett.org/" class="url" rel="noopener noreferrer">https://wiki.jenett.org/</a>,
+  * <a href="https://joe.jenett.org/" class="url" rel="noopener noreferrer">https://joe.jenett.org/</a>,
   * <a href="https://photo.jenett.org/" class="url" rel="noopener noreferrer">https://photo.jenett.org/</a>, and
   * <a href="https://linkscatter.jenett.org/" class="url" rel="noopener noreferrer">https://linkscatter.jenett.org/</a>, (the “Sites”).
 
