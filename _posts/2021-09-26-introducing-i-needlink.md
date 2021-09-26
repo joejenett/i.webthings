@@ -22,4 +22,4 @@ your homepage (optional):<br>
 <input type="submit" value="submit">
 </form>
 
-<p>Oh yeah - and thanks for visiting.</p>
+<p><br />Oh yeah - and thanks for visiting.</p>
