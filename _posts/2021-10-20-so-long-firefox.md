@@ -16,5 +16,5 @@ slug: so-long-firefox
 <blockquote><p>
 We use cookies to remember your account settings, and for analytics. Some of our ad partners use cookies on Pocket Explore pages, and if you accept these advertising cookies, your ads may be more personalized on other websites.
 </p></blockquote>
-<p>Mozilla’s hypocrisy is stunning! And that was even before this Firefox Suggest thing came around. When I first heard about Suggest, I checked my settings to make sure I was not opting in (it was unchecked). But I’m still pissed about hypocrisy. After seeing what Poorchop shared about the CEO’s salary, I’m livid. What an insult to people who commit to using Firefox and, in some cases, making donations to Mozilla!</p>
+<p>Mozilla’s hypocrisy is stunning! And that was even before this Firefox Suggest thing came around. When I first heard about Suggest, I checked my settings to make sure I was not opting in (it was unchecked). But I’m still pissed about the hypocrisy. After seeing what Poorchop shared about the CEO’s salary, I’m livid. What an insult to people who commit to using Firefox and, in some cases, making donations to Mozilla!</p>
 <p>But like Poorchop and Leon, I’ll continue using Firefox begrudgingly even though Mozilla has now officially made it to my shitlist (which is getting a bit long by now). 😎</p>
