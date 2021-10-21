@@ -17,7 +17,7 @@ mf2_syndication:
 6/2/2020
 
 Thanks to the following blogs for having participated in the _personal web explorer_ project (discontinued as of 06/24/20):
-
+<ul>
 <li> [Paulo Pinto](https://paulopinto.page/)  
     My digital diary. A place for sharing thoughts, ideas, music, literature and photographs.
     </li>
@@ -27,6 +27,4 @@ Thanks to the following blogs for having participated in the _personal web explo
 <li style="margin-top:12px;">
   <a href="https://gabz.me/">Gabz/ml</a><br />Microblogging about just the things that interest me, share my pictures, whatever it’s on my mind but mainly for my enjoyment.
 </li>
-<li style="margin-top:12px;">
-  <a href="https://postedlife.com/">Dominik&#8217;s Posted Life</a><br />It&#8217;s all about movies, music, games, tech, photos, life & my family. It&#8217;s my posted life.
-</li>
+</ul>
