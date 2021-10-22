@@ -15,7 +15,7 @@ line-height:1.45em;
 } */
 
 body {
-background-color: #fff;
+background-color: #f9feff;
 }
 a, ul.post-list li a {
 color: #286c80;
@@ -37,6 +37,11 @@ article.comment {
 margin-bottom:9px;
 padding:9px;
 }
+.page-content {
+  margin-top:-12px;
+  padding: 0 0 30px 0;
+  flex: 1; }
+  
 div.reply {
 display:none;
 }
@@ -108,8 +113,8 @@ text-indent:-30px;
  font-size:1em;
 }
 #results-container {
-padding:6px 0 0 12px;
-margin-bottom:12px;
+ padding:6px 0 0 12px;
+ margin-bottom:12px;
 }
 #results-container li {
 list-style:none;
