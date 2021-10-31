@@ -353,6 +353,7 @@ margin-left:36px;
 .thesidebar {
 	position:relative;
 	left:-8px;
+	padding-top:24px;
 }
 #aka, .sidefoot {
 	position:relative;
