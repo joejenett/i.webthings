@@ -350,7 +350,11 @@ margin:0;
 div.hcard-display, .explore {
 margin-left:36px;	
 }
-.thesidebar, #aka, .sidefoot {
+.thesidebar {
+	position:relative;
+	left:-8px;
+}
+#aka, .sidefoot {
 	position:relative;
 	left:-4px;
 }
