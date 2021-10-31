@@ -260,7 +260,7 @@ padding:0 12px 0 48px;
 }
 .sidefoot {
 	margin-top: 48px;
-	padding-left: 18px;
+	/*padding-left: 18px;*/
 	text-align: center;
 	line-height: 1.5em;
 }
