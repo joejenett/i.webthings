@@ -32,6 +32,17 @@ color: #286c80;
 text-decoration: none;
 font-weight:500;
 }
+.explore {
+margin:0 0 36px 24px;
+border: 1px solid #a3b8cc;
+border-radius: 8px;
+background: var(--hbg-color);
+padding:4px;font-weight:400;
+font-size:.9em;
+text-align:center;
+position: relative;
+top: -4px;
+}
 a:visited, ul.post-list li a:visited {
 color: #286c80;
 
