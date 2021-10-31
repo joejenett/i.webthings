@@ -14,6 +14,10 @@ font-size:18px;
 line-height:1.45em;
 } */
 
+:root {
+	--hbg-color: #fdffff;
+}
+
 body {
 background-color: #fff;
 }
@@ -108,7 +112,7 @@ text-indent:-30px;
  padding:9px;
  border: 1px solid #a3b8cc;
  border-radius:8px;
- background-color: #fbffff;
+ background-color: var(--hbg-color);
  margin-bottom:1px;
  font-size:1em;
 }
@@ -143,13 +147,13 @@ color: #222;
 }
 article, .home {
     border: 1px solid #a3b8cc;
-    background-color: #fbffff;
+    background-color: var(--hbg-color);
     border-radius: 8px;
     padding: 0 24px;
    }
    article.archive-item {
     border: none;
-    background-color: #fbffff;
+    background-color: var(--hbg-color);
     border-radius: 0;
     padding: 0 24px;
    }
@@ -188,7 +192,7 @@ top: -64px;
 }
 
 #branding {
-	background: #fbffff;
+	background: var(--hbg-color);
 	padding: 14px 12px 0 13px;
 	border: solid 1px #a3b8cc;
 	border-radius: 8px;
@@ -196,7 +200,7 @@ top: -64px;
 	max-width:1000px;
 }
 #menu {
-	background: #fbffff;
+	background: var(--hbg-color);
 	padding: 4px;
 	border: solid 1px #a3b8cc;
 	border-radius: 8px;
@@ -207,7 +211,7 @@ top: -64px;
 	top: -36px;
 }
 div.hcard-display {
-background: #fbffff;
+background: var(--hbg-color);
 border:1px solid #a3b8cc;
 border-radius:8px;
 padding:4px;
@@ -247,7 +251,7 @@ padding:0 12px 0 48px;
 	padding: 9px;
 	margin: 0 10px;
 	border: 1px solid #a3b8cc;
-	background: #fbffff;	border-radius: 8px;
+	background: var(--hbg-color);	border-radius: 8px;
 	text-align: center;
 	font-size: .9em;
 	font-weight: 600;
@@ -260,7 +264,7 @@ padding:0 12px 0 48px;
 	top:2px;
 	padding:12px 6px 6px 6px;
 	border:1px solid #a3b8cc;
-	background-color: #fbffff;
+	background-color: var(--hbg-color);
 	border-radius: 8px;
 	font-size:.75em;
 }
