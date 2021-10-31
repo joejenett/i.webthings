@@ -342,6 +342,10 @@ padding:0 15px 0 45px;
 	/*position:relative;left:8px;*/
 }		
 @media only screen and (max-width:768px) {
+div.hcard-display, .explore {
+margin-left:72px;	
+}
+
 	.onef {
 	width:100%;	
 	}
