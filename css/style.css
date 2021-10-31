@@ -15,7 +15,13 @@ line-height:1.45em;
 } */
 
 :root {
+	--hbg-color: #fbffff;
+}
+
+@media (max-resolution: 150dpi) {
+:root {
 	--hbg-color: #fdffff;
+}
 }
 
 body {
