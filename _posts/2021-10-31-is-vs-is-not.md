@@ -9,7 +9,7 @@ category:
 permalink: /is-vs-is-not/
 slug: is-vs-is-not
 ---
-<p>I’ve been busy optimizing this design. Soon, it will be considerably better on mobile devices. In the meantime, here’s something I’ve been wanting to share:</p>
+<p>I’ve been busy optimizing this design - it’ll soon be considerably better on mobile devices. In the meantime, here’s something I’ve been wanting to share:</p>
 <p style="text-align:center;margin-bottom:24px;"><a title="The metaverse is bullshit" href="https://outline.com/DUdr8Y">The metaverse is bullshit</a><br />vs<br /><a title="No, The Metaverse is Not Bullshit" href="https://primoh.net/no-the-metaverse-is-not-bs/">No, The Metaverse is Not Bullshit</a></p>
 <p>And while we’re on the subject:</p>
 <p>“facebook” vs “meta”❓</p>
