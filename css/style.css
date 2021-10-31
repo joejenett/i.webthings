@@ -345,7 +345,10 @@ padding:0 15px 0 45px;
 div.hcard-display, .explore {
 margin:auto auto auto 24px;	
 }
-
+.thesidebar {
+padding:0;
+margin:0;
+}
 	.onef {
 	width:100%;	
 	}
