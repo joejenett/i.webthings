@@ -350,7 +350,7 @@ margin:0;
 div.hcard-display, .explore {
 margin-left:36px;	
 }
-#aka {
+#aka, .sidefoot {
 	position:relative;
 	left:-4px;
 }
