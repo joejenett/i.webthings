@@ -15,11 +15,7 @@ line-height:1.45em;
 } */
 
 body {
-/*background-color: #f9feff;*/
-background: linear-gradient(45deg, transparent 49%, #ffeacf 49% 51%, transparent 51%) , linear-gradient(-45deg, transparent 49%, #ffeacf 49% 51%, transparent 51%);
-        background-size: 1em 1em;
-        background-color: #fff;
-        opacity: 1
+background-color: #fff;
 }
 a, ul.post-list li a {
 color: #286c80;
