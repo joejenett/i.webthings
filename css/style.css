@@ -355,6 +355,15 @@ margin:0;
 	.twof {
 	width:100%;	
 	}
+.thesidebar {
+	position:relative;
+	left:-8px;
+	padding-top:24px;
+}
+#aka, .sidefoot {
+	position:relative;
+	left:-4px;
+}
 
 }
 @media only screen and (max-width:476px) {
