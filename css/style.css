@@ -10,7 +10,7 @@
 }
 
 body {
-background-color: #fff;
+background-color: #fafaf0;
 }
 a, ul.post-list li a {
 color: #286c80;
@@ -209,7 +209,7 @@ border-radius:8px;
 padding:4px 6px;
 font-size:.8em;
 text-align:center;
-margin:0 0 0 24px;
+margin:-9px 0 0 24px;
 width:312px;
 }
 .explore {
@@ -229,7 +229,7 @@ width:312px;
 display:flex;flex-direction: 
 row;flex-wrap:wrap;
 position:relative;
-/*top:-18px;*/
+top:-23px;
 clear:both;
 max-width: -webkit-calc(1060px - (30px * 2));
 max-width: calc(1060px - (30px * 2));
