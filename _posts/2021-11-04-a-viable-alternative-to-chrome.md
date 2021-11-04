@@ -9,4 +9,4 @@ permalink: /a-viable-alternative-to-chrome/
 slug: a-viable-alternative-to-chrome
 ---
 <p>In reply to <a href="https://www.unseensounds.com/notes/2021/11/03/firefox-pocket.html" title="">Poorchop</a>:</p>
-<p>You may want to give <a href="https://vivaldi.com/" title="">Vivaldi</a> a try. I use whenever I need a Chrome-compatible browser to view certain sites or check out Chrome plugins. I stay away from anything connected to Google, thank you. 
+<p>You may want to give <a href="https://vivaldi.com/" title="">Vivaldi</a> a try. I use it whenever I need a Chrome-compatible browser to view certain sites or check out Chrome plugins. I stay away from anything connected to Google, thank you. 
