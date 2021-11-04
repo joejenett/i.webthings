@@ -1,11 +1,11 @@
 
 :root {
-	--hbg-color: #fbffff;
+	--hbg-color: #faffff;
 }
 
 @media (max-resolution: 150dpi) {
 :root {
-	--hbg-color: #feffff;
+	--hbg-color: #fdffff;
 }
 }
 
