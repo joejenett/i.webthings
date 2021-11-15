@@ -5,7 +5,7 @@ date: 2021-02-22T07:41:23-05:00
 author: joe jenett
 layout: post
 guid: https://hub.iwebthings.com/?p=4840
-permalink: '/we-%e2%9d%a4%ef%b8%8f-and-appreciate-pinboard/'
+permalink: '/we-❤️-and-appreciate-pinboard/'
 slug: appreciate-pinboard
 inline_featured_image:
   - "0"
