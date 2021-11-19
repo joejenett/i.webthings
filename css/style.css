@@ -228,7 +228,7 @@ margin-left:9px;
 	min-width: 1000px;
 }
 .welcome {
-	padding:18px;
+	padding:18px 18px 4px 18px;
 	border: 1px solid #a3b8cc;
 	border-radius:8px;
 	background-color: var(--hbg-color);
