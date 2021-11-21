@@ -50,7 +50,5 @@ categories:
     Create fast loading, highly readable, and 100% responsive interfaces with as little css as possible.
   * [Tox](https://tox.chat/ "Tox")  
     A New Kind of Instant Messaging
-  * [Typography Cheatsheet](https://www.typewolf.com/cheatsheet "Typography Cheatsheet")  
-    A comprehensive guide to using proper typographic characters, including correct grammatical usage.
   * [Usable Privacy Policy Project](https://usableprivacy.org/ "Usable Privacy Policy Project")  
     Towards Effective Web Privacy Notice and Choice
