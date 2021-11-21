@@ -6,7 +6,7 @@ author: joe jenett
 excerpt: |
   
   <p>
-  So. Something I linked to in a <a href="http://dailywebthing.com/linkport/archives/011035.shtml">recent <i>dailywebthing</i> post</a> sparked my interest and ended up helping me solve a little mystery that’s been bugging me for quite some time:
+  So. Something I linked to in a recent <i>dailywebthing</i> post sparked my interest and ended up helping me solve a little mystery that’s been bugging me for quite some time:
   </p>
   <p>
   <a href="http://smartquotesforsmartpeople.com/">Smart Quotes for Smart People</a>
@@ -33,7 +33,7 @@ categories:
   - miscellany
   - personal
 ---
-So. Something I linked to in a [recent _dailywebthing_ post](http://dailywebthing.com/linkport/archives/011035.shtml) sparked my interest and ended up helping me solve a little mystery that’s been bugging me for quite some time:
+So. Something I linked to in a recent _dailywebthing_ post sparked my interest and ended up helping me solve a little mystery that’s been bugging me for quite some time:
 
 [Smart Quotes for Smart People](http://smartquotesforsmartpeople.com/)
 
