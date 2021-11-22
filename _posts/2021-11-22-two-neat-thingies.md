@@ -12,5 +12,4 @@ slug: two-neat-thingies
 <ul>
 	<li><a title="uiwtf — an experimental laboratory for user interfaces" href="https://uiw.tf/">uiwtf — an experimental laboratory for user interfaces</a></li>
 	<li><a title="Ultra — A multi-media smart canvas for your mind." href="https://ultra.tf/">Ultra — A multi-media smart canvas for your mind.</a></li>
-</ul>
-	<p>Explore and enjoy...</p>
+</ul><p>Explore and enjoy...</p>
