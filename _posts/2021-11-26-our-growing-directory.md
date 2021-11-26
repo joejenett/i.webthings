@@ -5,6 +5,7 @@ date:   2021-11-26 15:25:40 -0400
 author: joe jenett
 category:
   -  i-webthings-directory
+  -  explore
 permalink: /our-growing-directory/
 slug: our-growing-directory
 ---
