@@ -67,7 +67,7 @@ layout: default
 			});
         		$.each(mydata.links, function(i, v) {
         		if (v.target.search(new RegExp(/{{ page.slug }}/i)) != -1) {
-               		output += '<div style="position:relative;float:left"><a href="' + v.source + '"><img src="' + v.data.author.photo + '" alt="" width="48" /><br />' + v.data.author.name + '</a></div> ';
+               		output += '<div style="position:relative;float:left;margin-bottom:36px;"><a href="' + v.source + '"><img src="' + v.data.author.photo + '" alt="" width="48" /><br />' + v.data.author.name + '</a></div> ';
                	}
     	});
     		output += ' ';
