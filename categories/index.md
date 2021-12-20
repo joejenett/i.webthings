@@ -3,8 +3,6 @@ layout: page
 permalink: /categories/
 title: Categories
 ---
-
-
 <div id="archives">
 {% assign sorted_categories = site.categories | sort %}
 {% for category in sorted_categories %}
