@@ -41,7 +41,7 @@
 <meta property='og:site_name' content='i.webthings hub' />
 <meta property='og:url' content='{{ site.url }}{{ page.url }}' />
 <meta property='og:locale' content='en_US' />
-<meta property='og:description' content='i.webthings - an independent and noncommercial web initiative.' />
+{% if page.summary %}<meta property="og:description" content="{{ page.summary }}" />{% else %}<meta property="og:description" content="{{ site.description }}" />{% endif %}
 <meta property='og:title' content='{{ page.title }}' />
 <meta property='og:type' content='website' />
 <meta property='og:image' content='https://iwebthings.jenett.org/images/iwtlogo.png' />
@@ -52,7 +52,7 @@
 <meta name='twitter:site' content='@iwebthings' />
 <meta name='twitter:title' content='{{ page.title }}' />
 <meta name='twitter:image' content='https://iwebthings.jenett.org/images/iwtlogo.png' />
-<meta name='twitter:description' content='i.webthings - an independent and noncommercial web initiative.' />  
+{% if page.summary %}<meta name="twitter:description" content="{{ page.summary }}" />{% else %}<meta name="twitter:description" content="{{ site.description }}" />{% endif %}
   
 
 {%- feed_meta -%}
