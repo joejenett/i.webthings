@@ -10,7 +10,8 @@
 }
 
 body {
-background-color: #fafaf0;
+/*background-color: #fafaf0;*/
+  background-color: #f2f2f3;
 }
 a, ul.post-list li a {
 color: #286c80;
