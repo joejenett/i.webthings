@@ -10,3 +10,7 @@ i.webthings/.obsidian/appearance.json
 i.webthings/.obsidian/core-plugins.json
 i.webthings/.obsidian/hotkeys.json
 i.webthings/.obsidian/workspace
+.obsidian/community-plugins.json
+.obsidian/plugins/obsidian-auto-link-title/main.js
+.obsidian/plugins/obsidian-auto-link-title/manifest.json
+.obsidian/plugins/obsidian-auto-link-title/styles.css
