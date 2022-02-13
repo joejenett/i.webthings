@@ -7,7 +7,7 @@ excerpt: |
   
   <ul>
   <li><a title="Qwertycards - for easy to remember very strong passwords" href="https://www.qwertycards.com/">Qwertycards - for easy to remember very strong passwords</a> <small>$</small></li>
-  <li><a title="Bash Reference Manual" href="http://www.gnu.org/software/bash/manual/bashref.html">Bash Reference Manual</a></li>
+  <li><a title="Bash Reference Manual" href="https://www.gnu.org/software/bash/manual/bash.html">Bash Reference Manual</a></li>
   <li><a title="Submarine Cable Map" href="http://www.submarinecablemap.com/">Submarine Cable Map</a> <small>*p</small></li>
   <li><a title="roomchat.co" href="http://roomchat.co/">roomchat.co</a></li>
   <li><a title="twister - P2P microblogging platform" href="http://twister.net.co/">twister - P2P microblogging platform</a> <small>*</small></li>
