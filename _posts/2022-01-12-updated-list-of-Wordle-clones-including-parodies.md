@@ -12,7 +12,7 @@ summary: I’d say <em>Wordle</em> is a thing - we’re having fun now!
 ---
 <p>This updated list starts with the original game by <a href="https://www.powerlanguage.co.uk/">Josh Wardle</a> and the two replicas mentioned in my previous post, followed by other replicas I’ve discovered since. I’d say <em>Wordle</em> is a thing - we’re having fun now!</p>
 <p><ul>
-<li><a href="https://www.powerlanguage.co.uk/wordle/">Wordle</a> <small>[via <a href="https://waxy.org/category/links/">Waxy.org</a>]</small></li>
+<li><a href="https://twitter.com/powerlanguish/status/1488263944309731329">Wordle</a> <small>[via <a href="https://waxy.org/category/links/">Waxy.org</a>]</small></li>
 <li><a href="https://foldr.moe/hello-wordl/">hello wordl</a> <small>[via <a href="https://pinboard.in/u:briantrice">briantrice</a>]</small></li>
 <li><a href="https://octokatherine.github.io/word-master/">Word Master</a> <small>[via <a href="https://pinboard.in/u:mariusz">mariusz</a>]</small></li>
 <li><a href="https://qntm.org/files/wordle/">Absurdle</a> <small>[via <a href="https://news.ycombinator.com/submitted?id=zeebeecee">zeebeecee</a>]</small></li>
@@ -22,7 +22,7 @@ summary: I’d say <em>Wordle</em> is a thing - we’re having fun now!
 <li><a href="https://edjefferson.com/letterle/">Letterle</a> <small>[via <a href="https://pinboard.in/u:inxilpro">inxilpro</a>]</small></li>
 <li><a href="https://phase-shell-vanilla.glitch.me/">Number 10</a> <small>[via <a href="https://pinboard.in/u:Fallingbadgers">Fallingbadgers</a>]</small></li>
 <li><a href="https://github.com/klipspringr/wordle-cli">wordle-cli</a> <small>[via <a href="https://pinboard.in/u:tdjones">tdjones</a>]</small></li>
-</ul></p>
+</ul></p> 
 <p>Kudos, Josh!</p>
 
 <a href="https://brid.gy/publish/twitter"></a>
