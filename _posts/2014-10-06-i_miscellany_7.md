@@ -10,9 +10,6 @@ categories:
   - links
   - miscellany
 ---
-  * [“The world ain’t all sunshine and rainbows.”](https://the-pastry-box-project.net/remy-sharp/2014-october-5) 
-    > For me, I need something to reach into my slump and lend it’s hand to pull me up. 
-
   * [Notes on bookmarks from 1997](https://notes.pinboard.in/u:vitorio/05dec9f04909d9b6edff) 
     > That&#8217;s 205 failures, an actual link rot figure of 91%&#8230; 
 
