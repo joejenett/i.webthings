@@ -14,4 +14,4 @@ complete_open_graph:
 categories:
   - i-webthings
 ---
-Content removed due to outdated information.
+Outdated information removed.
