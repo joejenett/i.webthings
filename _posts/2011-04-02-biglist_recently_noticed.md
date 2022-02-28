@@ -35,7 +35,6 @@ All of the &#8220;Recently Noticed&#8221; links posted to [the dailywebthing](ht
   * [Art Project, powered by Google](http://www.googleartproject.com/)
   * [hitRECord](http://hitrecord.org/reel)
   * [ProcessWire](http://processwire.com/)
-  * [National Tie Day](http://iwebthin.gs/TieDay)
   * [Should I Work for Free?](http://www.shouldiworkforfree.com/)
   * [W3Fools](http://w3fools.com/)
   * [Google tracks you&#8230;](http://donttrack.us/)
@@ -68,5 +67,4 @@ All of the &#8220;Recently Noticed&#8221; links posted to [the dailywebthing](ht
   * [JSLint, The JavaScript Code Quality Tool](http://jslint.com/)
   * [Collection FRAC Lorraine](http://collection.fraclorraine.org/?lang=en)
   * [Aloha Editor](http://aloha-editor.org/)
-  * [iTuner](http://ituner.codeplex.com/)
   * [Twingly](http://www.twingly.com/)
