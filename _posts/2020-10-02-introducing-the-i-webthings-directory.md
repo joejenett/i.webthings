@@ -49,7 +49,7 @@ October 2, 2020 at 2:20 pm						</time></a>
 </footer>
 
 <div class="comment-content e-content p-summary p-name" itemprop="text name description">
-<p><a href="https://micro.blog/iwebthings" rel="nofollow ugc">@iwebthings</a> Looking good!</p>
+<p><a title="micro.blog/iwebthings no longer exists" rel="nofollow ugc">@iwebthings</a> Looking good!</p>
 </div>
 
 <div class="reply">
@@ -62,11 +62,11 @@ October 2, 2020 at 2:20 pm						</time></a>
 <article id="comment-545" class="comment " itemprop="comment" itemscope="" itemtype="http://schema.org/Comment">
 <footer>
 <address class="comment-author p-author author vcard hcard h-card" itemprop="creator" itemscope="" itemtype="http://schema.org/Person">
-<img alt="" src="https://secure.gravatar.com/avatar/0bf0445b4e4b39f830b186b7e23195a1?s=50&amp;d=identicon&amp;r=pg" itemprop="image" loading="lazy" width="50" height="50">				<cite class="fn p-name" itemprop="name"><a href="https://micro.blog/iwebthings" rel="external nofollow ugc" class="u-url url">iwebthings</a></cite> <span class="says">says:</span>					</address>
+<img alt="" src="https://secure.gravatar.com/avatar/0bf0445b4e4b39f830b186b7e23195a1?s=50&amp;d=identicon&amp;r=pg" itemprop="image" loading="lazy" width="50" height="50">				<cite class="fn p-name" itemprop="name"><a title="micro.blog/iwebthings no longer exists" rel="external nofollow ugc" class="u-url url">iwebthings</a></cite> <span class="says">says:</span>					</address>
 <!-- .comment-author .vcard -->
 
 <div class="comment-meta commentmetadata">
-<a href="https://micro.blog/iwebthings/10351957"><time class="updated published dt-updated dt-published" datetime="2020-10-02T15:42:52-04:00" itemprop="datePublished dateModified dateCreated">
+<a title="micro.blog/iwebthings no longer exists"><time class="updated published dt-updated dt-published" datetime="2020-10-02T15:42:52-04:00" itemprop="datePublished dateModified dateCreated">
 October 2, 2020 at 3:42 pm						</time></a>
 			</div>
 <!-- .comment-meta .commentmetadata -->
