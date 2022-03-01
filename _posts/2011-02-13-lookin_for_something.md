@@ -43,8 +43,5 @@ kind:
 [Oamos](http://www.oamos.com/)  
 [<img src="/images/oamos.jpg" alt="Oamos" style="border:none;" />](http://www.oamos.com/)
 
-[Searchcloud](http://www.searchcloud.com/)  
-[<img src="/images/searchcloud.jpg" alt="Searchcloud" style="border:none;" />](http://www.searchcloud.com/)
-
 [Triplify](http://www.triplify.com/)  
 [<img src="/images/triplify.jpg" alt="Triplify" style="border:none;" />](http://www.triplify.com/)

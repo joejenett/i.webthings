@@ -23,11 +23,7 @@ categories:
 kind:
   - Article
 ---
-[WHY Yachts](http://www.why-yachts.com/)  
-[<img style="border: none; margin: 8px 0;" src="/images/why.jpg" alt="WHY Yachts" />](http://www.why-yachts.com/)  
-&#8220;The revolutionary concept of the moving island is developed with the latest and most advanced sustainable technologies, recycling thermal energy, as well as any organic and inorganic waste.&#8221;
-
-<p style="padding-top: 24px;">
+<p>
   <a href="http://www.lytro.com/">Lytro Light Field Camera</a><br /> <a href="http://www.lytro.com/"><img style="border: none; margin: 8px 0;" src="/images/lytro.jpg" alt="Lytro Light Field Camera" /></a><br /> &#8220;Our mission is to change photography forever, making conventional cameras a thing of the past.&#8221;
 </p>
 

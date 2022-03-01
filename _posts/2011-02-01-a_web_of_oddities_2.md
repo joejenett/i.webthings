@@ -30,6 +30,3 @@ Gleaned from the dailywebthing&#8217;s [odd](http://dailywebthing.com/linkport/a
 
 [High Speed and Photoinstrumentation Photographs](http://people.rit.edu/andpph/exhibit-3.html)  
 [<img style="border: none;" src="/images/high_speed.jpg" alt="High Speed and Photoinstrumentation Photographs" />](http://people.rit.edu/andpph/exhibit-3.html)
-
-[headcleaner](http://www.alessandrobavari.com/english/headcleaner/gallery_headcleaner.htm)  
-[<img style="border: none;" src="/images/headcleaner.jpg" alt="headcleaner" />](http://www.alessandrobavari.com/english/headcleaner/gallery_headcleaner.htm)

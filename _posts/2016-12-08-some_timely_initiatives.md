@@ -21,13 +21,9 @@ categories:
 kind:
   - Article
 ---
-[wall-of-us](https://www.wall-of-us.org/ "wall-of-us")  
-“He promised a wall. He will be stopped by a wall of us.”
-
-[<img src="/images/wall-of-us.jpg" alt="wall-of-us" style="border:1px solid #999;" />](https://www.wall-of-us.org/ "wall-of-us")
-
-  
 [Campaign Zero](http://www.joincampaignzero.org/ "Campaign Zero")  
 “We can end police violence in America.” 
 
 [<img src="/images/campaign-zero.jpg" alt="Campaign Zero" style="border:1px solid #999;" />](http://www.joincampaignzero.org/ "Campaign Zero")
+
+(bad links removed)
