@@ -6,12 +6,9 @@ author: joe jenett
 excerpt: |
   
   <ul>
-  <li><a href="http://timeline.verite.co/">Timeline JS</a></li>
   <li><a href="http://unsplash.com/">Unsplash</a></li>
   <li><a href="https://www.leapmotion.com/">Leap Motion</a> <small>*$</small></li>
   <li><a href="http://blakeperdue.com/ios7-wireframe-kit/">iOS 7 Wireframe Kit</a></li>
-  <li><a href="http://www.pixelmator.com/tutorials/third-party/">Pixelmator Tutorials</a></li>
-  <li><a href="http://infinite-labs.net/afloat/">Afloat</a></li>
   <li><a href="http://www.historyofinformation.com/index.php">From Cave Paintings to the Internet</a></li>
   <li><a href="http://clipgrab.org/">ClipGrab</a></li>
   <li><a href="http://wappalyzer.com/">Wappalyzer</a></li>
