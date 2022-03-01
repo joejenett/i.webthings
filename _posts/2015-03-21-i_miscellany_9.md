@@ -12,10 +12,8 @@ excerpt: |
   <li><a title="roomchat.co" href="http://roomchat.co/">roomchat.co</a></li>
   <li><a title="twister - P2P microblogging platform" href="http://twister.net.co/">twister - P2P microblogging platform</a> <small>*</small></li>
   <li><a title="A Survival Guide for the Small Mail Server" href="http://www.spamhaus.org/news/article/719/a-survival-guide-for-the-small-mail-server">A Survival Guide for the Small Mail Server</a></li>
-  <li><a title="Ascend Project" href="http://ascendproject.org/">Ascend Project</a></li>
   <li><a title="Sass Guidelines" href="http://sass-guidelin.es/">Sass Guidelines</a></li>
   <li><a title="Mono Social Icons Font" href="http://drinchev.github.io/monosocialiconsfont/">Mono Social Icons Font</a></li>
-  <li><a title="CSS Shrink" href="http://cssshrink.com/">CSS Shrink</a></li>
   <li><a title="I Can Text You A Pile of Poo, But I Can’t Write My Name" href="https://modelviewculture.com/pieces/i-can-text-you-a-pile-of-poo-but-i-cant-write-my-name">I Can Text You A Pile of Poo, But I Can’t Write My Name</a></li>
   </ul>
   <p><small>
@@ -36,10 +34,8 @@ categories:
   * [roomchat.co](http://roomchat.co/ "roomchat.co")
   * [twister &#8211; P2P microblogging platform](http://twister.net.co/ "twister - P2P microblogging platform") <small>*</small>
   * [A Survival Guide for the Small Mail Server](http://www.spamhaus.org/news/article/719/a-survival-guide-for-the-small-mail-server "A Survival Guide for the Small Mail Server")
-  * [Ascend Project](http://ascendproject.org/ "Ascend Project")
   * [Sass Guidelines](http://sass-guidelin.es/ "Sass Guidelines")
   * [Mono Social Icons Font](http://drinchev.github.io/monosocialiconsfont/ "Mono Social Icons Font")
-  * [CSS Shrink](http://cssshrink.com/ "CSS Shrink")
   * [I Can Text You A Pile of Poo, But I Can’t Write My Name](https://modelviewculture.com/pieces/i-can-text-you-a-pile-of-poo-but-i-cant-write-my-name "I Can Text You A Pile of Poo, But I Can’t Write My Name")
 
 <small><br /> * This is not an endorsement.<br /> $ Commercial (no affiliation).<br /> *p Promotional vehicle (no affiliation).<br /> </small>
