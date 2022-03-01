@@ -18,10 +18,6 @@ categories:
     “The Resistance Manual is focused on presenting truthful and actionable information.”
   * [The Obama Foundation](https://www.obama.org/ "The Obama Foundation")  
     “The Obama Foundation is a living, working start-up for citizenship — an ongoing project for us to shape, together, what it means to be a good citizen in the 21st century. ”
-  * [The Women&#8217;s Guard](https://www.womensguard.org/ "The Women's Guard")  
-    “The Women&#8217;s Guard is a national movement of women and men committed to  
-    peaceably protecting our country&#8217;s commitment to freedom and equality for  
-    all.”
   * [Politiwatch](https://politiwatch.org/ "Politiwatch")  
     “Using technology to promote political accountability, digital rights, and social awareness. ”
   * [Trump Twitter Archive](http://trumptwitterarchive.com/ "Trump Twitter Archive")  

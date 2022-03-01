@@ -11,7 +11,6 @@ excerpt: |
   <li><a title="Express" href="http://expressjs.com/">Express</a><br />Fast, unopinionated, minimalist web framework for Node.js</li>
   <li><a title="Helium" href="http://heliumfloats.com/">Helium</a><br />A floating browser window for OS X</li>
   <li><a title="hledger" href="http://hledger.org/">hledger</a><br />Simple, precise, plain text accounting.</li>
-  <li><a title="Responsive Typo" href="https://ibevanmeenen.me/pages/lab/responsive-typo/responsive-typo">Responsive Typo</a><br />Font-size based on your screen-size... In pure css please.</li>
   <li><a title="rscss" href="http://rscss.io/">rscss</a><br />Styling CSS without losing your sanity</li>
   <li><a title="Rspamd" href="https://rspamd.com/">Rspamd</a><br />Fast, free and open-source spam filtering system.</li>
   <li><a title="Tachyons" href="http://tachyons.io/">Tachyons</a><br />Create fast loading, highly readable, and 100% responsive interfaces with as little css as possible.</li>
@@ -40,7 +39,6 @@ categories:
     A floating browser window for OS X
   * [hledger](http://hledger.org/ "hledger")  
     Simple, precise, plain text accounting.
-  * [Responsive Typo](https://ibevanmeenen.me/pages/lab/responsive-typo/responsive-typo "Responsive Typo")  
     Font-size based on your screen-size&#8230; In pure css please.
   * [rscss](http://rscss.io/ "rscss")  
     Styling CSS without losing your sanity
