@@ -23,12 +23,9 @@ categories:
   - links
   - miscellany
 ---
-  * [Timeline JS](http://timeline.verite.co/)
   * [Unsplash](http://unsplash.com/)
   * [Leap Motion](https://www.leapmotion.com/) <small>*$</small>
   * [iOS 7 Wireframe Kit](http://blakeperdue.com/ios7-wireframe-kit/)
-  * [Pixelmator Tutorials](http://www.pixelmator.com/tutorials/third-party/)
-  * [Afloat](http://infinite-labs.net/afloat/)
   * [From Cave Paintings to the Internet](http://www.historyofinformation.com/index.php)
   * [ClipGrab](http://clipgrab.org/)
   * [Wappalyzer](http://wappalyzer.com/)
