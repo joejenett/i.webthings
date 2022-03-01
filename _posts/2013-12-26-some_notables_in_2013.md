@@ -30,4 +30,4 @@ kind:
   * [Colours](http://webcolourdata.com/ "Colours")
   * [Meet the Ipsums](http://meettheipsums.com/ "Meet the Ipsums")
   * [Delightful Puzzles](http://gurmeet.net/puzzles/ "Delightful Puzzles")
-  * [Text animations, emoticons, smileys and ASCII art for the web | animasci](http://animasci.com/)
+  * [Text animations, emoticons, smileys and ASCII art for the web](http://animasci.com/)
