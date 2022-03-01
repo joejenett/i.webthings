@@ -46,7 +46,6 @@ Blogs:
   * [Suri photo](http://suri.morkitu.org/ "Suri photo")
   * [wvallen](http://www.wvallen.com/ "wvallen")
   * [Muros hablados](http://muroshablados.es/ "Muros hablados")
-  * [4x6photo](http://www.4x6photo.com/ "4x6photo")
   * [bananaphoto](https://bananaphoto.de/en/ "bananaphoto")
   * [Black & White or Color?](http://www.bw-color.com/ "Black & White or Color?")
   * [[pixel.posing]](http://www.pixelposing.com/ "[pixel.posing]")
@@ -58,7 +57,7 @@ Other:
   * [Urban75](http://www.urban75.com/ "Urban75")
   * [Wiktionary](https://en.wiktionary.org/ "Wiktionary")
   * [halfbakery](http://www.halfbakery.com/ "halfbakery")
-  * [First Monday](http://firstmonday.org/index "First Monday")
+  * [First Monday](http://firstmonday.org/ "First Monday")
   * [Wikinews](https://en.wikinews.org/wiki/Main_Page "Wikinews")
   * [LibriVox](https://librivox.org/ "LibriVox")
 
