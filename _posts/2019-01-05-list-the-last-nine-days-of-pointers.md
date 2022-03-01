@@ -38,12 +38,11 @@ kind:
   * [Gratuitous Web Presence](http://garciabuxton.com/ "Gratuitous Web Presence")
   * [Real Life](https://reallifemag.com/ "Real Life")
   * [Hyperlink Node Directory](https://nodes.indieseek.xyz/ "Hyperlink Node Directory") <small><i>(new)</i></small>
-  * [Jean MacDonald](http://macgenie.micro.blog/ "Jean MacDonald")
   * [Bon Hae Koo](https://bonhaekoo.com/ "Bon Hae Koo")
   * [swoopovo digitální oko](http://foto.swoop.name/ "swoopovo digitální oko")
   * [mimi smartypants](https://mimismartypants.com/ "mimi smartypants")
   * [tenpointtype](http://tenpointtype.org/tpt/ "tenpointtype")
-  * [Meteuphoric](https://meteuphoric.com/ "Meteuphoric")[📌](https://pinboard.in/u:) [⬅](https://href.cool/ "Href.cool")
+  * [Meteuphoric](https://meteuphoric.com/ "Meteuphoric") [⬅](https://href.cool/ "Href.cool")
   * [Island in the Net](https://islandinthenet.com/blog-home/ "Island in the Net")
   * [Elen Grey](https://elengrey.com/ "Elen Grey")
   
