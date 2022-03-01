@@ -24,12 +24,6 @@ kind:
   - Article
 ---
   <p>An assortment of resources and tools from the archives of <a href="http://dailywebthing.com/linkport/">the dailywebthing</a>...</p>
-  Icons
-  <ul>
-  <li><a href="http://ngin.de/icon-editor/">Little Icon Editor</a></li>
-  <li><a href="http://pc.de/icons/">Free Icons for Windows and Macintosh</a></li>
-  <li><a href="http://splashyfish.com/icons/">Splashy Icons</a></li>
-  </ul>
   Mobile
   <ul>
   <li><a href="http://apps.usa.gov/">USA.gov: Mobile Apps</a></li>
