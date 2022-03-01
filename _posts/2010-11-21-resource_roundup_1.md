@@ -29,12 +29,10 @@ Generators:
   * [Ultimate CSS Gradient Generator](http://www.colorzilla.com/gradient-editor/)
   * [CSS3 Generator](http://css3generator.com/)
   * [CSS3 Please!](http://css3please.com/)
-  * [Project Deploy*](http://projectdeploy.org/)
   * [htaccess Generator](http://cooletips.de/htaccess/)
 
 Bookmarklets:
 
   * [Markup](http://markup.io/)
   * [Quix](http://quixapp.com/)
-  * [QuickRead](http://www.readshout.com/quickread)
   * [Design](http://www.sprymedia.co.uk/article/Design)
