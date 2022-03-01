@@ -26,11 +26,9 @@ kind:
   * [Mark Christian](https://writing.markchristian.org/)
   * [Taiyo Onorato & Nico Krebs](https://tonk.ch/)
   * [David Ostrowski](http://www.david-ostrowski.com/)
-  * [Chris Burnett](https://chrisbur.net/)
   * [Bloganueva](https://bloganueva.com/)
   * [HubLog](http://hublog.hubmed.org/)
   * [Odyssey](https://odyssey.neophilus.net/)
-  * [jai](https://blog.jaibot.com/)
   * [Andy Earhole](https://warholcoverart.com/)
   * [Frank McPherson](https://fedwiki.frankmcpherson.net/)
   * [10×18](http://10x18.co/)
@@ -46,9 +44,8 @@ kind:
   * [Alice Bartlett](http://alicebartlett.co.uk/)
   * [a foolish consistency](https://afc.letterspace.org/)
   * [Cosmic Voyage](https://cosmic.voyage/)
-  * [Gold-mended Life](http://goldmendedlife.com/)
 
-<small><em>(also posted to <a class="u-syndication" href="https://indieweb.xyz/en/linking">indieweb.xyz/en/linking</a>)</em></small>
+<small><em>(also posted to <a href="https://indieweb.xyz/en/linking">indieweb.xyz/en/linking</a>)</em></small>
 
 <h2 id="comments-title">One thought on “<span>most recent additions to the daily pointers</span>”		</h2>
 
