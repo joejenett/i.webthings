@@ -15,7 +15,6 @@ summary: I’d say <em>Wordle</em> is a thing - we’re having fun now!
 <li><a href="https://twitter.com/powerlanguish/status/1488263944309731329">Wordle</a> <small>[via <a href="https://waxy.org/category/links/">Waxy.org</a>]</small></li>
 <li><a href="https://foldr.moe/hello-wordl/">hello wordl</a> <small>[via <a href="https://pinboard.in/u:briantrice">briantrice</a>]</small></li>
 <li><a href="https://octokatherine.github.io/word-master/">Word Master</a> <small>[via <a href="https://pinboard.in/u:mariusz">mariusz</a>]</small></li>
-<li><a href="https://qntm.org/files/wordle/">Absurdle</a> <small>[via <a href="https://news.ycombinator.com/submitted?id=zeebeecee">zeebeecee</a>]</small></li>
 <li><a href="https://swag.github.io/evil-wordle/">Evil Wordle</a> <small>[via <a href="https://pinboard.in/u:FiloSottile">FiloSottile</a>]</small></li>
 <li><a href="https://queerdle.com/">QUEERDLE</a> <small>[via <a href="https://pinboard.in/u:UnionStayshyn">UnionStayshyn</a>]</small></li>
 <li><a href="https://greenblocks.jordan.matelsky.com/">Green Blocks</a> <small>[via <a href="https://pinboard.in/u:tdjones">tdjones</a>]</small></li>
