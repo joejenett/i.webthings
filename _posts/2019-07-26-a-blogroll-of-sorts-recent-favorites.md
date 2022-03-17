@@ -24,7 +24,6 @@ kind:
 ---
   * [A Year On Market](https://badkins55.wordpress.com/)
   * [an eudæmonist](https://www.eudaemonist.com/)
-  * [Ben Morris](https://www.bennorris.org/)
   * [Black & White or Color?](http://www.bw-color.com/)
   * [Brad Enslen](https://ramblinggit.com/)
   * [but she’s a girl…](https://www.rousette.org.uk/)
@@ -49,4 +48,4 @@ kind:
   * [Smokey Ardisson](https://www.ardisson.org/afkar/)
   * [The Eclectic Light Company](https://eclecticlight.co/)
 
-<small>(also posted to <a class="u-syndication" href="https://indieweb.xyz/en/linking">indieweb.xyz/en/linking</a>)</small>
+<small>(also posted to <a href="https://indieweb.xyz/en/linking">indieweb.xyz/en/linking</a>)</small>
