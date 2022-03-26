@@ -308,16 +308,16 @@ div.hcard-display {
 .aka-sep-container {
 	width:100%;
 	display:flex;
-	padding-bottom:6px
+	padding-bottom:6px;
 }	
 .aka-sep-left {
 	text-align:left;
-	width:52%;
+	width:55%;
 	margin-left:22px;
 }
 .aka-sep-right {
 	text-align:right;
-	width:48%;
+	width:45%;
 	margin-right:20px;
 }
 #aka-header {
@@ -347,6 +347,9 @@ div.hcard-display {
 .aka-subhead {
 	font-size:.7em;
 	font-weight:300;
+}
+#aka ul {
+margin-bottom:0;
 }
 #aka li {
 	list-style:none outside none;
