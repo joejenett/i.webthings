@@ -13,16 +13,16 @@ body {
 /*background-color: #fafaf0;*/
   background-color: #f8f8fa;
 }
-a, ul.post-list li a {
+a, div.post-list li a {
 color: #286c80;
 text-decoration: none;
 font-weight:500;
 }
-a:visited, ul.post-list li a:visited {
+a:visited, div.post-list li a:visited {
 color: #286c80;
 
  }
-a:hover, ul.post-list li a:hover {
+a:hover, div.post-list li a:hover {
 color: #222;
 text-decoration: underline; 
 }
