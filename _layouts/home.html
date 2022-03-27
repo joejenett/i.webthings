@@ -10,7 +10,7 @@ layout: default
 <div style="margin-top:36px;">
 {{ content }}
 
-<ul class="post-list" style="margin-bottom:48px;">
+<div class="post-list" style="margin-bottom:48px;">
 {% assign count = 0 %}
 {%- for post in site.posts -%}
 {% assign count = count | plus:1 %}
@@ -19,7 +19,7 @@ layout: default
 {% endif %}
 {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
 {% if post.title != "" %}
-<li style="margin-bottom:48px;border-bottom:1px solid #ddd;padding-bottom:6px;">
+<div style="margin-bottom:48px;border-bottom:1px solid #ddd;padding-bottom:6px;">
 <h3 style="position:relative;top:-16px;margin-bottom:2px;letter-spacing:-1px;">
 <a class="post-link" href="{{ post.url | relative_url }}">
 {{ post.title | escape }}</a> 
@@ -44,7 +44,7 @@ layout: default
 {%- if site.show_excerpts -%}
 {{ post.excerpt }}
 {%- endif -%}
-</li>
+</div>
 {% endif %}
 
 {% if post.title == "" %}
@@ -78,7 +78,7 @@ layout: default
 {% endif %}
 
 {%- endfor -%}
-</ul>
+</div>
 <p style="margin:0 0 18px 0;" class="rss-subscribe">subscribe <a href="{{ "/feed.atom" | relative_url }}">via RSS</a></p>
 
 <!--
