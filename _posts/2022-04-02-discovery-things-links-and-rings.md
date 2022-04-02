@@ -156,7 +156,7 @@ function closeWebrings() {
 </details>
 <p></p>
 ## a note about webrings
-<p>I recently joined several more webrings at <a title="simply." href="https://simply.jenett.org/">simply.</a> and am considering opening the <a href="https://jenett.org/linkring/">i.webrings.linkring</a> to other link directories. If and when I do that, I’d remove several of my own personal sites from the ring (which are currently included for testing purposes). Feedback is welcome.</p>
+<p>I recently joined several more webrings at <a title="simply." href="[simply.](https://simply.jenett.org/#rings)">simply.</a> and am considering opening the <a href="https://jenett.org/linkring/">i.webrings.linkring</a> to other link directories. If and when I do that, I’d remove several of my own personal sites from the ring (which are currently included for testing purposes). Feedback is welcome.</p>
 <p>Kudos to <a href="https://garlic.garden/onionring/" title="thanks joey!">onionring</a> for the clean, low-overhead script they’ve made available to the community.</p>
 <p>Have fun out there!</p>
 <a href="https://brid.gy/publish/twitter"></a>
