@@ -115,7 +115,7 @@ function closeDirectories() {
 <li><a title="Indieseek.xyz Directory" href="https://indieseek.xyz/links/">Indieseek.xyz Directory</a></li>
 <li><a title="Jamie | Blogroll & Links" href="https://jamieadams.click/blogroll/">Jamie | Blogroll & Links</a></li>
 <li><a title="Blogroll - jlelse’s Blog" href="https://jlelse.blog/blogroll">Blogroll - jlelse’s Blog</a></li>
-<li><a title="Marginalia Search" href="https://search.marginalia.nu/">Marginalia Search</a> (<a title="Marginalia Search - browse:random" href="https://search.marginalia.nu/explore/random"> browse:random</a>)</li>
+<li><a title="Marginalia Search" href="https://search.marginalia.nu/">Marginalia Search</a> (<a title="Marginalia Search - browse:random" href="https://search.marginalia.nu/explore/random">browse:random</a>)</li>
 <li><a title="(Marijn’s Linkroll) | The Satyrs’ Forest 🍇" href="https://marijn.uk/linkroll/">Linkroll | The Satyrs’ Forest 🍇</a></li>
 <li><a title="Mataroa Collection" href="https://collection.mataroa.blog/">Mataroa Collection</a> (<a title="Mataroa Collection-random" href="https://collection.mataroa.blog/random/">random</a>)</li>
 <li><a title="Maya's subscriptions" href="https://maya.land/blogroll.opml">Maya's subscriptions</a></li>
