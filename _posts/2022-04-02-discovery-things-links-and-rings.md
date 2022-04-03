@@ -5,6 +5,7 @@ date:   2022-04-02 08:13:49 -0400
 author: joe jenett
 category:
   -  i-webthings
+  -  linking
 permalink: /discovery-things-links-and-rings/
 slug: discovery-things-links-and-rings
 summary:
