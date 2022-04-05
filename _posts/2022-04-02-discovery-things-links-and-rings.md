@@ -106,7 +106,6 @@ function closeDirectories() {
 </summary>
 <ul>
 <li><a title="Blogroll.org" href="https://blogroll.org/">Ye Olde Blogroll</a></li>
-<li><a title="Blogsurf" href="https://blogsurf.io/">Blog Surf</a></li>
 <li><a title="The Forest" href="https://theforest.link/">The Forest</a> (<a title="The Forest-random" href="https://theforest.link/go-for-a-walk/">random</a>)</li>
 <li><a title="Gossip’s Web" href="https://gossipsweb.net/">Gossip’s Web</a> (<a title="Gossip’s Web-random" href="https://gossipsweb.net/random">random</a>)</li>
 <li><a title="href.cool" href="https://href.cool/">href.cool</a></li>
