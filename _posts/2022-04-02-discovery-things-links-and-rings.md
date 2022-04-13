@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  discovery things - links and rings
-date:   2022-04-02 08:13:49 -0400
+date:   2022-04-13 07:53:49 -0400
 author: joe jenett
 category:
   -  i-webthings
