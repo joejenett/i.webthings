@@ -51,7 +51,8 @@ function closeOther() {
 <li><a href="https://pinboard.in/u:thulstrup">thulstrup</a></li>
 <li><a href="https://pinboard.in/u:andrewducker">andrewducker</a></li>
 <li><a href="https://pinboard.in/u:infovore">infovore</a></li>
-<li><a href="https://pinboard.in/u:bschlagel">bschlagel</a></li><li><a href="https://pinboard.in/u:cothrun">cothrun</a></li>
+<li><a href="https://pinboard.in/u:bschlagel">bschlagel</a></li>
+<li><a href="https://pinboard.in/u:cothrun">cothrun</a></li>
 <li><a href="https://pinboard.in/u:kristofger">kristofger</a></li>
 <li><a href="https://pinboard.in/u:driscoll">driscoll</a></li>
 <li><a href="https://pinboard.in/u:e2b">e2b</a></li>
@@ -141,7 +142,6 @@ function closeWebrings() {
 <summary>Webrings
 </summary>
 <ul>
-<li><a title="xxiivv Webring" href="https://webring.xxiivv.com/"><img src='https://webring.xxiivv.com/icon.black.svg' alt='' width='21' height='21'> Webring</a> (<a href="https://lieu.cblgh.org/random" title="xxiivv Webring-random">random</a>)</li>
 <li><a title="Fediring.net" href="https://fediring.net/">Fediring.net</a></li>
 <li><a title="geekring.net :: Let's webring like it's 1993!" href="https://geekring.net/">geekring.net</a> (<a href="https://geekring.net/site/0/random" title="geekring.net-random">random</a>)</li>
 <li><a title="An IndieWeb Webring 🕸💍" href="https://xn--sr8hvo.ws/directory">An IndieWeb Webring 🕸💍</a></li>
