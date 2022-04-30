@@ -26,6 +26,9 @@ a:hover, div.post-list a:hover {
 color: #222;
 text-decoration: underline; 
 }
+#wcb.carbonbadge {
+	padding:18px 0;
+}
 article.post.h-entry div.post-content.e-content p a.h-card.p-author img.u-photo {
 border-radius: 24px;
 }
