@@ -9,7 +9,7 @@ permalink: /on-the-excesses-of-the-blockchain-industry/
 slug: on-the-excesses-of-the-blockchain-industry
 summary: a viewpoint worth sharing
 ---
-<a title="Blockchain is Dangerous Nonsense " href="https://www.eisfunke.com/article/blockchain-technology.html#fn1">Blockchain is Dangerous Nonsense</a><br />[<a title="Ciudilo" href="https://pinboard.in/u:ciudilo">Ciudilo</a>]
+<a title="Blockchain is Dangerous Nonsense " href="https://www.eisfunke.com/article/blockchain-technology.html">Blockchain is Dangerous Nonsense</a><br />[<a title="Ciudilo" href="https://pinboard.in/u:ciudilo">Ciudilo</a>]
 
 
 <a href="https://brid.gy/publish/twitter"></a>
