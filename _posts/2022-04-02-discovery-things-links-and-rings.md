@@ -69,6 +69,7 @@ function closeOther() {
 <li><a href="https://pinboard.in/u:jsm">jsm</a></li>
 <li><a href="https://pinboard.in/u:mycotn">mycotn</a></li>
 <li><a href="https://pinboard.in/u:rmateu">rmateu</a></li>
+<li><a href="https://pinboard.in/u:yhancik">yhancik</a></li>
 <li><a href="https://pinboard.in/u:archangel">archangel</a></li>
 <li><a href="https://pinboard.in/u:carlmjohnson">carlmjohnson</a></li>
 <li><a href="https://pinboard.in/u:nelson">nelson</a></li>
