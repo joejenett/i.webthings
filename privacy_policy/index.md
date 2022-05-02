@@ -23,6 +23,7 @@ Joe Jenett a/k/a i.webthings (“us”, “we”, or “our”) operates the web
   * <a href="https://the.dailywebthing.com/" class="url" rel="noopener noreferrer">https://the.dailywebthing.com/</a>,
   * <a href="https://pointers.dailywebthing.com/" class="url" rel="noopener noreferrer">https://pointers.dailywebthing.com/</a>,
   * <a href="https://simply.jenett.org/" class="url" rel="noopener noreferrer">https://simply.jenett.org/</a>,
+  * <a href="https://bulltown.2022.jenett.org/" class="url" rel="noopener noreferrer">https://bulltown.2022.jenett.org/</a>,
   * <a href="https://wiki.jenett.org/" class="url" rel="noopener noreferrer">https://wiki.jenett.org/</a>,
   * <a href="https://joe.jenett.org/" class="url" rel="noopener noreferrer">https://joe.jenett.org/</a>,
   * <a href="https://photo.jenett.org/" class="url" rel="noopener noreferrer">https://photo.jenett.org/</a>, and
@@ -34,17 +35,13 @@ This page informs you of our policies regarding the collection, use and disclosu
 
 ### Comments
 
-When visitors leave comments on the sites we collect the data shown in the comments form, and also the visitor’s IP address and browser user agent string to help spam detection.
+If applicable, when visitors leave comments on the sites, we collect the data shown in the comments form, and also the visitor’s IP address and browser user agent string to help in spam detection and management.
 
 An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: <a href='https://automattic.com/privacy/' target='_blank' class='url' rel="noopener noreferrer">https://automattic.com/privacy/</a>. After approval of your comment, your profile picture is visible to the public in the context of your comment.
 
-### Media
-
-If you upload images to the websites, you should avoid uploading images with embedded location data (EXIF GPS) included. Visitors to the websites can download and extract any location data from images on the websites.
-
 ### Contact forms
 
-If you use our Contact forms, your name and email address is collected along with your message(s). We consider your message(s) and other information provided to be private and confidential and treat them as such. 
+If you use our Contact forms, your name and email address is collected along with your message(s). We consider your message(s) and other information provided to be private and confidential and treat them as such (unless you specify otherwise). 
 
 ## How your personal data is used
 
@@ -58,7 +55,7 @@ If you leave a comment on our sites, you may opt-in to saving your name, email a
 
 If you visit our login page, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser.
 
-When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select "Remember Me", your login will persist for two weeks. If you log out of your account, the login cookies will be removed.
+If applicable, when you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select "Remember Me", your login will persist for two weeks. If you log out of your account, the login cookies will be removed.
 
 If you edit or publish an article, an additional cookie will be saved in your browser. This cookie includes no personal data and simply indicates the post ID of the article you just edited. It expires after 1 day.
 
