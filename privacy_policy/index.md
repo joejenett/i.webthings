@@ -24,6 +24,7 @@ Joe Jenett a/k/a i.webthings (“us”, “we”, or “our”) operates the web
   * <a href="https://pointers.dailywebthing.com/" class="url" rel="noopener noreferrer">https://pointers.dailywebthing.com/</a>,
   * <a href="https://simply.jenett.org/" class="url" rel="noopener noreferrer">https://simply.jenett.org/</a>,
   * <a href="https://bulltown.2022.jenett.org/" class="url" rel="noopener noreferrer">https://bulltown.2022.jenett.org/</a>,
+  * <a href="https://jenett.org/intersect/" class="url" rel="noopener noreferrer">https://jenett.org/intersect/</a>,
   * <a href="https://wiki.jenett.org/" class="url" rel="noopener noreferrer">https://wiki.jenett.org/</a>,
   * <a href="https://joe.jenett.org/" class="url" rel="noopener noreferrer">https://joe.jenett.org/</a>,
   * <a href="https://photo.jenett.org/" class="url" rel="noopener noreferrer">https://photo.jenett.org/</a>, and
