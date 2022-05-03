@@ -26,9 +26,7 @@ Joe Jenett a/k/a i.webthings (“us”, “we”, or “our”) operates the web
   * <a href="https://bulltown.2022.jenett.org/" class="url" rel="noopener noreferrer">https://bulltown.2022.jenett.org/</a>,
   * <a href="https://jenett.org/intersect/" class="url" rel="noopener noreferrer">https://jenett.org/intersect/</a>,
   * <a href="https://wiki.jenett.org/" class="url" rel="noopener noreferrer">https://wiki.jenett.org/</a>,
-  * <a href="https://joe.jenett.org/" class="url" rel="noopener noreferrer">https://joe.jenett.org/</a>,
-  * <a href="https://photo.jenett.org/" class="url" rel="noopener noreferrer">https://photo.jenett.org/</a>, and
-  * <a href="https://linkscatter.jenett.org/" class="url" rel="noopener noreferrer">https://linkscatter.jenett.org/</a>, (the “Sites”).
+  * <a href="https://joe.jenett.org/" class="url" rel="noopener noreferrer">https://joe.jenett.org/</a> (the “Sites”).
 
 This page informs you of our policies regarding the collection, use and disclosure of Personal Information we receive from users of the Sites. Some policies only apply to sites with certain features.
 
