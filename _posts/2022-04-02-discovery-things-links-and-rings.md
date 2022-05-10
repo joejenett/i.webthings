@@ -146,7 +146,7 @@ function closeWebrings() {
 <li><a title="An IndieWeb Webring 🕸💍" href="https://xn--sr8hvo.ws/directory">An IndieWeb Webring 🕸💍</a></li>
 <li><a title="LOW TECH WEBRING DIRECTORY" href="https://emreed.net/LowTech_Directory.html">LOW TECH WEBRING DIRECTORY</a></li>
 <li><a title="null webring" href="https://nuthead.neocities.org/ring/">null webring</a></li>
-<li><a title="The retronaut webring" href="http://webring.dinhe.net/">The retronaut webring</a> (<a title="The retronaut webring-random" href="http://webring.dinhe.net/random">random</a>)</li>
+<li><a title="The retronaut webring" href="https://webring.dinhe.net/">The retronaut webring</a> (<a title="The retronaut webring-random" href="https://webring.dinhe.net/random">random</a>)</li>
 <li><a title="Weird Wide Webring" href="https://weirdwidewebring.net/">Weird Wide Webring</a></li>
 <li><a title="The Yesterweb Ring" href="https://yesterweb.org/webring/">The Yesterweb Ring</a></li>
 </ul>
