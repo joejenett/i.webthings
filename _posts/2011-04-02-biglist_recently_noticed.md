@@ -45,8 +45,6 @@ All of the &#8220;Recently Noticed&#8221; links posted to [the dailywebthing](ht
   * [Head JS :: The only script in your HEAD](http://headjs.com/)
   * [AeroFS &#8211; File sync without servers](http://www.aerofs.com/)
   * [MathJax - Beautiful math in all browsers](http://www.mathjax.org/)
-  * [Fast Society, private, short-term mobile group chat](http://fastsociety.com/)
-  * [WorkFlowy &#8211; Organize your brain](http://workflowy.com/)
   * [Data Pointed](http://www.datapointed.net/)
   * [Firebird Project](http://www.firebirdsql.org/)
   * [NASA Multimedia](http://www.nasa.gov/multimedia/)
