@@ -4,10 +4,10 @@ title:  my simplification project vs. your bookmarks
 date:   2022-06-16 16:29:49 -0400
 author: joe jenett
 category:
-  -  
+  -  i-webthings
 permalink: /my-simplification–project-vs-your-bookmarks/
 slug: my-simplification–project-vs-your-bookmarks
-summary:
+summary: ch-ch-ch-ch-changes...
 ---
 <h2>the project</h2>
 <p>Last November on the <em>simply.</em> blog, I <a href="https://simply.jenett.org/heres-to-simplicity/" title="here’s to simplicity❗️">mentioned</a> completing the first phase of a simplification project started earlier that year.</p>
