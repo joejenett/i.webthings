@@ -140,6 +140,11 @@ border:none;
 a.post-link, a:hover.post-link, a:visited.post-link {
 color: #222;
 }
+.note {
+font-size:.8em;
+line-height:1.4em;
+margin-top: -9px;
+}
 article, .home {
     border: 1px solid #a3b8cc;
     background-color: var(--hbg-color);
