@@ -141,9 +141,9 @@ a.post-link, a:hover.post-link, a:visited.post-link {
 color: #222;
 }
 .note {
-font-size:.8em;
+font-size:.85em;
 line-height:1.4em;
-margin-top: -9px;
+margin-top: -11px;
 }
 article, .home {
     border: 1px solid #a3b8cc;
