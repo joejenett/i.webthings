@@ -10,7 +10,7 @@ permalink: /a-new-webring-for-the-oldstyle-web/
 slug: a-new-webring-for-the-oldstyle-web
 summary:
 ---
-<p>My friend Brad <a href="https://indieseek.xyz/2022/06/27/i-made-a-new-webring-for-retro-websites-and-others/" title="">“made a Thing!”</a> recently that I”m kinda tickled about:
+<p>My friend Brad <a href="https://indieseek.xyz/2022/06/27/i-made-a-new-webring-for-retro-websites-and-others/" title="">“made a Thing!”</a> And I”m kinda tickled about it:
 </p>
 <p>
 <a href="https://indieseek.xyz/webring/" title="">Retroweb Ring</a>
