@@ -123,7 +123,6 @@ function closeDirectories() {
 <li><a title="Peelopaalu - Directory" href="https://peelopaalu.neocities.org/">Peelopaalu - Directory</a></li>
 <li><a title="Sadgrl Link Directory" href="https://sadgrl.online/links.html">Sadgrl Link Directory</a></li>
 <li><a title="Sadgrl.online - How to Surf the Web" href="https://sadgrl.online/cyberspace/surf-the-web.html">How to Surf the Web</a></li>
-<li><a title="StumblingOn" href="https://stumblingon.com/">StumblingOn</a></li>
 <li><a title="Terra" href="https://terra.finzdani.net/">Terra</a></li>
 <li><a title="Links Archives – Waxy.org" href="https://waxy.org/category/links/">Waxy.org</a></li>
 <li><a title="Yesterlinks" href="https://links.yesterweb.org/">Yesterlinks</a></li>
