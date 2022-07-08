@@ -32,7 +32,6 @@ kind:
   * [Andy Earhole](https://warholcoverart.com/)
   * [Frank McPherson](https://fedwiki.frankmcpherson.net/)
   * [10×18](http://10x18.co/)
-  * [<small>XXIIVV</small>](https://wiki.xxiivv.com/#home)
   * [a visual conversation](http://schmott.co/blog/)
   * [Gabz/mL](https://gabz.me/)
   * [Keywords](https://keywords.oxus.net/)
