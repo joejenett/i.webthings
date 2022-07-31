@@ -33,10 +33,9 @@ theme: minima
 plugins:
   - jekyll-feed
   - kramdown
-#  - jekyll-get-json
-
-
-
+feed:
+  posts_limit: 10
+  #  - jekyll-get-json
 #jekyll-get-json:
 #  - data: wm
 #    json: 'https://jenett.org/wm.json'
@@ -47,6 +46,20 @@ markdown: kramdown
 show_excerpts: true
 
 excerpt_separator: <!-- excerpt-end -->
+
+defaults:
+ - 
+    scope:
+      path: ""
+    values:
+      title: ""
+  
+# Disqus Comments
+disqus:
+    # Leave shortname blank to disable comments site-wide.
+    # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
+    shortname: iwebthings.jenett.org
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.

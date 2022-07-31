@@ -7,7 +7,8 @@ category:
   -  web
 permalink: /color-me-inspired-thank-you/
 slug: color-me-inspired-thank-you
-summary:
+summary: 
+comments: true
 ---
 <blockquote class="quoteback" data-title="Intro to the Web Revival #1: What is the Web Revival?" data-author="//Melon" data-avatar="https://melonking.net/images/home.png" cite="https://thoughts.melonking.net/guides/introduction-to-the-web-revival-1-what-is-the-web-revival">
 	<p style="font-weight:600;font-size:1.1em;">
@@ -24,7 +25,7 @@ summary:
 	</footer>
 </blockquote>
 
-<p style="font-wight:600;font-style:italic;font-size:1.2em;margin-top:12px;">
+<p style="font-weight:600;font-style:italic;font-size:1.2em;margin-top:12px;">
 Yes!
 </p>
 
