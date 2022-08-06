@@ -4,7 +4,7 @@ title:  color me inspired thank you
 date:   2022-06-02 07:34:54 -0400
 author: joe jenett
 category:
-  -  web
+  - web
 permalink: /color-me-inspired-thank-you/
 slug: color-me-inspired-thank-you
 summary: 
@@ -15,7 +15,7 @@ comments:
 	How to surf the web!
 	</p>
 	<p>
-	Surfing the web is about going on an adventure, it's about clicking links and seeing where they go. You wont find web revival sites on typical search engines, you wont find them on social media sites and there is no algorithm that will pick them out for you. To surf the web revival, you start on one site, you find links and you follow the trail; be brave, explore, keep going, keep going!	
+	Surfing the web is about going on an adventure, it's about clicking links and seeing where they go. You wont find web revival sites on typical search engines, you wont find them on social media sites and there is no algorithm that will pick them out for you. To surf the web revival, you start on one site, you find links and you follow the trail; be brave, explore, keep going, keep going!
 	</p>
 	<footer>
 		// 
