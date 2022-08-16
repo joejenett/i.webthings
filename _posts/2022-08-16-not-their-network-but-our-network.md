@@ -22,7 +22,7 @@ comments: true
 		</cite>
 	</footer>
 </blockquote>
-<p style="margin-top:12px;">Amen! <small style="margin-left:9px;">[<a href="https://pinboard.in/u:ftofani">ftofani</a>]</small></p>
+<p style="margin-top:12px;">Amen! <small style="margin-left:9px;">[via <a href="https://pinboard.in/u:ftofani">ftofani</a>]</small></p>
 
 <a href="https://brid.gy/publish/twitter"></a>
 <data class="p-bridgy-omit-link" value="false"></data>
