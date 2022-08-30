@@ -68,6 +68,13 @@ article.post.h-entry div.post-content.e-content h2#comments-title,
   font-size:.9em;
   font-style:italic;	
   }
+  
+div.cactus-comment-avatar-placeholder {
+	display:none;
+}
+div.cactus-comment-avatar img {
+	max-width:none;
+}
 .syndy {
 font-size:.8em;
 font-style: italic;
