@@ -70,8 +70,12 @@ article.post.h-entry div.post-content.e-content h2#comments-title,
   }
   
 div.cactus-comment-avatar-placeholder {
-	display:none;
+	background-color:#faffff;
 }
+div.cactus-comment-avatar-placeholder::before {
+	content:"";
+}
+
 div.cactus-comment-avatar img {
 	max-width:none;
 }
