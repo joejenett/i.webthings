@@ -114,7 +114,6 @@ function closeDirectories() {
 <li><a title="HrefHunt!" href="https://www.kickscondor.com/hrefhunt/">HrefHunt!</a></li>
 <li><a title="Hyperlink Node Directory" href="https://nodes.indieseek.xyz/">Hyperlink Node Directory</a></li>
 <li><a title="Indieseek.xyz Directory" href="https://indieseek.xyz/links/">Indieseek.xyz Directory</a></li>
-<li><a title="Jamie | Blogroll & Links" href="https://jamieadams.click/blogroll/">Jamie | Blogroll & Links</a></li>
 <li><a title="Blogroll - jlelse’s Blog" href="https://jlelse.blog/blogroll">Blogroll - jlelse’s Blog</a></li>
 <li><a title="Marginalia Search" href="https://search.marginalia.nu/">Marginalia Search</a> (<a title="Marginalia Search - browse:random" href="https://search.marginalia.nu/explore/random">browse:random</a>)</li>
 <li><a title="(Marijn’s Linkroll) | The Satyrs’ Forest 🍇" href="https://marijn.uk/linkroll/">Linkroll | The Satyrs’ Forest 🍇</a></li>
