@@ -16,15 +16,15 @@ comments: true
 <div style="position-relative;float:right;margin-left:24px;padding:6px 6px 0 6px;border:1px solid #dedede">
 <figure>
 <figcaption style="font-size:.75em;">original</figcaption>
-<img src="/images/mbjoe-old.jpg" style="width:120px;margin-right:6px;" alt="" />
+<img src="/images/mbjoe-old.jpg" width="120" style="width:120px;margin-right:6px;" alt="" />
 </figure>
 <figure>
 <figcaption style="font-size:.75em;">default prompt</figcaption>
-<img src="/images/mbjoe2.jpg" style="width:120px;margin-right:6px;" alt="" />
+<img src="/images/mbjoe2.jpg" width="120" style="width:120px;margin-right:6px;" alt="" />
 </figure>
 <figure>
 <figcaption style="font-size:.75em;">modified prompt</figcaption>
-<a href="https://bulltown.2022.jenett.org/images/show/?image=mbjoe"><img src="/images/mbjoe.jpg" style="width:120px;" alt="" /></a>
+<a href="https://bulltown.2022.jenett.org/images/show/?image=mbjoe"><img src="/images/mbjoe.jpg" width="120" style="width:120px;" alt="" /></a>
 </figure>
 </div>
 <p>I recently found and <a href="https://the.dailywebthing.com/a-vibrant-ai-colorizer-app/">shared</a> something that seemed kinda magical to me. It’s helped me directly with something I’ve been working on, so I just gotta share it with you here:</p>
