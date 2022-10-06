@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "attn: fellow human curators"
+date:   2022-10-06 15:33:58 -0400
+author: joe jenett
+category:
+  -  i-webthings
+  -  linking
+permalink:  /attn-fellow-human-curators/
+slug:  attn-fellow-human-curators
+summary: explore the web, silly!
+comments: true
+---
+<p>So. You've got a directory (wink wink) or a blogroll (nudge nudge)! What do we have in common?</p>
+<p style="font-size:1.45em;font-weight:700;">we.Link.</p>
+Being curious as you are, go play with the button over there on the sidebar. Are you thinking what I’m thinking? If you decide you’d like to be part of this experiment, do let me know. A network is in order.  You know who you are - let’s make some noise! (And please tell your friends.) 😎
+
+<a href="https://brid.gy/publish/twitter"></a>
+<data class="p-bridgy-omit-link" value="false"></data>
