@@ -158,6 +158,8 @@ function closeWebrings() {
 <p>Feedback is always welcome.</p>
 <p>Kudos to <a href="https://garlic.garden/onionring/" title="thanks joey!">onionring</a> for the clean, low-overhead script they’ve made available to the community.</p>
 <p>Have fun out there!</p>
+<p style="font-weight:600;">Update 10/09/22: The <em>i.w linkring</em> and <em>we.Link</em> projects have been discontinued.</p>
+
 <div style="padding:9px;border:1px solid #ccc;">
 <h4>Previous Comments:</h4>
 <p style="font-size:.8em;"><a href="https://github.com/ScootRay" title=""><img src="https://avatars.githubusercontent.com/u/12983100?v=4?v=3&s=88" alt="" width="44" /> Scoot Ray</a> commented on <a href="https://github.com/joejenett/i.webthings/issues/5#issuecomment-1096041218" title="">Apr 12, 2022</a>
