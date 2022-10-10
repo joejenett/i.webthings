@@ -13,7 +13,7 @@ comments: true
 ---
 <p>So. You've got a directory (wink wink) or a blogroll (nudge nudge)! What do we have in common?</p>
 <p style="font-size:1.45em;font-weight:700;">we.Link.</p>
-<p>Being curious as you are, go play with the button over there on the sidebar. Are you thinking what I’m thinking? If you decide you’d like to be part of this experiment, do let me know. A network is in order.  You know who you are - let’s make some noise! (And please tell your friends.) 😎</p>
+<p style="text-decoration:line-through;">Being curious as you are, go play with the button over there on the sidebar. Are you thinking what I’m thinking? If you decide you’d like to be part of this experiment, do let me know. A network is in order.  You know who you are - let’s make some noise! (And please tell your friends.) 😎</p>
 <p style="font-weight:600;">Update 10/09/22: The <em>i.w linkring</em> and <em>we.Link</em> projects have been discontinued.</p>
 
 <a href="https://brid.gy/publish/twitter"></a>
