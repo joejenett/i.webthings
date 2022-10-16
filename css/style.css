@@ -233,6 +233,12 @@ top: -64px;
 	margin-left: auto;
     padding: 0;
 }
+.rss-subscribe {
+border-top:1px dashed #ccc;
+border-bottom:1px dashed #ccc;
+text-align:center;
+font-size:.9em;
+}
 .onef {
 width:66%;	
 }
