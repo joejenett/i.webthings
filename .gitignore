@@ -35,3 +35,10 @@ wp-content/.DS_Store
 .obsidian/themes/Typewriter.css
 wp-content/.DS_Store
 .obsidian/workspace.json
+.obsidian/plugins/obsidian-minimal-settings/data.json
+.obsidian/plugins/obsidian-minimal-settings/main.js
+.obsidian/plugins/obsidian-minimal-settings/manifest.json
+.obsidian/plugins/obsidian-minimal-settings/styles.css
+.obsidian/themes/Minimal/manifest.json
+.obsidian/themes/Minimal/theme.css
+wp-content/.DS_Store
