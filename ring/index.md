@@ -16,12 +16,4 @@ mf2_syndication:
 ---
 6/2/2020
 
-Thanks to the following blogs for having participated in the _personal web explorer_ project (discontinued as of 06/24/20):
-<ul>
-<li>
-  <a href="https://andrewcanion.com/">About Andrew Canion</a><br />My home on the internet that provides pointers to the range of varied things I do, from blogging to podcasting, to working.
-</li>
-<li style="margin-top:12px;">
-  <a href="https://gabz.me/">Gabz/ml</a><br />Microblogging about just the things that interest me, share my pictures, whatever it’s on my mind but mainly for my enjoyment.
-</li>
-</ul>
+The _personal web explorer_ project was discontinued as of 06/24/20.
