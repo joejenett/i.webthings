@@ -157,7 +157,7 @@ function closeWebrings() {
 <p>Feedback is always welcome.</p>
 <p>Kudos to <a href="https://garlic.garden/onionring/" title="thanks joey!">onionring</a> for the clean, low-overhead script they’ve made available to the community.</p>
 <p>Have fun out there!</p>
-<p style="font-weight:500;font-size:.9em;">Update 10/09/22: The <em>i.w linkring</em> project has been discontinued for now.</p>
+<p style="font-weight:500;font-size:.9em;text-decoration:line-through;">Update 10/09/22: The <em>i.w linkring</em> project has been discontinued for now.</p>
 
 <div style="padding:9px;border:1px solid #ccc;">
 <h4>Previous Comments:</h4>
