@@ -1,6 +1,6 @@
 ---
 layout: page
-title: we.Link Network
+title: we.Link network
 date: 2022-11-09 16:34:23 -0400
 author: joe jenett
 ---
