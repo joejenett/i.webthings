@@ -43,8 +43,8 @@ function randomSite() {
 
 	tag.insertAdjacentHTML('afterbegin', `
 	<div id='welink' style='text-align:center;border:1px solid #014678;width:56px;'>
-	<a href="#" title="random member" onclick="randomSite()"><img src="welink.png" width="56" alt="" /></a><br />
-	<a href='${indexPage}' title="homepage"><img src="index.png" width="56" alt="" /></a>
+	<a href="#" title="random member" onclick="randomSite()"><img src="https://iwebthings.jenett.org//we.Link/welink.png" width="56" alt="" /></a><br />
+	<a href='${indexPage}' title="homepage"><img src="https://iwebthings.jenett.org//we.Link/index.png" width="56" alt="" /></a>
 	</div>  
 	`);
 
