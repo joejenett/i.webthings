@@ -12,7 +12,7 @@ summary:
 comments: true
 ---
 <p>Last month when I wrote about <em>we.Link</em>, my tongue-in-cheek approach though fun for me failed miserably in telling you anything about the project. So please allow me another shot.</p> 
-<p>You may have noticed a new version of the <em>we.Link</em> widget is back on the sidebar. It now uses lean and light javascript, based on <a href="https://garlic.garden/onionring/">onionring.js</a> - thanks <a href="https://allium.house/">joey + mord</a>!</p>
+<p>You may have noticed a new version of the <em>we.Link</em> widget is back on the sidebar. It now uses lightweight javascript, based on <a href="https://garlic.garden/onionring/">onionring.js</a> - thanks <a href="https://allium.house/">joey + mord</a>!</p>
 <h2>here’s the deal</h2>
 <p>Right now, I’m testing <em>we.Link</em> using only some of my own sites, 4 including this site (the ‘hub’). It would be boring to leave it at that. My little <em>linkring</em> widget over there already provides the same functionality with it’s ‘random’ link. At the moment, the only real difference between the two widgets is that <em>we.Link</em> is limited to directory-like sites. And that’s the point.</p>
 <p>Clicking on ‘we.Link network’ sends you to a random member site (other than the one you’re on) and ‘about’ sends you to the network’s home page. It’s a compact, minimal, and easy-to-add widget.</p>
