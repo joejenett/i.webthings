@@ -16,7 +16,7 @@ comments: true
 <h2>here’s the deal</h2>
 <p>Right now, I’m testing <em>we.Link</em> using only some of my own sites, 4 including this site (the ‘hub’). It would be boring to leave it at that. My little <em>linkring</em> widget over there already provides the same functionality with it’s ‘random’ link. At the moment, the only difference between the two widgets, besides navigation choices, is that <em>we.Link</em> is limited to directory-like sites. And that’s the point.</p>
 <p>Clicking on ‘we.Link’ sends you to a random member site (other than the one you’re on). It’s a compact, minimal, and easy-to-add widget.</p>
-<p>If you have a directory, blogroll or some other <em>linking</em> site, I might want to invite you to join my little network. I know of several readers with sites I’d love to include. I don’t do heavy promotion - never have. But if you‘re one of the readers I’m thinking of and you’re willing to add a few lines of code to your site, please <a href="https://jenett.org/contact/">let me know</a> ('cause you know you’re invited). Our sites’ visitors might thank us for it. </p>
+<p>If you have a directory, blogroll or some other <em>linking</em> site, I might want to invite you to join my little network. I know of several readers with sites I’d love to include. If you have a directory-like site and you’re willing to add a few lines of code to your site, please <a href="https://jenett.org/contact/">let me know</a>. </p>
 <p>Cheers!</p>
 	
 <a href="https://brid.gy/publish/twitter"></a>
