@@ -20,7 +20,7 @@ var ringName = 'welink';
 var ringID = 'welink';
 
 //should the widget include a link to an index page?
-var useIndex = true;
+var useIndex = false;
 //the full URL of the index page. if you're not using one, you don't have to specify anything here
 var indexPage = 'https://iwebthings.jenett.org/please-allow-me-to-try-again-fellow-linkers/';
 
