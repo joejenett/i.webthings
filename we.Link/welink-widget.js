@@ -45,7 +45,6 @@ function randomSite() {
 	<div id='welink' style="display:flex;justify-content:center;line-height: 0;">
 	<div style='border:1px solid #014678;width:56px;'>
 	<a href="#" title="random member" onclick="randomSite()"><img src="https://iwebthings.jenett.org//we.Link/welink-min.png" width="56" height="18" alt="" /></a><br />
-	<a href='${indexPage}' title="homepage"><img src="https://iwebthings.jenett.org//we.Link/index.png" width="56" alt="" /></a>
 	</div>
 	</div>
 	`);
