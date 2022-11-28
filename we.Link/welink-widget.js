@@ -43,7 +43,7 @@ function randomSite() {
 
 	tag.insertAdjacentHTML('afterbegin', `
 	<div id='welink' style="display:flex;justify-content:center;line-height: 0;">
-	<div style='border:1px solid #0098a6;width:56px;'>
+	<div style=''>
 	<button style="background:#51d8ff;color:#fff;font-weight:900;letter-spacing:-.04em;" onclick="randomSite()">we.Link</button><br />
 	</div>
 	</div>
