@@ -13,6 +13,9 @@ body {
 /*background-color: #fafaf0;*/
   background-color: #f8f8fa;
 }
+.p-spot {
+	margin-bottom:18px;
+}
 a, div.post-list a {
 color: #286c80;
 text-decoration: none;
