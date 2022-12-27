@@ -42,3 +42,4 @@ wp-content/.DS_Store
 .obsidian/themes/Minimal/manifest.json
 .obsidian/themes/Minimal/theme.css
 wp-content/.DS_Store
+.obsidian/core-plugins-migration.json
