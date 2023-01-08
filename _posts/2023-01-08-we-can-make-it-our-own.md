@@ -11,10 +11,6 @@ slug: we-can-make-it-our-own
 summary: 
 comments: true
 ---
-Liked <a title="Blogging is kinda social" href="https://werd.io/2023/blogging-is-kinda-social" class="u-like-of">Blogging is kinda social</a><br>[via <a title="rosiesherry" href="https://pinboard.in/u:rosiesherry">rosiesherry</a>]
-
-
-
-
+Liked: <a title="Blogging is kinda social" href="https://werd.io/2023/blogging-is-kinda-social">Blogging is kinda social</a><br>[via <a title="rosiesherry" href="https://pinboard.in/u:rosiesherry">rosiesherry</a>]
 
 <a href="https://brid.gy/publish/mastodon"></a>
