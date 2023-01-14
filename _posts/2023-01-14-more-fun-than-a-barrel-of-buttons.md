@@ -6,7 +6,7 @@ author: joe jenett
 category:
   -  bulltown
   -  fun
-permalink: / more-fun-than-a-barrel-of-buttons/
+permalink: /more-fun-than-a-barrel-of-buttons/
 slug:  more-fun-than-a-barrel-of-buttons
 summary: 
 comments: true
