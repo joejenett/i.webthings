@@ -27,4 +27,4 @@ background-size: cover;
 -webkit-text-fill-color: transparent;
 }</pre>
 
-Related: [-webkit-text-fill-color &#8211; MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/-webkit-text-fill-color "-webkit-text-fill-color - MDN (ads)")  
+Related: [-webkit-text-fill-color &#8211; MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/-webkit-text-fill-color "-webkit-text-fill-color - MDN ")  (ads)
