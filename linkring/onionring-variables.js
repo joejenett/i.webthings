@@ -8,13 +8,13 @@
 //the full URLs of all the sites in the ring
 var sites = [
 'https://joejenett.github.io/i.webthings/',
-'https://directory.jenett.org/',
+'https://directory.joejenett.com/',
 'https://the.dailywebthing.com/',
 'https://pointers.dailywebthing.com/',
-'https://simply.jenett.org/',
-'https://bulltown.2022.jenett.org/',
-'https://jenett.org/',
-'https://wiki.jenett.org/'
+'https://simply.joejenett.com/',
+'https://bulltown.2022.joejenett.com/',
+'https://joejenett.com/',
+'https://wiki.joejenett.com/'
 ];
 
 //the name of the ring
